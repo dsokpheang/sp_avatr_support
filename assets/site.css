@@ -1,0 +1,119 @@
+/* SP Avatr support site — one stylesheet, no build step, no external assets.
+   Palette mirrors the apps (BG #070C10, teal #16C2C8). Dark is the brand look,
+   so it is the default; a light palette is defined for readers whose OS asks
+   for one. Every colour is a token — none is defined only inside a media query. */
+:root {
+  --bg: #070C10;
+  --surface: #0D151A;
+  --surface-2: #091014;
+  --border: #1C2A31;
+  --fg: #F4F8F8;
+  --muted: #8A989E;
+  --teal: #16C2C8;
+  --teal-dim: #0A4C52;
+  --good: #35D486;
+  --shadow: 0 1px 0 rgba(255,255,255,.03), 0 12px 32px rgba(0,0,0,.45);
+}
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #F4F7F8;
+    --surface: #FFFFFF;
+    --surface-2: #ECF1F2;
+    --border: #D6E0E3;
+    --fg: #0B1417;
+    --muted: #5A6B72;
+    --teal: #067279;
+    --teal-dim: #C9EDEF;
+    --good: #12864F;
+    --shadow: 0 1px 2px rgba(11,20,23,.05), 0 10px 28px rgba(11,20,23,.08);
+  }
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font: 16px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+        Helvetica, Arial, sans-serif;
+  padding: 0 20px 72px;
+}
+.wrap { max-width: 760px; margin: 0 auto; }
+
+header.site {
+  display: flex; align-items: center; gap: 12px;
+  padding: 28px 0 22px; border-bottom: 1px solid var(--border); margin-bottom: 34px;
+}
+.mark {
+  width: 38px; height: 38px; flex: 0 0 38px; border-radius: 10px;
+  background: linear-gradient(150deg, var(--teal), var(--teal-dim));
+  display: grid; place-items: center;
+  color: #04191B; font-weight: 800; font-size: 13px; letter-spacing: .5px;
+}
+.site h1 { font-size: 17px; margin: 0; letter-spacing: .2px; }
+.site .sub { color: var(--muted); font-size: 13px; margin: 2px 0 0; }
+.site nav { margin-left: auto; display: flex; gap: 18px; font-size: 14px; flex-wrap: wrap; }
+
+h2 {
+  font-size: 20px; margin: 40px 0 12px; letter-spacing: .2px;
+  padding-top: 4px;
+}
+h2:first-of-type { margin-top: 0; }
+h3 { font-size: 15px; margin: 26px 0 6px; }
+p { margin: 0 0 14px; }
+a { color: var(--teal); text-decoration: none; }
+a:hover { text-decoration: underline; }
+strong { color: var(--fg); }
+code {
+  font: 13px/1.5 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  background: var(--surface-2); border: 1px solid var(--border);
+  border-radius: 5px; padding: 1px 5px;
+}
+ul { margin: 0 0 14px; padding-left: 22px; }
+li { margin: 0 0 7px; }
+
+.lede { font-size: 18px; color: var(--fg); margin-bottom: 26px; }
+.muted { color: var(--muted); }
+
+.card {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: 12px; padding: 18px 20px; margin: 0 0 14px;
+  box-shadow: var(--shadow);
+}
+.card h3 { margin-top: 0; }
+.card p:last-child, .card ul:last-child { margin-bottom: 0; }
+
+.q { font-weight: 600; color: var(--fg); margin: 0 0 8px; }
+
+.pill {
+  display: inline-block; font-size: 12px; letter-spacing: .4px;
+  text-transform: uppercase; color: var(--teal);
+  border: 1px solid var(--border); background: var(--surface-2);
+  border-radius: 999px; padding: 3px 10px; margin-bottom: 14px;
+}
+
+.grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
+
+table { width: 100%; border-collapse: collapse; margin: 0 0 16px; font-size: 15px; }
+th, td { text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--border); }
+th { color: var(--muted); font-weight: 600; font-size: 13px; }
+.scroll { overflow-x: auto; }
+
+.note {
+  border-left: 3px solid var(--teal); background: var(--surface-2);
+  padding: 12px 16px; border-radius: 0 8px 8px 0; margin: 0 0 16px;
+}
+.note p:last-child { margin-bottom: 0; }
+
+footer.site {
+  margin-top: 52px; padding-top: 20px; border-top: 1px solid var(--border);
+  color: var(--muted); font-size: 13px;
+}
+footer.site a { color: var(--muted); text-decoration: underline; }
+footer.site a:hover { color: var(--teal); }
+
+@media (max-width: 560px) {
+  header.site { flex-wrap: wrap; }
+  .site nav { margin-left: 0; width: 100%; }
+}

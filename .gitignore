@@ -1,0 +1,38 @@
+# sp_avatr_support — the PUBLIC face of the SP Avatr toolkit.
+#
+# Deliberately short. This repo is a static site plus a folder of release
+# binaries, so the usual "ignore build output" rules would be actively wrong:
+# sp_suites/*.apk and sp_suites/sp-broker.jar ARE the product here, they are
+# written by tools/release/publish_support_site.py in the private toolkit repo,
+# and a rule that skipped them would make every publish silently push nothing.
+# Do not add *.apk, *.jar, or dist/ below.
+
+# macOS / editor litter — the only things that ever appear here uninvited.
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# Jekyll is switched off by .nojekyll (tracked), but if anyone ever runs it
+# locally these are its output, not ours.
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# ---------------------------------------------------------------------------
+# GUARD RULES — these match nothing today, and exist so that a mistake cannot
+# become a public commit. Every credential in the private toolkit repo is
+# committed there ON PURPOSE, which is exactly why none of it may land here.
+# ---------------------------------------------------------------------------
+*.pem
+*.p12
+*.pfx
+*.keystore
+*.jks
+tester-*.pem
+*.env

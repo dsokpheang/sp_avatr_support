@@ -1,0 +1,67 @@
+{
+  "schema": 1,
+  "generated": "2026-08-27T19:30:32Z",
+  "apps": [
+    {
+      "package": "com.sp.avatrkit",
+      "label": "SP Avatr Kit",
+      "versionName": "1.0.0",
+      "versionCode": 1,
+      "file": "sp.avatr.kit.v1.0.0.1.apk",
+      "size": 5040297,
+      "sha256": "5adcb9eb5de47b02d653cf51393b0a119ea490cac61235050874cae8eaea4c33"
+    },
+    {
+      "package": "com.sp.cast",
+      "label": "SP Cast",
+      "versionName": "1.0.0",
+      "versionCode": 1,
+      "file": "sp.cast.v1.0.0.1.apk",
+      "size": 325103,
+      "sha256": "58c240895826b99a2057cc391fc4641c4cfa28d539c563f8993a69a6533318a3"
+    },
+    {
+      "package": "com.sp.installerbroker",
+      "label": "SP Installer",
+      "versionName": "1.0.0",
+      "versionCode": 1,
+      "file": "sp.installer.broker.v1.0.0.1.apk",
+      "size": 341487,
+      "sha256": "62d019e788dcb355ab76ab7c8f8e4230f635971dd883f9214b932de6113ea207"
+    },
+    {
+      "package": "com.sp.map",
+      "label": "SP Map",
+      "versionName": "1.0.0",
+      "versionCode": 1,
+      "file": "sp.map.v1.0.0.1.apk",
+      "size": 628542,
+      "sha256": "638081b9ca297968aade955d739e10469e807050bc1f04d17cb536201776d7aa"
+    },
+    {
+      "package": "com.sp.splitscreen",
+      "label": "SP Split Screen",
+      "versionName": "1.0.0",
+      "versionCode": 1,
+      "file": "sp.split.screen.v1.0.0.1.apk",
+      "size": 304623,
+      "sha256": "ef3ff4e3afe9bc1ac24df6b006fb3d8767387577678cadb3041eebd87722f1fe"
+    },
+    {
+      "package": "com.sp.store",
+      "label": "SP Store",
+      "versionName": "1.0.0",
+      "versionCode": 1,
+      "file": "sp.store.v1.0.0.1.apk",
+      "size": 386609,
+      "sha256": "3e0f572255cf40a8a2905e2e9bba526005dd5cd2d89ca3641761874e4667142f"
+    }
+  ],
+  "broker": {
+    "version": "1.0.0",
+    "build": 1,
+    "file": "sp-broker.jar",
+    "size": 62178,
+    "sha256": "b8925bebf3f24a310d9f46859abbd8e999c74afca342352cd448dd13550a719b"
+  }
+}

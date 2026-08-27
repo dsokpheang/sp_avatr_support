@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SP Avatr — Support</title>
+<meta name="description" content="Support for SP Avatr: finding the head unit, restarting the service, upgrading, and what to do when a connection is refused.">
+<link rel="stylesheet" href="../assets/site.css">
+</head>
+<body>
+<div class="wrap">
+
+<header class="site">
+  <div class="mark">SP</div>
+  <div>
+    <h1>SP Avatr</h1>
+    <p class="sub">Support</p>
+  </div>
+  <nav>
+    <a href="../">Home</a>
+    <a href="privacy.html">Privacy</a>
+    <a href="../LICENSE">License</a>
+  </nav>
+</header>
+
+<p class="lede">
+  Almost everything that goes wrong is one of five things. They are below, in the
+  order people hit them.
+</p>
+
+<h2>Getting started</h2>
+<div class="card">
+  <p><strong>What the app does.</strong> Your car's head unit runs a small companion
+     service. The on-screen tools &mdash; the sidebar, the map strip, the battery
+     card, the app store &mdash; all talk to it. When that service stops, they stop
+     with it. SP Avatr starts it again.</p>
+  <p>The service does not survive a power cycle on every car. If the tools were
+     working yesterday and are blank today, that is what happened, and one button
+     fixes it.</p>
+</div>
+
+<h2>Common problems</h2>
+
+<div class="card">
+  <p class="q">The app can't find the car</p>
+  <p>The phone and the head unit have to be on the <strong>same Wi-Fi network</strong>.
+     Either works: the car providing the network, or the car joined to your phone's
+     hotspot. Check both ends are actually on it &mdash; a phone that silently fell
+     back to mobile data is the usual cause.</p>
+  <p>If they are on the same network and discovery still finds nothing, the head
+     unit's wireless debugging is switched off. Turn it on from the car, or use
+     <strong>SP Service Starter</strong> on a laptop once &mdash; that turns it back
+     on over the cable, and the phone can take over afterwards.</p>
+</div>
+
+<div class="card">
+  <p class="q">It found the car yesterday, not today</p>
+  <p>The head unit turns wireless debugging <strong>off again at every reboot</strong>.
+     That is the car's behaviour, not a fault in the app, and there is no setting
+     that makes it stick.</p>
+  <p>After a reboot, connect once with SP Service Starter and a cable. From then on
+     the phone works again until the next power cycle.</p>
+</div>
+
+<div class="card">
+  <p class="q">The car refuses the connection</p>
+  <p>The first time a phone or laptop connects, the head unit asks whether to trust
+     it. <strong>The prompt appears on the car's screen, not on the phone.</strong>
+     If nobody taps <em>Allow</em> &mdash; or the screen was asleep &mdash; the
+     connection is refused and the app just reports that it could not reach the car.</p>
+  <p>Wake the centre screen, try again, and watch the car while you do. Tick
+     <em>always allow from this device</em> so it is not asked again.</p>
+</div>
+
+<div class="card">
+  <p class="q">The service starts, then stops a minute later</p>
+  <p>Something else restarted the car's debug bridge underneath it. Start the
+     service <strong>once more</strong> and leave it &mdash; the second start holds.</p>
+  <p>If it keeps happening, restart the head unit (hold the power button until the
+     screen goes black), wait for it to come all the way back, then start the
+     service once.</p>
+</div>
+
+<div class="card">
+  <p class="q">What does UPGRADE do?</p>
+  <p>It replaces the service on the car with the newest published build, then
+     restarts it. The file is checked against a published fingerprint before it is
+     installed, and the old one is kept &mdash; if the new build does not answer, the
+     car puts the previous one back on its own.</p>
+  <p>You only see the button when the car is actually behind. Nothing is downloaded
+     to your phone permanently.</p>
+</div>
+
+<h2>Good to know</h2>
+<ul>
+  <li>There is <strong>no account</strong> and nothing to sign in to.</li>
+  <li>The apps talk to your car and to the public release folder on this site.
+      Nothing else.</li>
+  <li>Deleting an app removes everything it stored, including its key.</li>
+  <li>Do not operate any of this while the vehicle is moving.</li>
+</ul>
+
+<h2>Still stuck?</h2>
+<p>
+  Write with the car model, what you pressed, and what the app said. A photo of the
+  screen is worth more than a description.
+</p>
+<div class="scroll">
+<table>
+  <tr><th>Email</th><td><a href="mailto:dsokpheang@gmail.com">dsokpheang@gmail.com</a></td></tr>
+  <tr><th>Phone</th><td>+855 16 466 669</td></tr>
+</table>
+</div>
+
+<footer class="site">
+  <p>
+    &copy; 2026 Sokpheang Duong. All rights reserved. &middot;
+    <a href="../LICENSE">License</a> &middot;
+    <a href="privacy.html">Privacy</a>
+  </p>
+  <p>
+    Independent software. Not produced, endorsed or supported by Avatr, Changan,
+    Huawei, or any vehicle manufacturer. All trademarks belong to their owners.
+  </p>
+</footer>
+
+</div>
+</body>
+</html>

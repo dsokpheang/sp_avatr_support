@@ -1,0 +1,108 @@
+SP AVATR SOFTWARE LICENCE AGREEMENT
+Version 1.0.0 — 2026
+
+Copyright (c) 2026 Sokpheang Duong. All rights reserved.
+
+This licence covers the SP Avatr software: SP IVI Studio, SP Service Starter,
+SP Avatr (iOS), SP Avatr Kit, SP Store, SP Cast, SP Map, SP Split Screen,
+SP Installer, SP OTA Engine, the SP Broker, and every accompanying script,
+document and data file (together, the "Software").
+
+The Software is proprietary. It is licensed to you, not sold, and no ownership
+passes to you. Nothing here is open source.
+
+
+1. WHAT YOU MAY DO
+
+Subject to every term below, you are granted a personal, non-exclusive,
+non-transferable, revocable licence to:
+
+  a. download and run the Software on vehicles you own, or that you are
+     authorised in writing by the owner to service; and
+  b. keep one backup copy of each downloaded artifact for your own use.
+
+That is the whole of the grant. Any use not stated here is reserved.
+
+
+2. WHAT YOU MAY NOT DO
+
+You may not:
+
+  a. sell, rent, lease, sublicense, publish, mirror, or otherwise distribute
+     the Software or any part of it to anyone;
+  b. modify, adapt, translate, or create derivative works from the Software;
+  c. reverse engineer, decompile, disassemble, or attempt to derive the source
+     code of the Software, except to the exact extent that applicable law
+     grants you a right that cannot be waived by contract;
+  d. remove, obscure, or alter any copyright notice, version string, footer,
+     signature, or attribution the Software displays or carries;
+  e. use the Software to provide a commercial vehicle-unlocking, flashing, or
+     modification service to third parties without a separate written
+     agreement with the copyright holder; or
+  f. use the Software on a vehicle you neither own nor are authorised to
+     service.
+
+
+3. UPDATES AND THE SUPPORT SITE
+
+The Software may download signed artifacts from the public support site. Each
+download is verified against a published SHA-256 before it is installed. Those
+artifacts are part of the Software and are covered by this licence. The
+copyright holder may change, withdraw, or discontinue the support site at any
+time without notice.
+
+
+4. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+
+5. ASSUMPTION OF RISK
+
+The Software modifies the software state of a motor vehicle's cockpit head
+unit. Doing so may void your vehicle warranty, may cause loss of infotainment,
+navigation, or connectivity function, and may in some jurisdictions affect the
+vehicle's road-legal or type-approval status. You use the Software entirely at
+your own risk, and you are solely responsible for confirming that your use is
+lawful where you are.
+
+The Software is not a driving aid. Do not operate it while the vehicle is in
+motion.
+
+
+6. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE COPYRIGHT HOLDER
+BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES — INCLUDING DAMAGE TO A VEHICLE OR ITS ELECTRONICS, LOSS
+OF USE, LOSS OF DATA, OR LOST PROFITS — ARISING IN ANY WAY OUT OF THE USE OF OR
+INABILITY TO USE THE SOFTWARE, WHETHER IN CONTRACT, TORT, OR OTHERWISE, EVEN IF
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+7. TRADEMARKS
+
+"Avatr", "Deepal", "Huawei", "HarmonyOS", and "Android" are the trademarks of
+their respective owners. This Software is an independent work. It is not
+produced, endorsed, sponsored, or supported by any vehicle manufacturer or by
+any of those trademark holders, and no affiliation is claimed.
+
+
+8. TERMINATION
+
+This licence ends automatically, without notice, if you breach any term of it.
+On termination you must stop using the Software and destroy every copy you
+hold. Sections 4 through 7 and 9 survive termination.
+
+
+9. GENERAL
+
+This is the entire agreement between you and the copyright holder concerning
+the Software, and it supersedes any earlier understanding. If any provision is
+held unenforceable, the remainder stays in force. Failure to enforce a term is
+not a waiver of it.
+
+
+Contact: Sokpheang Duong · +(855) 16 466 669
