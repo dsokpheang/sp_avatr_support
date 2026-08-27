@@ -16,9 +16,38 @@ Served by GitHub Pages at **https://dsokpheang.github.io/sp_avatr_support/**.
 | `index.html` | Landing page — what the software is, and where everything else is |
 | `support/index.html` | Support page. **Support URL** for the App Store listing |
 | `support/privacy.html` | Privacy policy. **Privacy Policy URL** for the App Store listing |
+| `assets/site.css` | The whole site's styling. One file, no build step, no webfonts, no external requests |
+| `assets/icon-*.png` | The app mark, downscaled from the iOS app icon (see below) |
 | `sp_suites/` | The published release folder: every app's APK, `sp-broker.jar`, and `index.json` |
 | `LICENSE` | The licence the software ships under. Copied from the toolkit repo — do not edit here |
 | `.nojekyll` | Stops Pages from reinterpreting `sp_suites/`. **Load-bearing** — without it filenames with dots can 404 |
+
+## The look
+
+Deliberately plain: a single 660px text column, hairline rules instead of cards, and
+one accent colour. There is no framework, no JavaScript, and nothing loaded from
+another host — every page is three requests (HTML, CSS, one PNG).
+
+The palette is **sampled from the app icon**: the deep navy of its ground and the
+cyan of the wireframe glow. Dark is the product's look so it is the default; a light
+palette is defined under `prefers-color-scheme: light` for readers whose OS asks for
+one. Every colour is a token declared on bare `:root` first — none is only ever set
+inside a media query, which is what stops one mode rendering unstyled.
+
+The mark is the **iOS app icon**, the master at
+`sp_avatr_toolkit/sp_avatr_ios/App/Assets.xcassets/AppIcon.appiconset/icon-1024.png`.
+The sizes here are downscales of it, so the site, the phone home screen and the App
+Store listing are all visibly the same product:
+
+```bash
+SRC=…/AppIcon.appiconset/icon-1024.png
+for s in 180 96 32 16; do sips -s format png -Z $s "$SRC" --out "assets/icon-$s.png"; done
+```
+
+`icon-96` is the masthead mark (36 CSS px, so it stays sharp at 2×), `icon-180` is the
+`apple-touch-icon` and the Open Graph image, `icon-32`/`icon-16` are the favicons.
+**Regenerate all four when the app icon changes** — a stale mark here is the one place
+the branding can silently drift.
 
 ## `sp_suites/` — the release folder
 
