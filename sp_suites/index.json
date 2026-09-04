@@ -1,7 +1,16 @@
 {
   "schema": 1,
-  "generated": "2026-09-04T02:22:23Z",
+  "generated": "2026-09-04T02:26:52Z",
   "apps": [
+    {
+      "package": "com.sp.avatrkit",
+      "label": "SP Avatr Kit",
+      "versionName": "1.0.2",
+      "versionCode": 3,
+      "file": "sp.avatr.kit.v1.0.2.3.apk",
+      "size": 5085353,
+      "sha256": "b24dcc9cdf5fdb53e730d665501037e544864a4c801b9fdacf4055b9236ebff0"
+    },
     {
       "package": "com.sp.cast",
       "label": "SP Cast",
@@ -9,7 +18,7 @@
       "versionCode": 2,
       "file": "sp.cast.v1.0.1.2.apk",
       "size": 333295,
-      "sha256": "2bcdd5536bd6af76635bd4175aaf98a0d532bf773af3eae8fe648ec91730e61d"
+      "sha256": "e660e173e177443469231425752029f8e89221f0287e87b2c726ac6464c83bcb"
     },
     {
       "package": "com.sp.installerbroker",
@@ -18,7 +27,7 @@
       "versionCode": 2,
       "file": "sp.installer.broker.v1.0.1.2.apk",
       "size": 349679,
-      "sha256": "e5e332905f8c9e3593b2083a0713fc3c8aff0a32e179091856b9ee00264c6f7f"
+      "sha256": "85ab50025eadf968dc73f6db2ed3c360501eeb46f87c2c4043bad3de9e8b0bbd"
     },
     {
       "package": "com.sp.map",
@@ -27,7 +36,7 @@
       "versionCode": 2,
       "file": "sp.map.v1.0.1.2.apk",
       "size": 653547,
-      "sha256": "a263c6ca2b00a13bd9a66ae044a02ca7770d7a0c20131850193e3756d6d9965e"
+      "sha256": "74408140b492aa15e76059383f48cf0e11aa524bf08b79a20cccc54334439c16"
     },
     {
       "package": "com.sp.splitscreen",
@@ -36,7 +45,7 @@
       "versionCode": 2,
       "file": "sp.split.screen.v1.0.1.2.apk",
       "size": 308719,
-      "sha256": "cc56fb9af8e01cffa1c57461d2fae2d5a75410ba1b6eaf4dce061f25defe06d0"
+      "sha256": "2902466c0dbe71332edf74bc5a732d9d8d45760b4a0be5448e62d98813a69251"
     },
     {
       "package": "com.sp.store",
@@ -45,7 +54,7 @@
       "versionCode": 2,
       "file": "sp.store.v1.0.1.2.apk",
       "size": 394801,
-      "sha256": "09b4d923816c7bf567e2e9b5a58421ff51d9730d07d159a3240d12b3fc301874"
+      "sha256": "f6fe0a581777342742bfc3a00c90d5611a03ba4b2298fa8f52a8ab85188f4e46"
     }
   ],
   "broker": {
@@ -53,7 +62,7 @@
     "build": 3,
     "file": "sp-broker.jar",
     "size": 84266,
-    "sha256": "75db160f4c560259508676ae7b7dd73a95ff424204618f80dd09864bb9cd74c2"
+    "sha256": "f832af0db3282db72360ebf91008e34a65e2aca79812afd32dc3c862957bdd28"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
