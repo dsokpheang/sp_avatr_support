@@ -1,77 +1,86 @@
 {
   "schema": 1,
-  "generated": "2026-09-21T19:13:29Z",
+  "generated": "2026-09-23T11:56:28Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.0.83",
-      "versionCode": 84,
-      "file": "sp.avatr.kit.v1.0.83.84.apk",
-      "size": 6634674,
-      "sha256": "301f42eecc40ece9c40eb38d7f38c34262e2dfe2e70bbb7bc60d9aa56126efdd"
+      "versionName": "1.0.87",
+      "versionCode": 88,
+      "file": "sp.avatr.kit.v1.0.87.88.apk",
+      "size": 7589530,
+      "sha256": "a1e25ce8df9f89a73e35e1660a43c93bd36b5d4fcccacd024e87b7c9965520b5"
     },
     {
       "package": "com.sp.cast",
       "label": "SP Cast",
-      "versionName": "1.0.18",
-      "versionCode": 19,
-      "file": "sp.cast.v1.0.18.19.apk",
-      "size": 345583,
-      "sha256": "27d4a123d3c1ffe7144f85a9859fbca31340f0d5e1cf7fb2386b31370ef9a8ff"
+      "versionName": "1.0.22",
+      "versionCode": 23,
+      "file": "sp.cast.v1.0.22.23.apk",
+      "size": 349679,
+      "sha256": "8bf6cb45e008c4c49a460312548ca27f96a1bbec11f6056d11973323e97df54a"
+    },
+    {
+      "package": "com.sp.copilot",
+      "label": "SP Copilot",
+      "versionName": "1.0.5",
+      "versionCode": 6,
+      "file": "sp.copilot.v1.0.5.6.apk",
+      "size": 304623,
+      "sha256": "a4b4362b2f3008bf0e08f0b9328f7aee417e3000aa3ca06272287a4213c68c4d"
     },
     {
       "package": "com.sp.files",
       "label": "SP Files",
-      "versionName": "1.0.10",
-      "versionCode": 11,
-      "file": "sp.files.v1.0.10.11.apk",
+      "versionName": "1.0.12",
+      "versionCode": 13,
+      "file": "sp.files.v1.0.12.13.apk",
       "size": 402989,
-      "sha256": "9158e88bc5c382d408538586bc1652337adae38a87d4f1c62e72b73af2453e00"
+      "sha256": "5bc6ae284e720e8e2966d9cfff9b48ef06d0abfd9117872695995b1dd1c2c4ac"
     },
     {
       "package": "com.sp.map",
       "label": "SP Map",
-      "versionName": "1.0.14",
-      "versionCode": 15,
-      "file": "sp.map.v1.0.14.15.apk",
-      "size": 669931,
-      "sha256": "6f196578af19f2f746b7c7c31372af51c8815ffbd92cdafdf7f8aa0318a0dacf"
+      "versionName": "1.0.21",
+      "versionCode": 22,
+      "file": "sp.map.v1.0.21.22.apk",
+      "size": 678123,
+      "sha256": "882620a381845246f0f8eedfa5fe38f7c6eb681ea314aad3c10c31bbf8a3013c"
     },
     {
       "package": "com.sp.media",
       "label": "SP Media",
-      "versionName": "1.0.4",
-      "versionCode": 5,
-      "file": "sp.media.v1.0.4.5.apk",
-      "size": 333361,
-      "sha256": "5d096dd4230e85ec9135f06a6e4acc177a6c9f79714e95718a38fe0e2318d5c4"
+      "versionName": "1.0.6",
+      "versionCode": 7,
+      "file": "sp.media.v1.0.6.7.apk",
+      "size": 337457,
+      "sha256": "1f6829811a77cff50a6ffbbb7f8335ed3318f61209f7e116d0bcc9f70d3f3f88"
     },
     {
       "package": "com.sp.splitscreen",
       "label": "SP Split Screen",
-      "versionName": "1.0.3",
-      "versionCode": 4,
-      "file": "sp.split.screen.v1.0.3.4.apk",
+      "versionName": "1.0.5",
+      "versionCode": 6,
+      "file": "sp.split.screen.v1.0.5.6.apk",
       "size": 308719,
-      "sha256": "a43645f3af3864f7d034dec386aea842b8c42b5734edce44f2094eac0e6e50b0"
+      "sha256": "628976ef4fc75e28e24ca75ff1526f120669842dd2e4e6bb079ede013a48fe26"
     },
     {
       "package": "com.sp.store",
       "label": "SP Store",
-      "versionName": "1.0.4",
-      "versionCode": 5,
-      "file": "sp.store.v1.0.4.5.apk",
-      "size": 402993,
-      "sha256": "751b4776f52db4e2c65c495d5c85d08df5f4e8c9b3d92b745a64de6ddb85b069"
+      "versionName": "1.0.6",
+      "versionCode": 7,
+      "file": "sp.store.v1.0.6.7.apk",
+      "size": 407089,
+      "sha256": "42346dc8c28005c3392cc354eb85c6715bd423f28f30be4e585ba5d8a258ecb0"
     }
   ],
   "broker": {
-    "version": "1.0.76",
-    "build": 77,
+    "version": "1.0.81",
+    "build": 82,
     "file": "sp-broker.jar",
-    "size": 141616,
-    "sha256": "f918cb534d6858780dae6e5cc0595ac80a7ea8892c61a89f315ce6756a3cfab7"
+    "size": 146577,
+    "sha256": "c6aa3b45163093272dcbbdc918e5af57d9f89f16335ed7ef6eb39fff4a821ec7"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
