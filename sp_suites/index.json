@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T11:06:16Z",
+  "generated": "2026-09-24T17:56:43Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.0.92",
-      "versionCode": 93,
-      "file": "sp.avatr.kit.v1.0.92.93.apk",
+      "versionName": "1.0.94",
+      "versionCode": 95,
+      "file": "sp.avatr.kit.v1.0.94.95.apk",
       "size": 7593626,
-      "sha256": "bf35a99e9f61fab48ed87f01ec16e8cc9259d2a08b0383c7f6ded7162d56962e"
+      "sha256": "5559a4676d2e598d6ac18c5b176e9d8c86844345467501cc33692c6b9e288177"
     },
     {
       "package": "com.sp.cast",
@@ -18,7 +18,7 @@
       "versionCode": 23,
       "file": "sp.cast.v1.0.22.23.apk",
       "size": 349679,
-      "sha256": "6653732a27622adfccf4d7688f11b467dd44acd4de3f4fd149ae1bc6b6668295"
+      "sha256": "0d2699d012d01489ebf47dbc3eec5071153badcdf27f63b57e7ea85f0f2e449f"
     },
     {
       "package": "com.sp.copilot",
@@ -27,7 +27,7 @@
       "versionCode": 6,
       "file": "sp.copilot.v1.0.5.6.apk",
       "size": 304623,
-      "sha256": "b3bb11e04516d4138e756bab7be11e127d54cdb645bf3fcf99336039a1561686"
+      "sha256": "967eba5fd30d10d83bc6476f396fdbbeec2bf68aea1e69ad561119742693ad7e"
     },
     {
       "package": "com.sp.files",
@@ -36,7 +36,7 @@
       "versionCode": 14,
       "file": "sp.files.v1.0.13.14.apk",
       "size": 407085,
-      "sha256": "7a598d80cfc06e26dafa422bff643f93da266b1682522561cafa1e1ff1246a37"
+      "sha256": "636da71c385ac590b433f7f017384c100f6ab474ce36f15351aa390e01608f3b"
     },
     {
       "package": "com.sp.map",
@@ -45,7 +45,7 @@
       "versionCode": 22,
       "file": "sp.map.v1.0.21.22.apk",
       "size": 678123,
-      "sha256": "ec0fd8920001aeaf1f5deb3cde9cf73c3138d9c8540a8b85803d335afda7ce6c"
+      "sha256": "e5d3dd55bd34324b10a865ba62056c87e335183a30421f371a29bba9ba3b0256"
     },
     {
       "package": "com.sp.media",
@@ -54,7 +54,7 @@
       "versionCode": 7,
       "file": "sp.media.v1.0.6.7.apk",
       "size": 337457,
-      "sha256": "af96628d836d14e0ccf879bc5d9a4c98ebd0213af7b66b70ce1396b520892f94"
+      "sha256": "fcc80a3c5529ecb4cc8cc240341bb480cb3af676d18b1943649078a62768b051"
     },
     {
       "package": "com.sp.splitscreen",
@@ -63,7 +63,7 @@
       "versionCode": 6,
       "file": "sp.split.screen.v1.0.5.6.apk",
       "size": 308719,
-      "sha256": "2c89188ef2a1428112bbb86bc6198f9e44cf37223947797810d20c19a05cf724"
+      "sha256": "4aebd2d17e6dcfa4039ae3b75fcd7229b9d807e283f596a999d91d6b350400eb"
     },
     {
       "package": "com.sp.store",
@@ -72,15 +72,15 @@
       "versionCode": 7,
       "file": "sp.store.v1.0.6.7.apk",
       "size": 407089,
-      "sha256": "7ede59db6e02e238f99bc9716e67f7734cf64cc9f6a8981d9d50a823063562a0"
+      "sha256": "58124df80ce57c97b5435b3fc35d954455d8eb05e498202116cce47e40ba184e"
     }
   ],
   "broker": {
-    "version": "1.0.85",
-    "build": 86,
+    "version": "1.0.87",
+    "build": 88,
     "file": "sp-broker.jar",
-    "size": 149754,
-    "sha256": "ba2a74046b210117e7b5966feb88961e6d9605fbb070170b8e3c14baf0563ad1"
+    "size": 149988,
+    "sha256": "f1296a95d06dfbbaca8e6d82328c20ee84548fa030e6f133911d201b1ffdac23"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
@@ -93,39 +93,15 @@
   "microg": [
     {
       "package": "app.revanced.android.gms",
-      "label": "Morphe microG",
-      "versionName": "7.1.1",
-      "versionCode": 255070107,
-      "signer": "0b6c9515afb195fac59601696ba0a7907a0b217ccf720b43148427ccf64343e7",
+      "label": "SP microG",
+      "versionName": "7.1.1-avatr.5",
+      "versionCode": 255070112,
+      "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
       "hw": false,
-      "file": "app.revanced.android.gms.v255070107.morphe.apk",
-      "url": "https://github.com/dsokpheang/sp_avatr_support/releases/download/microg/app.revanced.android.gms.v255070107.morphe.apk",
-      "size": 44821575,
-      "sha256": "9246daa0985c4f7ab7aade0bc35cc6c089cba264778dbdbb41e7fdc2e97df046"
-    },
-    {
-      "package": "app.revanced.android.gms",
-      "label": "ReVanced microG",
-      "versionName": "0.3.13.3.250932-user",
-      "versionCode": 250932006,
-      "signer": "d732e4055c97f8d7a43170a6dc737dc71b6f3e0410940e1b3706c6ade1ff3488",
-      "hw": false,
-      "file": "app.revanced.android.gms.v250932006.revanced.apk",
-      "url": "https://github.com/dsokpheang/sp_avatr_support/releases/download/microg/app.revanced.android.gms.v250932006.revanced.apk",
-      "size": 105321600,
-      "sha256": "34dd6509f42d08775b6b19ccb97cebb592e7d18f73c0b7b126f57a16c2eb8d0f"
-    },
-    {
-      "package": "app.revanced.android.gms",
-      "label": "ReVanced microG HW",
-      "versionName": "0.3.13.3.250932-hw",
-      "versionCode": 250932006,
-      "signer": "d732e4055c97f8d7a43170a6dc737dc71b6f3e0410940e1b3706c6ade1ff3488",
-      "hw": true,
-      "file": "app.revanced.android.gms.v250932006.revanced.hw.apk",
-      "url": "https://github.com/dsokpheang/sp_avatr_support/releases/download/microg/app.revanced.android.gms.v250932006.revanced.hw.apk",
-      "size": 105543571,
-      "sha256": "b449bf82067b4040d19282e7f03d176f46bec117dfe72478caf497f55c6f43b4"
+      "file": "app.revanced.android.gms.v255070112.sp.apk",
+      "url": "https://github.com/dsokpheang/sp_avatr_support/releases/download/microg/app.revanced.android.gms.v255070112.sp.apk",
+      "size": 45657425,
+      "sha256": "6fb52c90567add5831155ca3c91ee82f9314b0cb36bae6dff71f697d38e73bc8"
     },
     {
       "package": "com.android.vending",
@@ -150,6 +126,41 @@
       "url": "https://github.com/dsokpheang/sp_avatr_support/releases/download/microg/com.google.android.gms.v252432032.nogapps.hw.apk",
       "size": 94980856,
       "sha256": "a44ce933e2336d3340eb82ad3bb28bba03bc56a7b3cf3c98250a225c55b572de"
+    }
+  ],
+  "thirdparty": [
+    {
+      "package": "app.morphe.android.apps.maps",
+      "label": "Morphe Maps",
+      "versionName": "26.38.01.980791571",
+      "versionCode": 1068785740,
+      "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
+      "file": "app.morphe.android.apps.maps.v1068785740.apk",
+      "url": "https://drive.usercontent.google.com/download?id=1bb5xxBpGIqm0S0mamKuphDe9eX79YPjq&export=download&confirm=t",
+      "size": 288727678,
+      "sha256": "ee4e8987f3eb341fb0e07af6fea1ac40bfe3db61ef2c9e45940d9cb27e5b5b1c"
+    },
+    {
+      "package": "app.morphe.android.apps.youtube.music",
+      "label": "Morphe YT Music",
+      "versionName": "9.15.51",
+      "versionCode": 91551240,
+      "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
+      "file": "app.morphe.android.apps.youtube.music.v91551240.apk",
+      "url": "https://drive.usercontent.google.com/download?id=1OeZ9bQ5L2qbQUNwFfn3ahj9y6x8aRjXv&export=download&confirm=t",
+      "size": 75702405,
+      "sha256": "742b007147e56c36dc3e722cbcdd235450fb676e79e9cb591ae6a0f76c3c4a55"
+    },
+    {
+      "package": "app.morphe.android.youtube",
+      "label": "Morphe YouTube",
+      "versionName": "21.16.256",
+      "versionCode": 1561068412,
+      "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
+      "file": "app.morphe.android.youtube.v1561068412.apk",
+      "url": "https://drive.usercontent.google.com/download?id=1qMPo_NxWHpLTKS0eodqBSY0Bp5TvjKeh&export=download&confirm=t",
+      "size": 124284262,
+      "sha256": "2157055f31135e490e480fb06014ede57246c65d495b14bab4719e886935024c"
     }
   ]
 }
