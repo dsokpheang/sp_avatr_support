@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-09-27T08:20:54Z",
+  "generated": "2026-09-27T12:39:42Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.0.176",
-      "versionCode": 177,
-      "file": "sp.avatr.kit.v1.0.176.177.apk",
-      "size": 19952759,
-      "sha256": "5cf11648a42b0efc1f894bed87102e1e1925987953781bc22f03c8b5c893c92f"
+      "versionName": "1.0.178",
+      "versionCode": 179,
+      "file": "sp.avatr.kit.v1.0.178.179.apk",
+      "size": 19960951,
+      "sha256": "7c04533638a1512d03a32246ef6a1af1c5af24444b3097519922b2dae6109452"
     },
     {
       "package": "com.sp.cast",
@@ -18,7 +18,7 @@
       "versionCode": 29,
       "file": "sp.cast.v1.0.28.29.apk",
       "size": 349679,
-      "sha256": "98b560b00e99cf61009700f4795ea53b77fcb37a2b5cace2ea88005617592ca5"
+      "sha256": "cc62af7bb34ab635df1a6d6f8aebbc2d99ce7abc147aef14a6a425a788a117b3"
     },
     {
       "package": "com.sp.copilot",
@@ -27,7 +27,7 @@
       "versionCode": 9,
       "file": "sp.copilot.v1.0.8.9.apk",
       "size": 304623,
-      "sha256": "684cb8b9bdc0431442ef20f2e735c35f19f5a013b00a0f113ca6b7ddc1e0f66f"
+      "sha256": "af3247869b4f3e6825cf36b67fff6741249cc32806c6d0d23e78e3b1bfa92027"
     },
     {
       "package": "com.sp.files",
@@ -36,7 +36,7 @@
       "versionCode": 18,
       "file": "sp.files.v1.0.17.18.apk",
       "size": 407085,
-      "sha256": "805b4aee339a22748e5fc904e5cd17d67990b4474ad2dd871aa04dc154400cd5"
+      "sha256": "b0f5e0ab1b87a9f14b8f1a0f2fabc81c2934cc452a1baf466b763a2136a1d91a"
     },
     {
       "package": "com.sp.map",
@@ -45,7 +45,7 @@
       "versionCode": 31,
       "file": "sp.map.v1.0.30.31.apk",
       "size": 686315,
-      "sha256": "76d1b9459426f595c3eb6c0250f5671e75b67692781f100c3e4deca9a0ccf180"
+      "sha256": "0b109c76efe6f0c502eb35a7a1496f263c2cd750e4b80c440a4a5f2f8ac51094"
     },
     {
       "package": "com.sp.media",
@@ -54,7 +54,7 @@
       "versionCode": 19,
       "file": "sp.media.v1.0.18.19.apk",
       "size": 6850260,
-      "sha256": "aa4fb95b8338c0f5e0104100ba1683f00559f7dc7ac633de9bfc4e404d236d65"
+      "sha256": "4d00439984353285547eea2ece85d12ce9910e941140af3842dd49c34439c96c"
     },
     {
       "package": "com.sp.splitscreen",
@@ -63,7 +63,7 @@
       "versionCode": 9,
       "file": "sp.split.screen.v1.0.8.9.apk",
       "size": 312815,
-      "sha256": "f710dead3ce4a9b8fbd9283c432169e21cce68fa7e6dcc4ef6388dc45dcfb4a6"
+      "sha256": "41ccee667fce74c05c335bf3768e0738d7242008dc9f58da5d49c2227a91a8a6"
     },
     {
       "package": "com.sp.store",
@@ -72,7 +72,7 @@
       "versionCode": 11,
       "file": "sp.store.v1.0.10.11.apk",
       "size": 411185,
-      "sha256": "9a3c50cd6c6182d0653dc76fdb289701e485ed7bb4cb5b26869c49f64492c4b7"
+      "sha256": "ff39e2a0e3c6d6f446e5f4a235aa8d083de40147836af7fc13d517da00652988"
     }
   ],
   "broker": {
@@ -80,7 +80,7 @@
     "build": 106,
     "file": "sp-broker.jar",
     "size": 153758,
-    "sha256": "94869219198c34d9f710d384e5f4620e6f290cab341d84706d9c0bbb4abbe147"
+    "sha256": "6253c02f692e2ed3e0d1a053a00394df5b9325f7eed5e29d7334bf4bd54d6730"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
@@ -94,14 +94,14 @@
     {
       "package": "app.revanced.android.gms",
       "label": "SP microG",
-      "versionName": "7.1.1-avatr.5",
-      "versionCode": 255070112,
+      "versionName": "7.1.1-avatr.5.1",
+      "versionCode": 255070113,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
       "hw": false,
-      "file": "app.revanced.android.gms.v255070112.sp.apk",
-      "url": "https://github.com/dsokpheang/sp_avatr_support/releases/download/microg/app.revanced.android.gms.v255070112.sp.apk",
+      "file": "app.revanced.android.gms.v255070113.sp.apk",
+      "url": "https://github.com/dsokpheang/sp_avatr_support/releases/download/microg/app.revanced.android.gms.v255070113.sp.apk",
       "size": 45657425,
-      "sha256": "6fb52c90567add5831155ca3c91ee82f9314b0cb36bae6dff71f697d38e73bc8"
+      "sha256": "7574a422924e45ce81a536f8f4f2b037ccbd0fca4d148dd8e0d2571ffce5267e"
     },
     {
       "package": "com.android.vending",
