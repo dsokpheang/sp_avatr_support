@@ -9,6 +9,7 @@
       "animated": true,
       "file": "g01_angkor_wat_sunrise_animated.gif",
       "thumb": "thumbs/g01_angkor_wat_sunrise_animated.jpg",
+      "thumb_sha256": "ec63878279461e5451f4ca46e2cca868e63507a2199edde5f61600ad09b7932d",
       "sha256": "0466f0a72392281fa79b1784e30f7f4eed300308bc9341246f91932a03d4e1e8",
       "size": 399832
     },
@@ -20,6 +21,7 @@
       "animated": true,
       "file": "g02_independence_monument_fireworks.gif",
       "thumb": "thumbs/g02_independence_monument_fireworks.jpg",
+      "thumb_sha256": "c832a2389eed74327fcf4b5c9502b1739b7bd95e1964820667e1bc14c8557e1c",
       "sha256": "c12253b0b3cedab690b49d31ce034354ba9ef2a60e9360061207a17506b9bfae",
       "size": 570940
     },
@@ -31,6 +33,7 @@
       "animated": true,
       "file": "g03_angkor_wat_starry_night.gif",
       "thumb": "thumbs/g03_angkor_wat_starry_night.jpg",
+      "thumb_sha256": "1864c54246c08d3953e631183c87edb2119d844ac20c006bb86c105f307dc185",
       "sha256": "1c82598c887132720d7fe13ad74ab3508b7956e72244ff6838ec1d897524b001",
       "size": 399795
     },
@@ -42,6 +45,7 @@
       "animated": true,
       "file": "g04_tonle_sap_sunset_animated.gif",
       "thumb": "thumbs/g04_tonle_sap_sunset_animated.jpg",
+      "thumb_sha256": "d5a6ffd2a2e30f6fd457307753740b3df13a960b3a5a7114a783b9358e15f4e5",
       "sha256": "cbc9421ccd9b991f4a06f4a03f0dbd930b38248a923983539ad070224169330f",
       "size": 445462
     },
@@ -53,6 +57,7 @@
       "animated": true,
       "file": "g05_lotus_pond_fireflies.gif",
       "thumb": "thumbs/g05_lotus_pond_fireflies.jpg",
+      "thumb_sha256": "67d04fd4ff3c6dcd34c5f3f6cf7b37009602e3e1a8b91192ef602d2629726515",
       "sha256": "9f2953edac71ddce2fb3b8bc265ebe87b6c60b44628f8b1ef265f33a5ef5079e",
       "size": 366490
     },
@@ -64,6 +69,7 @@
       "animated": true,
       "file": "g06_royal_palace_lanterns.gif",
       "thumb": "thumbs/g06_royal_palace_lanterns.jpg",
+      "thumb_sha256": "0226ae103e3b047d99da5bceb8dfc8d0da430d847bd17145a1c3af89df22afd7",
       "sha256": "a0aec127baa4470c4265e44037f4ca11ff2a97c275ce33c4941521cbda1642b2",
       "size": 721790
     },
@@ -75,6 +81,7 @@
       "animated": false,
       "file": "k01_angkor_wat_sunrise.jpg",
       "thumb": "thumbs/k01_angkor_wat_sunrise.jpg",
+      "thumb_sha256": "006c55b30e3f9e15366d2c89d130572551485a39abbb5832f4cfd4347174a533",
       "sha256": "1ea0075726ecc788689c96cef4381f937264ebc9fd082f2b35dc392b6f6f5f0a",
       "size": 507078
     },
@@ -86,6 +93,7 @@
       "animated": false,
       "file": "k02_angkor_wat_milky_way.jpg",
       "thumb": "thumbs/k02_angkor_wat_milky_way.jpg",
+      "thumb_sha256": "eca32a375a6880aa7ecd3ee0aa29db88ed68f39f0b133238dd321112f2988425",
       "sha256": "e7a22089f368bcee923628370b68d0481f539dafb1e6ed0473aacee2f2298441",
       "size": 568326
     },
@@ -97,6 +105,7 @@
       "animated": false,
       "file": "k03_angkor_wat_monsoon.jpg",
       "thumb": "thumbs/k03_angkor_wat_monsoon.jpg",
+      "thumb_sha256": "90538af51f561f34bbac7e7cf3ca221f42a37497b26e07a9b43043c94bc55c59",
       "sha256": "9814dc579deb397c691b77f42f4c5d44ca89a763525ce0e732db2fe1890f976a",
       "size": 494403
     },
@@ -108,6 +117,7 @@
       "animated": false,
       "file": "k04_bayon_faces_golden_hour.jpg",
       "thumb": "thumbs/k04_bayon_faces_golden_hour.jpg",
+      "thumb_sha256": "5f3533c95a7aec6f5ba675f93daead5c87731d0d190b803c95eafa18db593028",
       "sha256": "a7f943592c3c41527a1a130b4e79f4a7476ccbf88588f21cbc2c003e7747c0b9",
       "size": 483334
     },
@@ -119,6 +129,7 @@
       "animated": false,
       "file": "k05_angkor_thom_south_gate.jpg",
       "thumb": "thumbs/k05_angkor_thom_south_gate.jpg",
+      "thumb_sha256": "4e0ec90a308f299d23bf64f872999f558738627970bf1349adb0d636c3e2c8d3",
       "sha256": "9e6be3d439c97d692d1bad6601f034c71cf7f3032b9ebb0a9c92424818e72784",
       "size": 492269
     },
@@ -130,6 +141,7 @@
       "animated": false,
       "file": "k06_ta_prohm_jungle.jpg",
       "thumb": "thumbs/k06_ta_prohm_jungle.jpg",
+      "thumb_sha256": "fc5d8ba259be2adb612ca9ffc3c0a86697116a74950ea01903dc20fb4c8b46fa",
       "sha256": "8a8b49b322f2237b18ec046c7a9fb2df48b027536bba2a0f0414ebc26391fd16",
       "size": 448261
     },
@@ -141,6 +153,7 @@
       "animated": false,
       "file": "k07_phnom_bakheng_sunset.jpg",
       "thumb": "thumbs/k07_phnom_bakheng_sunset.jpg",
+      "thumb_sha256": "47541f8b2e5e42d511f900f89d10df067c588a6ade11b9f43967f5b079fbff89",
       "sha256": "cbd8ab97cb2857e7d58e2427b145ff7234741e31d73a34771e4bde8644a7d890",
       "size": 500767
     },
@@ -152,6 +165,7 @@
       "animated": false,
       "file": "k08_preah_vihear_above_clouds.jpg",
       "thumb": "thumbs/k08_preah_vihear_above_clouds.jpg",
+      "thumb_sha256": "6008d82887362edece4edad5ba43159e001f27aeb47f55d6892739ef2cf0e353",
       "sha256": "c1af46346f202356c80c5633b206aa4a907641acf17d0c3d458fd56144cc92f9",
       "size": 445451
     },
@@ -163,6 +177,7 @@
       "animated": false,
       "file": "k09_koh_ker_pyramid_mist.jpg",
       "thumb": "thumbs/k09_koh_ker_pyramid_mist.jpg",
+      "thumb_sha256": "c427588e4de578e5ed6abdacb0359756a9c14f490a999e014516d87046b8df7f",
       "sha256": "7719d4d96037de1ad787cd1251488c2ae0f30fc36f1ea4a79e327b048f400419",
       "size": 474183
     },
@@ -174,6 +189,7 @@
       "animated": false,
       "file": "k10_banteay_srei_pink_temple_light.jpg",
       "thumb": "thumbs/k10_banteay_srei_pink_temple_light.jpg",
+      "thumb_sha256": "be65120b288064eb97c28905b85a8d9e69c6d4fa3c9a7c09a558c8057c2ed64f",
       "sha256": "386835f41ac94b8d371bd84fcfa880157c439474dfb718d67a97ba2314fb3373",
       "size": 338377
     },
@@ -185,6 +201,7 @@
       "animated": false,
       "file": "k11_royal_palace_dusk.jpg",
       "thumb": "thumbs/k11_royal_palace_dusk.jpg",
+      "thumb_sha256": "2fd50f97eb4a78644ebe17d0c6a11f06ad11d2d05c5b4c7c7b8a1f55ebfddd9a",
       "sha256": "d512dea42e8cf75b5edc26b759fc4602c34ef3a6e6d7c6fa535bdc642dae5085",
       "size": 476393
     },
@@ -196,6 +213,7 @@
       "animated": false,
       "file": "k12_independence_monument_night.jpg",
       "thumb": "thumbs/k12_independence_monument_night.jpg",
+      "thumb_sha256": "eabfd716c306582986e685e0c08a4df62296deda0aaa236b1c296086fc97de34",
       "sha256": "a5e27c1dae32d4f0d03e291c03751cd651f2f373d051f0fd7d555e4474207c84",
       "size": 476925
     },
@@ -207,6 +225,7 @@
       "animated": false,
       "file": "k13_tonle_sap_floating_village.jpg",
       "thumb": "thumbs/k13_tonle_sap_floating_village.jpg",
+      "thumb_sha256": "94699069147a802889297960035863d442c6fd3232964b56cdac199997ed95f6",
       "sha256": "228bdbc62b2e4d341241a810a1f89a048044c344eaefcc87a1097ac80bd75bcd",
       "size": 511575
     },
@@ -218,6 +237,7 @@
       "animated": false,
       "file": "k14_monks_angkor_causeway_light.jpg",
       "thumb": "thumbs/k14_monks_angkor_causeway_light.jpg",
+      "thumb_sha256": "bf125741978d8bed86a4df58637eadd8d3f74c5f452abf9d1ab5beb6d68374df",
       "sha256": "178e4da4312346cf0fc8c340ee23fd96db6fc8a671a6f14eea46e6e930ad951e",
       "size": 312529
     },
@@ -229,6 +249,7 @@
       "animated": false,
       "file": "k15_lotus_rice_fields_light.jpg",
       "thumb": "thumbs/k15_lotus_rice_fields_light.jpg",
+      "thumb_sha256": "aa337bb4b2fb8f565471fe89ddd768376bae3ffbeec471431c75dcf6940634c2",
       "sha256": "22f41cee64045ccc78ec060f48f3fe5122c182ef31702e2e4cd2905c2f153c7e",
       "size": 340307
     },
@@ -240,6 +261,7 @@
       "animated": false,
       "file": "n01_aurora.jpg",
       "thumb": "thumbs/n01_aurora.jpg",
+      "thumb_sha256": "088958b4ba7ce39630870c482e609b5453955279bd88397ecea1b5febe1508da",
       "sha256": "6d486691c8188823b77d673c3ae8b96cd3ad2923c848144129d0e5aab7ab97d2",
       "size": 551060
     },
@@ -251,6 +273,7 @@
       "animated": false,
       "file": "n02_nebula.jpg",
       "thumb": "thumbs/n02_nebula.jpg",
+      "thumb_sha256": "fd1ee6c0cdfe9504ecc9a38aeb3af9189191658858feaa5573d7c3fd45d25c62",
       "sha256": "a2b1d1e32853efe965871e162121959cb249e1a51f9aab64b5c3bf62bf37b212",
       "size": 532419
     },
@@ -262,6 +285,7 @@
       "animated": false,
       "file": "n03_midnight_mountains.jpg",
       "thumb": "thumbs/n03_midnight_mountains.jpg",
+      "thumb_sha256": "4abcd067bc0a498e81183223cc34945b936ad364551179135d733d4eb2702cc5",
       "sha256": "aed340374c9526911cf58582ada8d6be2f656ce4964151407b433e25cd613d16",
       "size": 451437
     },
@@ -273,6 +297,7 @@
       "animated": false,
       "file": "n04_graphite_flow.jpg",
       "thumb": "thumbs/n04_graphite_flow.jpg",
+      "thumb_sha256": "c62fdd38dc3fc308be6b1a8652b82d6622f7db369f2206861928a18ca81dce8e",
       "sha256": "402d02712fb53fb7425852335e51402fff1d5388548c6e642783611a7cc0fa84",
       "size": 361389
     },
@@ -284,6 +309,7 @@
       "animated": false,
       "file": "n05_milky_way_desert.jpg",
       "thumb": "thumbs/n05_milky_way_desert.jpg",
+      "thumb_sha256": "8dbdee458ee3567bcc5ea5eef51475eabed5601886406bf0868d8e1e8aa6f0cf",
       "sha256": "5d1440d753aae19d95a6eb66d171b0abf7d5462b52957260289e7d202b589696",
       "size": 568495
     },
@@ -295,6 +321,7 @@
       "animated": false,
       "file": "n06_ocean_twilight.jpg",
       "thumb": "thumbs/n06_ocean_twilight.jpg",
+      "thumb_sha256": "7abca207ff21d0d8bd423ce9631439ffcabe72a2f6409ca3a9828b55419004d2",
       "sha256": "d9dbb91c6fdd6de55faed8d0f2c6b9c4297b444b8a38652a44dfd5616c73d081",
       "size": 474224
     },
@@ -306,6 +333,7 @@
       "animated": false,
       "file": "n07_misty_pine_forest.jpg",
       "thumb": "thumbs/n07_misty_pine_forest.jpg",
+      "thumb_sha256": "42b7942e6399181b34af2b72d8d2eaa44104558926869e1f4dd741e4b6ba4db0",
       "sha256": "67781dbc7b4eaa0f88d28abec0891d14f8d57ae3a1c8341d072eaaedf4d150ee",
       "size": 389120
     },
@@ -317,6 +345,7 @@
       "animated": false,
       "file": "n08_snow_peaks_alpenglow.jpg",
       "thumb": "thumbs/n08_snow_peaks_alpenglow.jpg",
+      "thumb_sha256": "558fccb38977068129dab1a1c32d05ab2907525b0baa4dd00a1c6aaa1cda81a8",
       "sha256": "c1c99e47addcefcf3be80f1f970ae110117dc4e582f1f170c587ffbf547863f5",
       "size": 467749
     },
@@ -328,6 +357,7 @@
       "animated": false,
       "file": "n09_golden_dunes.jpg",
       "thumb": "thumbs/n09_golden_dunes.jpg",
+      "thumb_sha256": "432e791b5fd6d96980ad0df960ec6de15c0e474a92fdd51b9626a00ad1d75521",
       "sha256": "2cb36448aea5a2ec861ae0b13263463faf5655638525ddb30bef813dfb9351f2",
       "size": 333991
     },
@@ -339,6 +369,7 @@
       "animated": false,
       "file": "n10_city_skyline_night.jpg",
       "thumb": "thumbs/n10_city_skyline_night.jpg",
+      "thumb_sha256": "1812057a8f72658f62a206b7f96bc44253d7babcee956a7b123570d6ad0f202e",
       "sha256": "1cb5782fab3aedf88eb1f10cf7fd6ece73b4eaadd2f21f8ef62fc90ce6819c37",
       "size": 523392
     },
@@ -350,6 +381,7 @@
       "animated": false,
       "file": "n11_silk_waves.jpg",
       "thumb": "thumbs/n11_silk_waves.jpg",
+      "thumb_sha256": "5d4afdbe7580d1852e297f389e7a1c9f841912189f2bb9b481cf220b9119fffa",
       "sha256": "efad7176170e9d80eaa6fa11f0bb6d99377200531725eaa18900dcc496227b72",
       "size": 367924
     },
@@ -361,6 +393,7 @@
       "animated": false,
       "file": "n12_bokeh_lights.jpg",
       "thumb": "thumbs/n12_bokeh_lights.jpg",
+      "thumb_sha256": "18b14394eb14372df1b16ff96ef0ff7a941f18a561c759be857fdf11f6756988",
       "sha256": "65dca4c778c6c33741ee23c6f246bbc815f2e353afe208eaa44aa70e586e5e70",
       "size": 337572
     },
@@ -372,6 +405,7 @@
       "animated": false,
       "file": "n13_low_poly_mountains.jpg",
       "thumb": "thumbs/n13_low_poly_mountains.jpg",
+      "thumb_sha256": "8977468e25aa53a9400f7a7d9c9d0468ccb87e4591365dee6af87117f9629bfe",
       "sha256": "cca908a27efc781c7239aba4485e47f088234cdf9235dc91962c5f1ed1f69d9d",
       "size": 263069
     },
@@ -383,6 +417,7 @@
       "animated": false,
       "file": "n14_morning_lake_light.jpg",
       "thumb": "thumbs/n14_morning_lake_light.jpg",
+      "thumb_sha256": "e6feeb5962ede50f72e82ae10d400701d8fd775e224a5f7637db3d6e1a520df3",
       "sha256": "937691de36cc8033538a97665013ceb6d3f2f44872911a504c9986ca69142333",
       "size": 246676
     },
@@ -394,6 +429,7 @@
       "animated": false,
       "file": "n15_tropical_beach_light.jpg",
       "thumb": "thumbs/n15_tropical_beach_light.jpg",
+      "thumb_sha256": "f322dbd836c589f074f9e36f22f5dcc6e450585ee7ab08422dafa70abee155b0",
       "sha256": "37e9e23360973a76e091afada4a8a163445087152c04485a8344e0526762185d",
       "size": 303287
     }
