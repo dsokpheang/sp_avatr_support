@@ -2,16 +2,16 @@
   "schema": 1,
   "items": [
     {
-      "id": "g01_angkor_wat_sunrise_animated",
-      "title": "Angkor Wat Sunrise",
+      "id": "g01_angkor_wat_lotus_moat",
+      "title": "Angkor Wat Lotus Moat",
       "group": "Animated",
       "light": false,
       "animated": true,
-      "file": "g01_angkor_wat_sunrise_animated.gif",
-      "thumb": "thumbs/g01_angkor_wat_sunrise_animated.jpg",
+      "file": "g01_angkor_wat_lotus_moat.gif",
+      "thumb": "thumbs/g01_angkor_wat_lotus_moat.jpg",
       "thumb_sha256": "ec63878279461e5451f4ca46e2cca868e63507a2199edde5f61600ad09b7932d",
-      "sha256": "0466f0a72392281fa79b1784e30f7f4eed300308bc9341246f91932a03d4e1e8",
-      "size": 399832
+      "sha256": "c24d2d4923044c0c5b1031dcdfebf79a75bf07d75ce9ca749ebe892182b0a60c",
+      "size": 436378
     },
     {
       "id": "g02_independence_monument_fireworks",
@@ -34,17 +34,17 @@
       "file": "g03_angkor_wat_starry_night.gif",
       "thumb": "thumbs/g03_angkor_wat_starry_night.jpg",
       "thumb_sha256": "1864c54246c08d3953e631183c87edb2119d844ac20c006bb86c105f307dc185",
-      "sha256": "1c82598c887132720d7fe13ad74ab3508b7956e72244ff6838ec1d897524b001",
-      "size": 399795
+      "sha256": "8b68d5cf41a4899e7e738e2c826abe97dc2120a8b0d47eea0158d7d81fb71e7b",
+      "size": 408063
     },
     {
-      "id": "g04_tonle_sap_sunset_animated",
-      "title": "Tonle Sap Sunset",
+      "id": "g04_tonle_sap_boats_at_dusk",
+      "title": "Tonle Sap Boats At Dusk",
       "group": "Animated",
       "light": false,
       "animated": true,
-      "file": "g04_tonle_sap_sunset_animated.gif",
-      "thumb": "thumbs/g04_tonle_sap_sunset_animated.jpg",
+      "file": "g04_tonle_sap_boats_at_dusk.gif",
+      "thumb": "thumbs/g04_tonle_sap_boats_at_dusk.jpg",
       "thumb_sha256": "d5a6ffd2a2e30f6fd457307753740b3df13a960b3a5a7114a783b9358e15f4e5",
       "sha256": "cbc9421ccd9b991f4a06f4a03f0dbd930b38248a923983539ad070224169330f",
       "size": 445462
@@ -57,9 +57,9 @@
       "animated": true,
       "file": "g05_lotus_pond_fireflies.gif",
       "thumb": "thumbs/g05_lotus_pond_fireflies.jpg",
-      "thumb_sha256": "67d04fd4ff3c6dcd34c5f3f6cf7b37009602e3e1a8b91192ef602d2629726515",
-      "sha256": "9f2953edac71ddce2fb3b8bc265ebe87b6c60b44628f8b1ef265f33a5ef5079e",
-      "size": 366490
+      "thumb_sha256": "554b98aad3c81462247d97612f402ee3a0b50a3ae108e1983081967e1013a793",
+      "sha256": "a09220d3e9867949bd797a3ed9e921f1a15ffdbbfcd45767044b65a9b91f946d",
+      "size": 353780
     },
     {
       "id": "g06_royal_palace_lanterns",
@@ -81,9 +81,9 @@
       "animated": false,
       "file": "k01_angkor_wat_sunrise.jpg",
       "thumb": "thumbs/k01_angkor_wat_sunrise.jpg",
-      "thumb_sha256": "006c55b30e3f9e15366d2c89d130572551485a39abbb5832f4cfd4347174a533",
-      "sha256": "1ea0075726ecc788689c96cef4381f937264ebc9fd082f2b35dc392b6f6f5f0a",
-      "size": 507078
+      "thumb_sha256": "e6a203394934b8099cf58ae6c942094ac90f006b070e7b9b9eefcbdde75dad4f",
+      "sha256": "6388d8c81c745559eacd729096419b734322e65d19fb2dcb882816289cfa30e1",
+      "size": 525140
     },
     {
       "id": "k02_angkor_wat_milky_way",
@@ -93,9 +93,9 @@
       "animated": false,
       "file": "k02_angkor_wat_milky_way.jpg",
       "thumb": "thumbs/k02_angkor_wat_milky_way.jpg",
-      "thumb_sha256": "eca32a375a6880aa7ecd3ee0aa29db88ed68f39f0b133238dd321112f2988425",
-      "sha256": "e7a22089f368bcee923628370b68d0481f539dafb1e6ed0473aacee2f2298441",
-      "size": 568326
+      "thumb_sha256": "a694a3ae0376fcc8865103eb1b9c92293c1118650c9d1a4aa03bf20d66a13685",
+      "sha256": "b007de69c24f364819842f89163a474e8d7846c53d88bbdc0eff058738b27593",
+      "size": 572331
     },
     {
       "id": "k03_angkor_wat_monsoon",
@@ -105,150 +105,90 @@
       "animated": false,
       "file": "k03_angkor_wat_monsoon.jpg",
       "thumb": "thumbs/k03_angkor_wat_monsoon.jpg",
-      "thumb_sha256": "90538af51f561f34bbac7e7cf3ca221f42a37497b26e07a9b43043c94bc55c59",
-      "sha256": "9814dc579deb397c691b77f42f4c5d44ca89a763525ce0e732db2fe1890f976a",
-      "size": 494403
+      "thumb_sha256": "80eca78087f2c6ffba912c80bef7b3e5a9f485332123476a01107e238c84b219",
+      "sha256": "5cd23d88aed926fcc55731fca15ab9d4dff66215e968bbab301d28b447c5cfe0",
+      "size": 505360
     },
     {
-      "id": "k04_bayon_faces_golden_hour",
-      "title": "Bayon Faces Golden Hour",
-      "group": "Cambodia",
-      "light": false,
-      "animated": false,
-      "file": "k04_bayon_faces_golden_hour.jpg",
-      "thumb": "thumbs/k04_bayon_faces_golden_hour.jpg",
-      "thumb_sha256": "5f3533c95a7aec6f5ba675f93daead5c87731d0d190b803c95eafa18db593028",
-      "sha256": "a7f943592c3c41527a1a130b4e79f4a7476ccbf88588f21cbc2c003e7747c0b9",
-      "size": 483334
-    },
-    {
-      "id": "k05_angkor_thom_south_gate",
+      "id": "k04_angkor_thom_south_gate",
       "title": "Angkor Thom South Gate",
       "group": "Cambodia",
       "light": false,
       "animated": false,
-      "file": "k05_angkor_thom_south_gate.jpg",
-      "thumb": "thumbs/k05_angkor_thom_south_gate.jpg",
-      "thumb_sha256": "4e0ec90a308f299d23bf64f872999f558738627970bf1349adb0d636c3e2c8d3",
-      "sha256": "9e6be3d439c97d692d1bad6601f034c71cf7f3032b9ebb0a9c92424818e72784",
-      "size": 492269
+      "file": "k04_angkor_thom_south_gate.jpg",
+      "thumb": "thumbs/k04_angkor_thom_south_gate.jpg",
+      "thumb_sha256": "b4b47ae2b75d38954385297120afb89a2f9f98dce6da0e72d936033b5f781719",
+      "sha256": "cdc88eb6c14ca706102f7094f36d36605bcd215540ccee96162becfb64e4dcfe",
+      "size": 548403
     },
     {
-      "id": "k06_ta_prohm_jungle",
+      "id": "k05_ta_prohm_jungle",
       "title": "Ta Prohm Jungle",
       "group": "Cambodia",
       "light": false,
       "animated": false,
-      "file": "k06_ta_prohm_jungle.jpg",
-      "thumb": "thumbs/k06_ta_prohm_jungle.jpg",
-      "thumb_sha256": "fc5d8ba259be2adb612ca9ffc3c0a86697116a74950ea01903dc20fb4c8b46fa",
-      "sha256": "8a8b49b322f2237b18ec046c7a9fb2df48b027536bba2a0f0414ebc26391fd16",
-      "size": 448261
+      "file": "k05_ta_prohm_jungle.jpg",
+      "thumb": "thumbs/k05_ta_prohm_jungle.jpg",
+      "thumb_sha256": "507fe1de5974af117ebaded4fa41e4ee9a8358d6bf63c584983b8733ea4a9f5b",
+      "sha256": "f65df6cc4e610835fe542a16534bd97f31002105b5daa9c3b0a26c02b6e393d2",
+      "size": 452012
     },
     {
-      "id": "k07_phnom_bakheng_sunset",
-      "title": "Phnom Bakheng Sunset",
-      "group": "Cambodia",
-      "light": false,
-      "animated": false,
-      "file": "k07_phnom_bakheng_sunset.jpg",
-      "thumb": "thumbs/k07_phnom_bakheng_sunset.jpg",
-      "thumb_sha256": "47541f8b2e5e42d511f900f89d10df067c588a6ade11b9f43967f5b079fbff89",
-      "sha256": "cbd8ab97cb2857e7d58e2427b145ff7234741e31d73a34771e4bde8644a7d890",
-      "size": 500767
-    },
-    {
-      "id": "k08_preah_vihear_above_clouds",
-      "title": "Preah Vihear Above Clouds",
-      "group": "Cambodia",
-      "light": false,
-      "animated": false,
-      "file": "k08_preah_vihear_above_clouds.jpg",
-      "thumb": "thumbs/k08_preah_vihear_above_clouds.jpg",
-      "thumb_sha256": "6008d82887362edece4edad5ba43159e001f27aeb47f55d6892739ef2cf0e353",
-      "sha256": "c1af46346f202356c80c5633b206aa4a907641acf17d0c3d458fd56144cc92f9",
-      "size": 445451
-    },
-    {
-      "id": "k09_koh_ker_pyramid_mist",
-      "title": "Koh Ker Pyramid Mist",
-      "group": "Cambodia",
-      "light": false,
-      "animated": false,
-      "file": "k09_koh_ker_pyramid_mist.jpg",
-      "thumb": "thumbs/k09_koh_ker_pyramid_mist.jpg",
-      "thumb_sha256": "c427588e4de578e5ed6abdacb0359756a9c14f490a999e014516d87046b8df7f",
-      "sha256": "7719d4d96037de1ad787cd1251488c2ae0f30fc36f1ea4a79e327b048f400419",
-      "size": 474183
-    },
-    {
-      "id": "k10_banteay_srei_pink_temple_light",
-      "title": "Banteay Srei Pink Temple",
-      "group": "Cambodia",
-      "light": true,
-      "animated": false,
-      "file": "k10_banteay_srei_pink_temple_light.jpg",
-      "thumb": "thumbs/k10_banteay_srei_pink_temple_light.jpg",
-      "thumb_sha256": "be65120b288064eb97c28905b85a8d9e69c6d4fa3c9a7c09a558c8057c2ed64f",
-      "sha256": "386835f41ac94b8d371bd84fcfa880157c439474dfb718d67a97ba2314fb3373",
-      "size": 338377
-    },
-    {
-      "id": "k11_royal_palace_dusk",
+      "id": "k06_royal_palace_dusk",
       "title": "Royal Palace Dusk",
       "group": "Cambodia",
       "light": false,
       "animated": false,
-      "file": "k11_royal_palace_dusk.jpg",
-      "thumb": "thumbs/k11_royal_palace_dusk.jpg",
+      "file": "k06_royal_palace_dusk.jpg",
+      "thumb": "thumbs/k06_royal_palace_dusk.jpg",
       "thumb_sha256": "2fd50f97eb4a78644ebe17d0c6a11f06ad11d2d05c5b4c7c7b8a1f55ebfddd9a",
       "sha256": "d512dea42e8cf75b5edc26b759fc4602c34ef3a6e6d7c6fa535bdc642dae5085",
       "size": 476393
     },
     {
-      "id": "k12_independence_monument_night",
+      "id": "k07_independence_monument_night",
       "title": "Independence Monument Night",
       "group": "Cambodia",
       "light": false,
       "animated": false,
-      "file": "k12_independence_monument_night.jpg",
-      "thumb": "thumbs/k12_independence_monument_night.jpg",
+      "file": "k07_independence_monument_night.jpg",
+      "thumb": "thumbs/k07_independence_monument_night.jpg",
       "thumb_sha256": "eabfd716c306582986e685e0c08a4df62296deda0aaa236b1c296086fc97de34",
       "sha256": "a5e27c1dae32d4f0d03e291c03751cd651f2f373d051f0fd7d555e4474207c84",
       "size": 476925
     },
     {
-      "id": "k13_tonle_sap_floating_village",
+      "id": "k08_tonle_sap_floating_village",
       "title": "Tonle Sap Floating Village",
       "group": "Cambodia",
       "light": false,
       "animated": false,
-      "file": "k13_tonle_sap_floating_village.jpg",
-      "thumb": "thumbs/k13_tonle_sap_floating_village.jpg",
+      "file": "k08_tonle_sap_floating_village.jpg",
+      "thumb": "thumbs/k08_tonle_sap_floating_village.jpg",
       "thumb_sha256": "94699069147a802889297960035863d442c6fd3232964b56cdac199997ed95f6",
       "sha256": "228bdbc62b2e4d341241a810a1f89a048044c344eaefcc87a1097ac80bd75bcd",
       "size": 511575
     },
     {
-      "id": "k14_monks_angkor_causeway_light",
+      "id": "k09_monks_angkor_causeway_light",
       "title": "Monks Angkor Causeway",
       "group": "Cambodia",
       "light": true,
       "animated": false,
-      "file": "k14_monks_angkor_causeway_light.jpg",
-      "thumb": "thumbs/k14_monks_angkor_causeway_light.jpg",
-      "thumb_sha256": "bf125741978d8bed86a4df58637eadd8d3f74c5f452abf9d1ab5beb6d68374df",
-      "sha256": "178e4da4312346cf0fc8c340ee23fd96db6fc8a671a6f14eea46e6e930ad951e",
-      "size": 312529
+      "file": "k09_monks_angkor_causeway_light.jpg",
+      "thumb": "thumbs/k09_monks_angkor_causeway_light.jpg",
+      "thumb_sha256": "a0805f597e7480749461137e52810a9b151b252f5309854bde09637dc5684b67",
+      "sha256": "f6c74c8169dff67080335506067a138d8edc3fb4096e0ca9c990566c1a16c13a",
+      "size": 316950
     },
     {
-      "id": "k15_lotus_rice_fields_light",
+      "id": "k10_lotus_rice_fields_light",
       "title": "Lotus Rice Fields",
       "group": "Cambodia",
       "light": true,
       "animated": false,
-      "file": "k15_lotus_rice_fields_light.jpg",
-      "thumb": "thumbs/k15_lotus_rice_fields_light.jpg",
+      "file": "k10_lotus_rice_fields_light.jpg",
+      "thumb": "thumbs/k10_lotus_rice_fields_light.jpg",
       "thumb_sha256": "aa337bb4b2fb8f565471fe89ddd768376bae3ffbeec471431c75dcf6940634c2",
       "sha256": "22f41cee64045ccc78ec060f48f3fe5122c182ef31702e2e4cd2905c2f153c7e",
       "size": 340307
@@ -420,18 +360,6 @@
       "thumb_sha256": "e6feeb5962ede50f72e82ae10d400701d8fd775e224a5f7637db3d6e1a520df3",
       "sha256": "937691de36cc8033538a97665013ceb6d3f2f44872911a504c9986ca69142333",
       "size": 246676
-    },
-    {
-      "id": "n15_tropical_beach_light",
-      "title": "Tropical Beach",
-      "group": "Nature",
-      "light": true,
-      "animated": false,
-      "file": "n15_tropical_beach_light.jpg",
-      "thumb": "thumbs/n15_tropical_beach_light.jpg",
-      "thumb_sha256": "f322dbd836c589f074f9e36f22f5dcc6e450585ee7ab08422dafa70abee155b0",
-      "sha256": "37e9e23360973a76e091afada4a8a163445087152c04485a8344e0526762185d",
-      "size": 303287
     }
   ]
 }
