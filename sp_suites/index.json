@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-30T18:46:48Z",
+  "generated": "2026-09-30T19:24:45Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
@@ -84,11 +84,11 @@
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
-    "version": "2026.8.2-sp1",
-    "size": 17648879,
-    "sha256": "b46aed434e396e868d737ba748f5fa5cbbaa6ba00035398b0b53e9cf4355a22d",
-    "binarySize": 37404344,
-    "binarySha256": "9c3518962e2c7832f49a2bc8e06ad4449ce7102a40f2f852f2d2c94ac77d4c64"
+    "version": "2026.9.3-sp1",
+    "size": 17798625,
+    "sha256": "f33cfc30d24452b60268e9c3475607e50fbb977a2315c2501c5d12cc87cb55a2",
+    "binarySize": 37685657,
+    "binarySha256": "135b1e79dfb3b656994358f4a92c09a6012a810d5b78f8931417407ed7efc54f"
   },
   "voice": {
     "endpoint": "wss://test.asr-api.idri.edu.kh/api/v02/L2Fzcl9jbGllbnRzL1ZuZkRvUmdVQmNNTTI4M1h0ZDJGL2FwaV9rZXlzLzh5emxrUlZ1THJpVmZTOVBhdVFw",
@@ -109,7 +109,7 @@
       "file": "app.revanced.android.gms.v255070113.sp.apk",
       "url": "https://github.com/dsokpheang/sp_avatr_support/releases/download/microg/app.revanced.android.gms.v255070113.sp.apk",
       "size": 45657425,
-      "sha256": "7574a422924e45ce81a536f8f4f2b037ccbd0fca4d148dd8e0d2571ffce5267e"
+      "sha256": "c349774d95aab5a16e59e00722342287339fa5a4003bf95c78e65d8bd8b8b41c"
     },
     {
       "package": "com.android.vending",
