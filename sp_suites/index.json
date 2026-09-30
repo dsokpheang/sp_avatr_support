@@ -1,33 +1,33 @@
 {
   "schema": 1,
-  "generated": "2026-09-30T14:30:18Z",
+  "generated": "2026-09-30T15:48:15Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.0.244",
-      "versionCode": 245,
-      "file": "sp.avatr.kit.v1.0.244.245.apk",
-      "size": 20462792,
-      "sha256": "70aeeebcc545793aff01e4a69d79021ae8ecfdeada66f259972892c6c7641534"
+      "versionName": "1.0.245",
+      "versionCode": 246,
+      "file": "sp.avatr.kit.v1.0.245.246.apk",
+      "size": 20470984,
+      "sha256": "546dcf1d58bea27bf3bbb1d495ebbb000f5e6b70758da10800f9ba117b2351ad"
     },
     {
       "package": "com.sp.cast",
       "label": "SP Cast",
-      "versionName": "1.0.33",
-      "versionCode": 34,
-      "file": "sp.cast.v1.0.33.34.apk",
+      "versionName": "1.0.34",
+      "versionCode": 35,
+      "file": "sp.cast.v1.0.34.35.apk",
       "size": 353775,
-      "sha256": "657310b964ef8b2d6313156c8c73e02d9d7e90f4fea552e03192a47bd3373cd0"
+      "sha256": "f4ce81cc40a4d444a30a7f0ad0eaf00d1226f4f208c5fc4d78191229a92170a4"
     },
     {
       "package": "com.sp.copilot",
       "label": "SP Copilot",
-      "versionName": "1.0.12",
-      "versionCode": 13,
-      "file": "sp.copilot.v1.0.12.13.apk",
+      "versionName": "1.0.13",
+      "versionCode": 14,
+      "file": "sp.copilot.v1.0.13.14.apk",
       "size": 308719,
-      "sha256": "43c0ce278215eb284dbd73664ff6a5a6675af2e583abc22552f5584baf6cc740"
+      "sha256": "d151ac598e86f2e84a59b8f9779a9e273d7da4ecb3b66bd01c4e7aab8d09d28f"
     },
     {
       "package": "com.sp.files",
@@ -36,16 +36,16 @@
       "versionCode": 26,
       "file": "sp.files.v1.0.25.26.apk",
       "size": 423469,
-      "sha256": "b90879dc5cf41a96bcbc4a323413e08873d851f901aa86ce4f47542af9d4a909"
+      "sha256": "95e38a648f3e48ee071f28f4a62b218fe10a839a05e03947a1aa7a10e0dadbab"
     },
     {
       "package": "com.sp.map",
       "label": "SP Map",
-      "versionName": "1.0.68",
-      "versionCode": 69,
-      "file": "sp.map.v1.0.68.69.apk",
+      "versionName": "1.0.69",
+      "versionCode": 70,
+      "file": "sp.map.v1.0.69.70.apk",
       "size": 1518120,
-      "sha256": "011921bf835d0da004917e5e00869411f2b4d2fe55a6d3234a2bc89fa3fab436"
+      "sha256": "93f3963e81c4eda44dba6897a348b0285f4edb6fc542c6e2234a01e72e5b6747"
     },
     {
       "package": "com.sp.media",
@@ -54,33 +54,33 @@
       "versionCode": 27,
       "file": "sp.media.v1.0.26.27.apk",
       "size": 6867363,
-      "sha256": "d42c4c1903c433e070033e4363fffd65f8cd1f391d8d28787f19d3ebf3c6c7ed"
+      "sha256": "c53648cd24b5fb5121538542bf18d4f11723092b55c7e5b27c8fe3e5e92c1c9e"
     },
     {
       "package": "com.sp.splitscreen",
       "label": "SP Split Screen",
-      "versionName": "1.0.12",
-      "versionCode": 13,
-      "file": "sp.split.screen.v1.0.12.13.apk",
+      "versionName": "1.0.13",
+      "versionCode": 14,
+      "file": "sp.split.screen.v1.0.13.14.apk",
       "size": 316911,
-      "sha256": "eedd1869c662a9a19c1fce5fb865d364061e6d6d3ec957336ea12a72ad2d5004"
+      "sha256": "e4933c65cad14205d38a1da4d51ad9f84fe0f5749fd1eeb5c9eef74c8e6d5230"
     },
     {
       "package": "com.sp.store",
       "label": "SP Store",
-      "versionName": "1.0.31",
-      "versionCode": 32,
-      "file": "sp.store.v1.0.31.32.apk",
+      "versionName": "1.0.32",
+      "versionCode": 33,
+      "file": "sp.store.v1.0.32.33.apk",
       "size": 456241,
-      "sha256": "7eba3fd07ed3e9ceef9db9fba927741f81c79244231596288cc9970bc6003451"
+      "sha256": "1979ece1ba1aed298d80c754eaa7e19d1c289ac631ee1295c76c55db9cc5ddbc"
     }
   ],
   "broker": {
-    "version": "1.0.132",
-    "build": 133,
+    "version": "1.0.133",
+    "build": 134,
     "file": "sp-broker.jar",
-    "size": 177596,
-    "sha256": "99b826c2b18df03d355eb84197f45acd084bcb0dc8347de7f03a033b081cb516"
+    "size": 178221,
+    "sha256": "09043723c7fc29ca75c969d406694a033a37061430281663e9ce2f8045d66816"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
@@ -89,6 +89,14 @@
     "sha256": "b46aed434e396e868d737ba748f5fa5cbbaa6ba00035398b0b53e9cf4355a22d",
     "binarySize": 37404344,
     "binarySha256": "9c3518962e2c7832f49a2bc8e06ad4449ce7102a40f2f852f2d2c94ac77d4c64"
+  },
+  "voice": {
+    "endpoint": "wss://test.asr-api.idri.edu.kh/api/v02/L2Fzcl9jbGllbnRzL1ZuZkRvUmdVQmNNTTI4M1h0ZDJGL2FwaV9rZXlzLzh5emxrUlZ1THJpVmZTOVBhdVFw",
+    "model": {
+      "url": "https://github.com/dsokpheang/sp_avatr_support/releases/download/voice/ggml-small-khmer-v2.bin",
+      "sha256": "9ef9f308618f78e47e61ef1d8f2e8273632c602e65dd0568fcdaf141dfe866c3",
+      "size": 487601984
+    }
   },
   "microg": [
     {
