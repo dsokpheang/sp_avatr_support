@@ -9,9 +9,9 @@
       "animated": true,
       "file": "k01_angkor_wat_sunrise.gif",
       "thumb": "thumbs/k01_angkor_wat_sunrise.jpg",
-      "thumb_sha256": "e5ffd7b0233b43c0a14fcee006ed55f303185a7e453d8ccbe83e791b102a2108",
-      "sha256": "09987539a798341c8f542905a092a02cbfb2dde816b902d80a52442333db7ba3",
-      "size": 1740564
+      "thumb_sha256": "3a9a7865154a56a20232c7bd0d518336011ddf66c7b5a2e22c2c566ccd42fa30",
+      "sha256": "eb7a46881a89409ccdbcb2b01e7ef899ff1667039f1cb329a09e23639e95d33a",
+      "size": 1766926
     },
     {
       "id": "k02_angkor_wat_starry_night",
@@ -21,9 +21,9 @@
       "animated": true,
       "file": "k02_angkor_wat_starry_night.gif",
       "thumb": "thumbs/k02_angkor_wat_starry_night.jpg",
-      "thumb_sha256": "1d6fdb0820bc9f0768f9d8451fc9eb6c8c9757e3fc0b632780c9c348a6996643",
-      "sha256": "6126a59ac43a60a3baf4791a0bf58ed139b64c757080fa6d8be43547e9edf5e9",
-      "size": 924730
+      "thumb_sha256": "9f5feeab7850efc43f134a1c056775dd29378affa00c3344015bd7cea36b1755",
+      "sha256": "6988e12a95c71003086c393396e9ad9296a26763713709a271dbdd35e0731dda",
+      "size": 931157
     },
     {
       "id": "k03_angkor_wat_monsoon_storm",
@@ -33,9 +33,9 @@
       "animated": true,
       "file": "k03_angkor_wat_monsoon_storm.gif",
       "thumb": "thumbs/k03_angkor_wat_monsoon_storm.jpg",
-      "thumb_sha256": "df6b3e60178071c1c0bb29d3d6eb04bf1c47720923e977806ffcdbcddcefef51",
-      "sha256": "dd6a77b8ee959cb2d5f8295d90de3e33b5953c17b3be8947e23b15ecafe4e970",
-      "size": 5922770
+      "thumb_sha256": "2283810329714933761feffb590b2e4c39bae089d1a03b5737fdcf165d1a57c5",
+      "sha256": "8fcc42d74a08fdc50ba5eae4739e5c4fcced77e8f0ee0dbe0155e2a68eb7584a",
+      "size": 5956804
     },
     {
       "id": "k04_monks_angkor_causeway_dawn",
@@ -45,9 +45,9 @@
       "animated": true,
       "file": "k04_monks_angkor_causeway_dawn.gif",
       "thumb": "thumbs/k04_monks_angkor_causeway_dawn.jpg",
-      "thumb_sha256": "b9d6732bdf814d4b5df82bc2101a870cf4a1445e4de03829a8b70bc8641bdda2",
-      "sha256": "0b9cb76927f18e61041ad2ee5e70ace10e73ffe30771925e03b3d8f4454b7482",
-      "size": 1534275
+      "thumb_sha256": "10d4c7fe121a67a51980dd76baa8c3132e7900d5dfb9096a36f1e376e8134038",
+      "sha256": "0c121ec41ba1b5884a0326cd339e723739f3cba6b6cfe62db87622ea32dd3748",
+      "size": 1528963
     },
     {
       "id": "k05_ta_prohm_falling_leaves",
@@ -57,9 +57,9 @@
       "animated": true,
       "file": "k05_ta_prohm_falling_leaves.gif",
       "thumb": "thumbs/k05_ta_prohm_falling_leaves.jpg",
-      "thumb_sha256": "18927eda81e65e87f17a45c12ccaa7ae2aeec00913cf4e98e52505f90669c604",
-      "sha256": "e20d9624729099aca957d01c74a7d96d99cf61f904fb7194330ef1015e683860",
-      "size": 3956373
+      "thumb_sha256": "2803d85727d581a09c59ff435f854643e76ce4e1891556480667fb2f84920727",
+      "sha256": "226cd9b184307b9d28f34b5f7d3a0e0a9df48c1c9a579a622e5fe5e1f2b5b1a0",
+      "size": 4634542
     },
     {
       "id": "k06_wat_phnom_dusk",
@@ -69,9 +69,9 @@
       "animated": true,
       "file": "k06_wat_phnom_dusk.gif",
       "thumb": "thumbs/k06_wat_phnom_dusk.jpg",
-      "thumb_sha256": "fb6f834ef9b209573c92d64199defc5da551732cb9e6ff86de0efa287de2717a",
-      "sha256": "b290adf9820e660dcba6c18ee29128def3e5090af723c93f647e0cd5c6a77283",
-      "size": 531236
+      "thumb_sha256": "9399d2db316f0319d8fdcbe33c8617ed91b2ce76674a0c414fd9f031d86da96e",
+      "sha256": "93599271d9ec7af4673a355c55ec22bca57bd2d1ea9491dcf8e30f6707f855af",
+      "size": 518459
     },
     {
       "id": "k07_phnom_penh_riverside_night",
@@ -81,9 +81,9 @@
       "animated": true,
       "file": "k07_phnom_penh_riverside_night.gif",
       "thumb": "thumbs/k07_phnom_penh_riverside_night.jpg",
-      "thumb_sha256": "e8a05b85d23be20e0bf70705741f6b64fe662fca27cb9fa87470dcab2929d36d",
-      "sha256": "963df654f23b5a98b3465d7f02559cd43d07d638fef23ed8b2b300e0bba7f901",
-      "size": 656053
+      "thumb_sha256": "5d4041b2ec5dbca7ce60cbc976cf8bd5c70cdd0146556e112cbd57858db5a98b",
+      "sha256": "743cc02f052f95d57cb5b39a3d1dacc89ffc1410547945c15c1d95622f0b3487",
+      "size": 709094
     },
     {
       "id": "k08_independence_monument_fireworks",
@@ -93,9 +93,9 @@
       "animated": true,
       "file": "k08_independence_monument_fireworks.gif",
       "thumb": "thumbs/k08_independence_monument_fireworks.jpg",
-      "thumb_sha256": "0e8f1e6a7a531e1e36661b9637588618960c0d40c9225a14cd8cc453829c367e",
-      "sha256": "de8fbeb86aeec04a8a8bdac6070376e2ffc4626fc1cdeda28138cd99c45f2408",
-      "size": 3318268
+      "thumb_sha256": "af684b11f979516669977f976c48053955e64dd8f9927f75fa484624d5beb9bf",
+      "sha256": "e2c961383aa19f37526f00fcb0c25f6a4d389c44f8e6a2018103a554e0ef380f",
+      "size": 3325188
     },
     {
       "id": "k09_royal_palace_water_lanterns",
@@ -105,9 +105,9 @@
       "animated": true,
       "file": "k09_royal_palace_water_lanterns.gif",
       "thumb": "thumbs/k09_royal_palace_water_lanterns.jpg",
-      "thumb_sha256": "b73d12469d8e85f3521c40381f6bf2b1bcb0293dac006004674ca41f9250b153",
-      "sha256": "e15c93a974ebb02491794797fcaf9059a83f2b2410884f3b0e5d768225e492fd",
-      "size": 3347703
+      "thumb_sha256": "2bab152a8a1a248424b77d5ba4bef5d15b3741acbfeeb70dedcbc2cdfffff1a9",
+      "sha256": "cc895972973d7d8d63d1d778494831895b206d25cf2211b39d5181d1b40cc11f",
+      "size": 3312764
     },
     {
       "id": "k10_tonle_sap_floating_village",
