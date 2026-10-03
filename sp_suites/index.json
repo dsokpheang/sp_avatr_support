@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-10-01T02:02:57Z",
+  "generated": "2026-10-03T11:12:36Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.0.269",
-      "versionCode": 270,
-      "file": "sp.avatr.kit.v1.0.269.270.apk",
-      "size": 20976465,
-      "sha256": "762bee6bbad02d7ed73940382f341227e29af64f50dc85a5c1c5169ba1a65727"
+      "versionName": "1.0.283",
+      "versionCode": 284,
+      "file": "sp.avatr.kit.v1.0.283.284.apk",
+      "size": 16433901,
+      "sha256": "22b637baecfb59ebd822455417010601f283e4b007c8194cbe5ff89561e37423"
     },
     {
       "package": "com.sp.cast",
@@ -18,7 +18,7 @@
       "versionCode": 36,
       "file": "sp.cast.v1.0.35.36.apk",
       "size": 357871,
-      "sha256": "99f65993501f6907ad2d0a17c5b6961d833d3351ee322f89e458dd6da743b8e7"
+      "sha256": "7f3ae22cf401782d85c1f4ab6b9c56851be8cc16427c9a04406cc3eedacc2ab4"
     },
     {
       "package": "com.sp.copilot",
@@ -27,7 +27,7 @@
       "versionCode": 16,
       "file": "sp.copilot.v1.0.15.16.apk",
       "size": 312815,
-      "sha256": "9c00e3ff4f473a87ed742c51da057eadb288e67c9ab2bfaa9235f90147c3a765"
+      "sha256": "88eec6e2367d2f4dd7b7f7243afc131bc01f853482b80583e32376307cadc859"
     },
     {
       "package": "com.sp.files",
@@ -36,16 +36,16 @@
       "versionCode": 27,
       "file": "sp.files.v1.0.26.27.apk",
       "size": 423469,
-      "sha256": "0829c82abe8e82f79b8bd8958839b807838d315956515f06b67179c2face1068"
+      "sha256": "926463bfbe7e4e739dc59e3072e482b3e31bba362fb96e24864ba9b4588e55a8"
     },
     {
       "package": "com.sp.map",
       "label": "SP Map",
-      "versionName": "1.0.70",
-      "versionCode": 71,
-      "file": "sp.map.v1.0.70.71.apk",
-      "size": 1518120,
-      "sha256": "1f105b66af369c40e608312f32ded89c4967246be431ae6660bc788639273503"
+      "versionName": "1.0.73",
+      "versionCode": 74,
+      "file": "sp.map.v1.0.73.74.apk",
+      "size": 1522279,
+      "sha256": "8deeef9a466e109afb99094a4709de7c4bdb1aebfbdaae70bef10a8f795de7e0"
     },
     {
       "package": "com.sp.media",
@@ -54,7 +54,7 @@
       "versionCode": 28,
       "file": "sp.media.v1.0.27.28.apk",
       "size": 6871459,
-      "sha256": "22b56fcccf103a52e1cfc42f9678728c689dfbc223e195d64dd211ff827949d5"
+      "sha256": "4879d552d2f99ae0154ec7a0b157ed1b6d8eef2ff0c83d35ed23a373aa37f74b"
     },
     {
       "package": "com.sp.splitscreen",
@@ -63,7 +63,7 @@
       "versionCode": 14,
       "file": "sp.split.screen.v1.0.13.14.apk",
       "size": 316911,
-      "sha256": "fd4e19041e27a0e0ef8de4232e3e615748d4ea70fadf3a52c0b83ea16a6452d5"
+      "sha256": "c217430ffd07bfb03cc7835ccf2cd5acccce5621823a9c4f04c2ac062b84b0a0"
     },
     {
       "package": "com.sp.store",
@@ -72,15 +72,15 @@
       "versionCode": 35,
       "file": "sp.store.v1.0.34.35.apk",
       "size": 456241,
-      "sha256": "4dc8079f341d0c716a32cb1cbdff4ca6db91cf3d57687e2a2155ab2f69cb8351"
+      "sha256": "e3f47376e10e4835732b3087d8d1e899cb36f070443c1fcf712dfa0b90703c7f"
     }
   ],
   "broker": {
-    "version": "1.0.135",
-    "build": 136,
+    "version": "1.0.144",
+    "build": 145,
     "file": "sp-broker.jar",
-    "size": 181839,
-    "sha256": "3feb26645b332bdaa1c2be04dc710eb4e329b9adf422ddcdeedb5c8ed46fb0e9"
+    "size": 184944,
+    "sha256": "69c6523ceea1045fb835fc7c88ef68b3edcd73d0bf4caf2e45fb105a17837927"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
@@ -91,12 +91,7 @@
     "binarySha256": "135b1e79dfb3b656994358f4a92c09a6012a810d5b78f8931417407ed7efc54f"
   },
   "voice": {
-    "endpoint": "wss://test.asr-api.idri.edu.kh/api/v02/L2Fzcl9jbGllbnRzL1ZuZkRvUmdVQmNNTTI4M1h0ZDJGL2FwaV9rZXlzLzh5emxrUlZ1THJpVmZTOVBhdVFw",
-    "model": {
-      "url": "https://github.com/dsokpheang/sp_avatr_support/releases/download/voice/ggml-small-khmer-v2.bin",
-      "sha256": "9ef9f308618f78e47e61ef1d8f2e8273632c602e65dd0568fcdaf141dfe866c3",
-      "size": 487601984
-    }
+    "endpoint": "wss://test.asr-api.idri.edu.kh/api/v02/L2Fzcl9jbGllbnRzL1ZuZkRvUmdVQmNNTTI4M1h0ZDJGL2FwaV9rZXlzLzh5emxrUlZ1THJpVmZTOVBhdVFw"
   },
   "microg": [
     {
