@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-07T00:35:00Z",
+  "generated": "2026-10-07T00:39:42Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
@@ -164,17 +164,6 @@
       "url": "https://drive.usercontent.google.com/download?id=1qMPo_NxWHpLTKS0eodqBSY0Bp5TvjKeh&export=download&confirm=t",
       "size": 124284262,
       "sha256": "2157055f31135e490e480fb06014ede57246c65d495b14bab4719e886935024c"
-    }
-  ],
-  "optional": [
-    {
-      "package": "com.sp.carplay",
-      "label": "SP CarPlay",
-      "versionName": "1.0.3",
-      "versionCode": 4,
-      "file": "sp.carplay.v1.0.3.4.apk",
-      "size": 21368358,
-      "sha256": "78592d32c62aaa3746e21b7a824618767ab0792c86916f72279ad13231996cc6"
     }
   ]
 }
