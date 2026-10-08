@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-10-07T07:56:16Z",
+  "generated": "2026-10-08T20:35:57Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.1.0",
-      "versionCode": 308,
-      "file": "sp.avatr.kit.v1.1.0.308.apk",
-      "size": 18363307,
-      "sha256": "c0fb3f148d222151fce4b78eb3700f218d2e2e8db67ee08a055aa48d4ec54a0a"
+      "versionName": "1.1.8",
+      "versionCode": 316,
+      "file": "sp.avatr.kit.v1.1.8.316.apk",
+      "size": 18383787,
+      "sha256": "047fb44bc6056b9f5eb8227027c7ad91be6f02f051876b762f058b0629ca1746"
     },
     {
       "package": "com.sp.cast",
@@ -18,7 +18,7 @@
       "versionCode": 40,
       "file": "sp.cast.v1.0.39.40.apk",
       "size": 136687,
-      "sha256": "5c05098784d55e9d55b203c19f6ce3bbf30357992cb97040b2d05e44fa3ce758"
+      "sha256": "a8c0dc0b10eecc9ade6ec47c8d8b978bf386d2d5e32cf2fef0009aa496090cf8"
     },
     {
       "package": "com.sp.copilot",
@@ -27,7 +27,7 @@
       "versionCode": 21,
       "file": "sp.copilot.v1.0.20.21.apk",
       "size": 99823,
-      "sha256": "c490456abaa3903193110fa9cd8a17eac4fbd4f1eee80f3b2752c01dbf93a57f"
+      "sha256": "e6de31179398a83a582e681fce7dec7a9f7aba8272f43f7103e96877191648c0"
     },
     {
       "package": "com.sp.files",
@@ -36,7 +36,7 @@
       "versionCode": 32,
       "file": "sp.files.v1.0.31.32.apk",
       "size": 202285,
-      "sha256": "18b5b5aa506902713e057efbe4ed28e88efc74844a72a5e6cbae96eb77b0194d"
+      "sha256": "30f7a77380de6b225556bf55119774bc79a714d3f90088d3ba884b7b8d8176cb"
     },
     {
       "package": "com.sp.map",
@@ -45,16 +45,16 @@
       "versionCode": 78,
       "file": "sp.map.v1.0.77.78.apk",
       "size": 1264299,
-      "sha256": "6d860492e042bc0d1f5cbcd102aadea33f9947849e465979799ef6df81577725"
+      "sha256": "1f481f7341aa9de596eaabfaf93fa69c075b14d0da8c14b3ab51553df338bc81"
     },
     {
       "package": "com.sp.media",
       "label": "SP Media",
-      "versionName": "1.0.31",
-      "versionCode": 32,
-      "file": "sp.media.v1.0.31.32.apk",
+      "versionName": "1.0.32",
+      "versionCode": 33,
+      "file": "sp.media.v1.0.32.33.apk",
       "size": 6683043,
-      "sha256": "9992ffcb221b090433ee2e81165727023ee655f16814d22708e2e8227654d3a9"
+      "sha256": "291e82c8f2351306616e54338c34e8d42d6c3337b95f5a3851d0f63e09b950e6"
     },
     {
       "package": "com.sp.splitscreen",
@@ -63,7 +63,7 @@
       "versionCode": 20,
       "file": "sp.split.screen.v1.0.19.20.apk",
       "size": 83439,
-      "sha256": "6938285a4620692a699f38598c11234092ff3467211acb103ff1757525b7777d"
+      "sha256": "4a5ec2f16ce0ff89237c40a5ffe3b215ceafac68ad18be60d7f012a8a228ebfe"
     },
     {
       "package": "com.sp.store",
@@ -72,15 +72,15 @@
       "versionCode": 39,
       "file": "sp.store.v1.0.38.39.apk",
       "size": 222769,
-      "sha256": "d57123c087d6b94511c3b85556a0db96220ddc8d3fa3d85cf623bd82bfecb1ed"
+      "sha256": "4871918bb01975016f0822685388e4711d35be1aedaf1f7c3200daec14305aa6"
     }
   ],
   "broker": {
-    "version": "1.1.0",
-    "build": 156,
+    "version": "1.1.8",
+    "build": 164,
     "file": "sp-broker.jar",
-    "size": 188274,
-    "sha256": "2ffa56944ad8fde8cc50d7cc549a48984f9e7729939a5f37c304e21f2fba08d3"
+    "size": 190870,
+    "sha256": "68cf417d367fdeee25b4f2b6bee736cc524686b7f53b6552557cab77bf432e07"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
@@ -170,11 +170,24 @@
     {
       "package": "com.sp.carplay",
       "label": "SP CarPlay",
-      "versionName": "1.0.3",
-      "versionCode": 4,
-      "file": "sp.carplay.v1.0.3.4.apk",
-      "size": 21385338,
-      "sha256": "636de8da2b0522fb2232be5b341b6776e61143148d18ea714168f5b5affcb69e"
+      "versionName": "1.0.47",
+      "versionCode": 48,
+      "file": "sp.carplay.v1.0.47.48.apk",
+      "size": 20735062,
+      "sha256": "e45c0a36e4b180a2da01b9abf1b9881c662ff2d463b80778e3544cc334ae10fa"
+    }
+  ],
+  "external": [
+    {
+      "package": "app.netmirror.newtv",
+      "label": "NetMirrorTV",
+      "versionName": "1.0",
+      "versionCode": 1,
+      "signer": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c",
+      "file": "app.netmirror.newtv.v1.apk",
+      "url": "https://drive.usercontent.google.com/download?id=18t4B2wBWk25XARgrP8yCs43KvI0kGHoD&export=download&confirm=t",
+      "size": 60837005,
+      "sha256": "e99229ea8d49b217ef59b6e20c31cbe3de0d0e297c679a98445044ba20ad0dba"
     }
   ]
 }
