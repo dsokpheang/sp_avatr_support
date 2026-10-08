@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-10-08T20:35:57Z",
+  "generated": "2026-10-08T23:13:43Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.1.8",
-      "versionCode": 316,
-      "file": "sp.avatr.kit.v1.1.8.316.apk",
+      "versionName": "1.1.9",
+      "versionCode": 317,
+      "file": "sp.avatr.kit.v1.1.9.317.apk",
       "size": 18383787,
-      "sha256": "047fb44bc6056b9f5eb8227027c7ad91be6f02f051876b762f058b0629ca1746"
+      "sha256": "9b72955c31a3f8028b64cd67285d4e6d5d24a6707e40a3c70ad806fb72ab8b7f"
     },
     {
       "package": "com.sp.cast",
@@ -18,7 +18,7 @@
       "versionCode": 40,
       "file": "sp.cast.v1.0.39.40.apk",
       "size": 136687,
-      "sha256": "a8c0dc0b10eecc9ade6ec47c8d8b978bf386d2d5e32cf2fef0009aa496090cf8"
+      "sha256": "7ffd79c2555df606213aa5922041b9dd28dd487d20cbf05b0fb1233a840ef7e0"
     },
     {
       "package": "com.sp.copilot",
@@ -27,7 +27,7 @@
       "versionCode": 21,
       "file": "sp.copilot.v1.0.20.21.apk",
       "size": 99823,
-      "sha256": "e6de31179398a83a582e681fce7dec7a9f7aba8272f43f7103e96877191648c0"
+      "sha256": "7a8345b1345084396cbc4a17f51ea3885660cef1f01fbb3dd74c3d223152bb0c"
     },
     {
       "package": "com.sp.files",
@@ -36,7 +36,7 @@
       "versionCode": 32,
       "file": "sp.files.v1.0.31.32.apk",
       "size": 202285,
-      "sha256": "30f7a77380de6b225556bf55119774bc79a714d3f90088d3ba884b7b8d8176cb"
+      "sha256": "435207df5ae108d6e5dfc515c60db177628c19c613411217a924592468294614"
     },
     {
       "package": "com.sp.map",
@@ -45,7 +45,7 @@
       "versionCode": 78,
       "file": "sp.map.v1.0.77.78.apk",
       "size": 1264299,
-      "sha256": "1f481f7341aa9de596eaabfaf93fa69c075b14d0da8c14b3ab51553df338bc81"
+      "sha256": "9ab0668c78fd3cac6a220cc69c5b8c6e0c33dcc3e63379d4b0843822208590af"
     },
     {
       "package": "com.sp.media",
@@ -54,7 +54,7 @@
       "versionCode": 33,
       "file": "sp.media.v1.0.32.33.apk",
       "size": 6683043,
-      "sha256": "291e82c8f2351306616e54338c34e8d42d6c3337b95f5a3851d0f63e09b950e6"
+      "sha256": "ca8fb4dd0e8e0d1fab035df57bf8a5c5e1fe0a7d901a836d4684e3b1a9060729"
     },
     {
       "package": "com.sp.splitscreen",
@@ -63,7 +63,7 @@
       "versionCode": 20,
       "file": "sp.split.screen.v1.0.19.20.apk",
       "size": 83439,
-      "sha256": "4a5ec2f16ce0ff89237c40a5ffe3b215ceafac68ad18be60d7f012a8a228ebfe"
+      "sha256": "abc22c673636e2d04875fe6489e4a1db7c58484c2671acd631c166201eeee9ad"
     },
     {
       "package": "com.sp.store",
@@ -72,15 +72,15 @@
       "versionCode": 39,
       "file": "sp.store.v1.0.38.39.apk",
       "size": 222769,
-      "sha256": "4871918bb01975016f0822685388e4711d35be1aedaf1f7c3200daec14305aa6"
+      "sha256": "8dbe3e88c8563c7fbd043f640820bb3f8e42309afbf97cd0e9d07a8d71cd9c3a"
     }
   ],
   "broker": {
-    "version": "1.1.8",
-    "build": 164,
+    "version": "1.1.12",
+    "build": 168,
     "file": "sp-broker.jar",
-    "size": 190870,
-    "sha256": "68cf417d367fdeee25b4f2b6bee736cc524686b7f53b6552557cab77bf432e07"
+    "size": 191245,
+    "sha256": "bdeb23b78daf82e3035bcf0a2a25ac36dc21744ce562c21bd4998bcb3204e2e3"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
@@ -170,11 +170,11 @@
     {
       "package": "com.sp.carplay",
       "label": "SP CarPlay",
-      "versionName": "1.0.47",
-      "versionCode": 48,
-      "file": "sp.carplay.v1.0.47.48.apk",
-      "size": 20735062,
-      "sha256": "e45c0a36e4b180a2da01b9abf1b9881c662ff2d463b80778e3544cc334ae10fa"
+      "versionName": "1.0.49",
+      "versionCode": 50,
+      "file": "sp.carplay.v1.0.49.50.apk",
+      "size": 5344186,
+      "sha256": "39cc833264369f8fbf35d1ebe74cd21a5b28fe0b45c16d2c2c40a74e81a675f0"
     }
   ],
   "external": [
