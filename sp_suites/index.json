@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-10T16:32:40Z",
+  "generated": "2026-10-10T16:34:50Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
@@ -178,6 +178,17 @@
     }
   ],
   "external": [
+    {
+      "package": "com.getmodpc.nfpremium",
+      "label": "Netflix Premium",
+      "versionName": "9.81.0",
+      "versionCode": 64290,
+      "signer": "6a765a8e45dab6b48aa5bfc4e8e70659b347781de64c3ff530f27dc43f1be9a4",
+      "file": "com.getmodpc.nfpremium.v64290.apk",
+      "url": "https://drive.usercontent.google.com/download?id=1msaEyPgPk080G5zxT9I7yECW33TIiDKs&export=download&confirm=t",
+      "size": 61758957,
+      "sha256": "2d6d840bfeb4d6fa55fbf81a300ee63ca905628817bc2b2cb83488940b9d2f09"
+    },
     {
       "package": "app.netmirror.newtv",
       "label": "NetMirrorTV",
