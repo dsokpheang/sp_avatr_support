@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-23T01:46:26Z",
+  "generated": "2026-10-23T01:47:32Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
@@ -150,7 +150,7 @@
       "versionCode": 92053241,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
       "file": "app.morphe.android.apps.youtube.music.v92053241.apk",
-      "url": "https://drive.usercontent.google.com/download?id=1vsJecflKmyLJ-1xw4_jefqyWBq0YzxzY&export=download&confirm=t",
+      "url": "https://drive.usercontent.google.com/download?id=1w8qgEtsu4XsHvoPItssgBUM5k6mAS1vw&export=download&confirm=t",
       "size": 77503207,
       "sha256": "dae0921c521efee983e14768a66ee74cf41c2cc9374c280874bda5f9411db2f2"
     },
@@ -161,7 +161,7 @@
       "versionCode": 1561173356,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
       "file": "app.morphe.android.youtube.v1561173356.apk",
-      "url": "https://drive.usercontent.google.com/download?id=1Ct0TbzevIPHfGEYAnWvKJlPAjRPUko9C&export=download&confirm=t",
+      "url": "https://drive.usercontent.google.com/download?id=1C9Dae-5fH_GFn-kqqWHwstJ6evyzX0-U&export=download&confirm=t",
       "size": 108614421,
       "sha256": "1c6b09589884f640860506a8444d8fff75446a5fce4a37fdd8702e831bde7fe0"
     }
