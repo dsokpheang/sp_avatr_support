@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-10-23T16:55:10Z",
+  "generated": "2026-10-24T15:38:51Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.1.84",
-      "versionCode": 392,
-      "file": "sp.avatr.kit.v1.1.84.392.apk",
-      "size": 18736258,
-      "sha256": "1df85aa0ed5b847ee9eabcfb9ff817fd620598ee5bfe8f51bedf6d259b899934"
+      "versionName": "1.1.87",
+      "versionCode": 395,
+      "file": "sp.avatr.kit.v1.1.87.395.apk",
+      "size": 12321698,
+      "sha256": "f1a1b6663e00449efc88964aae8c09f8263b81dff8cc5a84357e931fdef853fd"
     },
     {
       "package": "com.sp.cast",
@@ -18,7 +18,7 @@
       "versionCode": 51,
       "file": "sp.cast.v1.0.50.51.apk",
       "size": 128495,
-      "sha256": "782e786fda0aded4ab2a266ad458e9cc1ed85ce9afcf365b94a51762095074c7"
+      "sha256": "3fedae7c228c0fb8708d5c54c3623830860403736fc41d1b9062593a14869a7d"
     },
     {
       "package": "com.sp.copilot",
@@ -27,7 +27,7 @@
       "versionCode": 28,
       "file": "sp.copilot.v1.0.27.28.apk",
       "size": 99823,
-      "sha256": "21f68f33b6fc180436b527f49e0d0c0304e154f08ceaf9760dbfbe94bd2657a5"
+      "sha256": "376aa921bed2f208d29b35b4acafbb999cd9c0101449a3954d88f41b9817a06c"
     },
     {
       "package": "com.sp.files",
@@ -36,16 +36,16 @@
       "versionCode": 45,
       "file": "sp.files.v1.0.44.45.apk",
       "size": 587309,
-      "sha256": "8b32252cf6f295f4f3c33262d3633f3108cce045daccd75f484fea32ed96e857"
+      "sha256": "2ee49e5835100a514d7fa202aa9ab95db571210047c8b6856bfb7da1671afb92"
     },
     {
       "package": "com.sp.map",
       "label": "SP Map",
-      "versionName": "1.0.89",
-      "versionCode": 90,
-      "file": "sp.map.v1.0.89.90.apk",
-      "size": 1264301,
-      "sha256": "6381fb2c6c79c15bb7418b05a66474053b8176e59efd7bc959af87d16c9ebd8f"
+      "versionName": "1.0.92",
+      "versionCode": 93,
+      "file": "sp.map.v1.0.92.93.apk",
+      "size": 1268397,
+      "sha256": "1b074159cf9af1a9b33044085c2f007c0b22eefc5768878783e1d160a44b25e8"
     },
     {
       "package": "com.sp.media",
@@ -54,7 +54,7 @@
       "versionCode": 46,
       "file": "sp.media.v1.0.45.46.apk",
       "size": 2115840,
-      "sha256": "febbce78b4b1ff1524f5fc59b8a7131f1dc8669feb4f07155bb94dba939b5ee9"
+      "sha256": "f157bdb4a6bf2ae2ae20d27d8b957913affcb88684013d6f9349102a27d940c1"
     },
     {
       "package": "com.sp.splitscreen",
@@ -63,7 +63,7 @@
       "versionCode": 30,
       "file": "sp.split.screen.v1.0.29.30.apk",
       "size": 87535,
-      "sha256": "d7af50cedf9698dc60b16f1993cece9657f1ff94ee306c0417cfb232032f05c9"
+      "sha256": "2265699de7506c1847ecab966d53078861d2f4869d11b689a69fb51f637b3c10"
     },
     {
       "package": "com.sp.store",
@@ -72,15 +72,15 @@
       "versionCode": 49,
       "file": "sp.store.v1.0.48.49.apk",
       "size": 202289,
-      "sha256": "431a171a0a465f8561187e354661d0732c1be13b239052aec7ae39d7c3059d91"
+      "sha256": "5f9cdd460eec6fa3db52c88769f944d666d1ce6f31c3cabfbe661ff94a3a5443"
     }
   ],
   "broker": {
-    "version": "1.1.46",
-    "build": 202,
+    "version": "1.1.47",
+    "build": 203,
     "file": "sp-broker.jar",
-    "size": 190815,
-    "sha256": "806981e7048d75ae1b0538e7d932397e61e766a0342e7905654973eb2600942a"
+    "size": 191158,
+    "sha256": "0d8fd5cc06244cd57eac0375da6de3e34ef6eb38cb3c3ec7af871785c583da88"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
@@ -91,7 +91,28 @@
     "binarySha256": "7a649c79f9b23e7071d06ff7cec5c646c239eeb1c5ccb5482a033d394aa8a71a"
   },
   "voice": {
-    "endpoint": "wss://test.asr-api.idri.edu.kh/api/v02/L2Fzcl9jbGllbnRzL1ZuZkRvUmdVQmNNTTI4M1h0ZDJGL2FwaV9rZXlzLzh5emxrUlZ1THJpVmZTOVBhdVFw"
+    "endpoint": "wss://test.asr-api.idri.edu.kh/api/v02/L2Fzcl9jbGllbnRzL1ZuZkRvUmdVQmNNTTI4M1h0ZDJGL2FwaV9rZXlzLzh5emxrUlZ1THJpVmZTOVBhdVFw",
+    "wake": {
+      "version": "2026-10-24-c270b22c9ba6",
+      "files": {
+        "wake.bin": {
+          "file": "wake/wake.bin",
+          "sha256": "c270b22c1c0aaada6a5ff55c077e11f02543fccb34eeb857facc3120c336dfae",
+          "size": 2590154
+        },
+        "hi_avatar.json": {
+          "file": "wake/hi_avatar.json",
+          "sha256": "9ba639968438fb5ea0fceb9eced5da86965ad39a98331588208d695f56a92c3e",
+          "size": 423
+        }
+      }
+    },
+    "male": {
+      "file": "voice/prompts_male.zip",
+      "sha256": "7ae60a84a8a8dac98197aa35e5eb0614a2f2499bba3eca08c07785187389afde",
+      "size": 8118904,
+      "count": 482
+    }
   },
   "microg": [
     {
