@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-10-24T21:38:50Z",
+  "generated": "2026-10-25T06:58:16Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
@@ -182,7 +182,7 @@
       "versionCode": 1561173357,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
       "file": "app.morphe.android.youtube.v1561173357.apk",
-      "url": "https://drive.usercontent.google.com/download?id=1C9Dae-5fH_GFn-kqqWHwstJ6evyzX0-U&export=download&confirm=t",
+      "url": "https://drive.usercontent.google.com/download?id=15NyicRoD9qo4UAJ0AcwME45VzXEOCzJ1&export=download&confirm=t",
       "size": 108614421,
       "sha256": "28249cb8955764ff8d6244bd51f5733fe7ddd8cc9446f3b65fdd0e91a78440f1"
     }
