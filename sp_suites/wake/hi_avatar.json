@@ -1,10 +1,12 @@
 {
  "model": "hi_avatar.onnx",
- "head": "conv-attention (tools/wakeword/train.py ConvAttn)",
  "frames": 16,
  "patience": 2,
- "threshold": {"low": 0.998, "normal": 0.995, "high": 0.98},
- "trained": "2026-10-24",
- "test_hours": 10.01,
- "measured": "held out, streamed: false wakes/h 0.7 / 0.7 / 1.0 (low/normal/high); recall 97.5-99.1 / 97.9-99.4 / 98.5-99.6 % clean to 0 dB road noise; look-alikes taken 6.8 / 7.9 / 9.5 %"
+ "threshold": {
+  "low": 0.9999,
+  "normal": 0.9998,
+  "high": 0.999
+ },
+ "trained": "2026-10-30",
+ "test_hours": 12.51
 }
