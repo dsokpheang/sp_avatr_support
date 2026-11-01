@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-10-31T08:36:02Z",
+  "generated": "2026-11-01T17:03:12Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.2.36",
-      "versionCode": 461,
-      "file": "sp.avatr.kit.v1.2.36.461.apk",
+      "versionName": "1.2.37",
+      "versionCode": 462,
+      "file": "sp.avatr.kit.v1.2.37.462.apk",
       "size": 15722927,
-      "sha256": "0fde4eefcc715877db12f791998d5daf99020b3f61396cd81592f19f0e3c7b78"
+      "sha256": "ff76074eb49002d9b9e125aa8998ddb99d9dbbc7f7cdf0f56635ee778f31656b"
     },
     {
       "package": "com.sp.cast",
@@ -18,7 +18,7 @@
       "versionCode": 55,
       "file": "sp.cast.v1.1.2.55.apk",
       "size": 132591,
-      "sha256": "445332132c1520d585223f689056accfaf75f7562daaa9320636caba10a8576d"
+      "sha256": "5d43083663f6330bdde2031afba2dc2f139f73a1c9e9d4f72df77d3a053d690d"
     },
     {
       "package": "com.sp.copilot",
@@ -27,7 +27,7 @@
       "versionCode": 32,
       "file": "sp.copilot.v1.1.1.32.apk",
       "size": 99823,
-      "sha256": "40050d8f4a1a40a8edfc11c57b0a6278ac69b15b026ff7f5ab1e7bda057ac7a6"
+      "sha256": "fa4ee8601c5b25b5b9df8fb90772f3f729c8dccc2bc9b70dfaf64780f715ff87"
     },
     {
       "package": "com.sp.files",
@@ -36,7 +36,7 @@
       "versionCode": 48,
       "file": "sp.files.v1.1.2.48.apk",
       "size": 587309,
-      "sha256": "6871ca70ce2be03515fdcc7bc8610eac0fd8b1ab5620a2d24c58ce98726c493f"
+      "sha256": "c761eeea157b44fe83829a2529dfdf225f5db9f120bb1fbca4628579ab6817ab"
     },
     {
       "package": "com.sp.map",
@@ -45,7 +45,7 @@
       "versionCode": 104,
       "file": "sp.map.v1.1.7.104.apk",
       "size": 1276589,
-      "sha256": "9e47b449f06f3e490ece708e3fc3ecd1105fa88e949f1db45add1a9575ad747e"
+      "sha256": "3ae227a5e63a8742b1aab102ebf7fddb5650da7f6501cad0374ff72bf367f021"
     },
     {
       "package": "com.sp.media",
@@ -54,7 +54,7 @@
       "versionCode": 48,
       "file": "sp.media.v1.1.1.48.apk",
       "size": 2115840,
-      "sha256": "c229fe936b3dda6240ba8d798dcd3d3fbf9f890c8f3e8f74ce206ececf787ec5"
+      "sha256": "a0746b76de8362f751f203a448d54439dd98bc64718a43f851e5fd10fa80164e"
     },
     {
       "package": "com.sp.splitscreen",
@@ -63,7 +63,7 @@
       "versionCode": 32,
       "file": "sp.split.screen.v1.1.1.32.apk",
       "size": 87535,
-      "sha256": "30c13ff1a0dc967e3d42aacb905bd2806ed8e5811cf8f4530a48ac235b314a26"
+      "sha256": "c61c83afcdbe172235bad8a7a3e4bc55223d8d81d7fb7e5ab361b6031371dde6"
     },
     {
       "package": "com.sp.store",
@@ -72,15 +72,15 @@
       "versionCode": 56,
       "file": "sp.store.v1.1.6.56.apk",
       "size": 202289,
-      "sha256": "e56b56307b56350443483873d04d9ee933c44dc262fead2666db86f3b55293f8"
+      "sha256": "e57599899b0656136d4ce7913af7da1a5ba5bd6f3697c88c18ed739f84ea2502"
     }
   ],
   "broker": {
-    "version": "1.2.23",
-    "build": 233,
+    "version": "1.2.28",
+    "build": 238,
     "file": "sp-broker.jar",
-    "size": 208988,
-    "sha256": "34728e0dbfd5695d00377e135e055d3bc714927fe6530d4409d9d53886ecf7b1"
+    "size": 211464,
+    "sha256": "d9cbe00ffa8fb9c8145a56d4deb156c529e6ade931c10148eb0919fcba376b60"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
@@ -91,7 +91,7 @@
     "binarySha256": "cd2025c26c02972e8416f7832be705426def96ee695692b36056ed1e6148baa3"
   },
   "voice": {
-    "endpoint": "wss://test.asr-api.idri.edu.kh/api/v02/L2Fzcl9jbGllbnRzL1ZuZkRvUmdVQmNNTTI4M1h0ZDJGL2FwaV9rZXlzLzh5emxrUlZ1THJpVmZTOVBhdVFw",
+    "endpoint": "https://asr-api.idri.edu.kh/api/v02/L2Fzcl9jbGllbnRzL1ZuZkRvUmdVQmNNTTI4M1h0ZDJGL2FwaV9rZXlzLzh5emxrUlZ1THJpVmZTOVBhdVFw",
     "wake": {
       "version": "2026-10-30-8d7d398a30c9",
       "files": {
