@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T18:50:34Z",
+  "generated": "2026-11-01T19:03:48Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
@@ -93,17 +93,17 @@
   "voice": {
     "endpoint": "https://api.cadt.edu.kh/api/asr/",
     "wake": {
-      "version": "2026-10-30-8d7d398a30c9",
+      "version": "2026-10-24-c270b22c9ba6",
       "files": {
         "wake.bin": {
           "file": "wake/wake.bin",
-          "sha256": "8d7d398aa5a4ea2732097a65412384c27b50087b0f06f7aded20c51efdba2ab3",
+          "sha256": "c270b22c1c0aaada6a5ff55c077e11f02543fccb34eeb857facc3120c336dfae",
           "size": 2590154
         },
         "hi_avatar.json": {
           "file": "wake/hi_avatar.json",
-          "sha256": "30c9a6cc133c92452b282211bcc02c60bc2a431deedc7d4449a53e36700f1bdd",
-          "size": 182
+          "sha256": "9ba639968438fb5ea0fceb9eced5da86965ad39a98331588208d695f56a92c3e",
+          "size": 423
         }
       }
     },
