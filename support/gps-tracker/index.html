@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SP GPS Tracker — Support</title>
+<meta name="description" content="Support for SP GPS Tracker: connecting to your Traccar server, why a parked car reads as asleep, trips, zones and alerts.">
+<link rel="stylesheet" href="../../assets/site.css">
+<link rel="icon" type="image/png" sizes="32x32" href="../../assets/icon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../../assets/icon-16.png">
+<link rel="apple-touch-icon" href="../../assets/icon-180.png">
+</head>
+<body>
+<div class="wrap">
+
+<header class="masthead">
+  <img src="../../assets/icon-96.png" alt="" width="36" height="36">
+  <div>
+    <div class="name">SP GPS Tracker</div>
+    <div class="role">Where your car is, and was</div>
+  </div>
+  <nav>
+    <a href="./" aria-current="page">Support</a>
+    <a href="privacy.html">Privacy</a>
+    <a href="../">All apps</a>
+  </nav>
+</header>
+
+<h1>SP GPS Tracker — Support</h1>
+<p class="lede">
+  This app is a phone client for <strong>Traccar</strong>, the free open-source tracking
+  server. It does not provide a tracking service &mdash; it signs in to a server you run,
+  and draws what that server already holds.
+</p>
+
+<section>
+  <h2>What you need</h2>
+  <ul>
+    <li>A Traccar server you have access to &mdash; your own, your company's, or a hosted
+        one. The app offers four public demo servers by name if you just want to try it.</li>
+    <li>A tracking device, or a vehicle, reporting into that server.</li>
+    <li>An account on that server. You can create one from the sign-in screen if the
+        server allows registration.</li>
+  </ul>
+  <p class="small muted">
+    We do not run a server, sell a subscription, or receive any of your data.
+  </p>
+</section>
+
+<section>
+  <h2>Common problems</h2>
+  <div class="qa">
+
+    <div>
+      <h3>My car says "Asleep" &mdash; is the tracker broken?</h3>
+      <p>
+        Almost certainly not. Many vehicles cut power to the head unit when parked, so the
+        tracker stops reporting until the car is unlocked again. Most tracking software
+        calls that <em>offline</em>, which reads like a fault.
+      </p>
+      <p>
+        This app reads the age of the last position instead: <strong>Driving</strong> under
+        two minutes, <strong>Parked</strong> under twelve, <strong>Asleep</strong> beyond
+        that. An asleep car will report again on its own when it wakes.
+      </p>
+    </div>
+
+    <div>
+      <h3>Sign-in fails, or bounces me straight back out</h3>
+      <p>
+        Check the server first: a name from the picker, or the full address if you typed
+        your own. If the server is not reachable the app says so within a few seconds
+        rather than hanging.
+      </p>
+      <p>
+        Only a rejected password signs you out. A timeout or a server that is down keeps
+        your session and shows a Retry.
+      </p>
+    </div>
+
+    <div>
+      <h3>One drive is showing as several trips</h3>
+      <p>
+        It shouldn't. A vehicle reports far less often once it reads as stopped, so a
+        queue or a drive-through looks exactly like a park to the server. The app stitches
+        drives back together when the gap between them is under ten minutes.
+      </p>
+      <p>
+        A genuinely longer stop is a genuinely separate trip, and stays one.
+      </p>
+    </div>
+
+    <div>
+      <h3>My zone never tells me anything</h3>
+      <p>
+        A Traccar notification needs <em>two</em> things: a rule, and permission for that
+        rule against the device. One without the other never fires. Zones created in this
+        app are armed against the vehicle in the same step, so they work &mdash; zones made
+        elsewhere may not be.
+      </p>
+      <p>
+        Check <strong>Alerts → the tune icon</strong>: every alert setting is on that one
+        page.
+      </p>
+    </div>
+
+    <div>
+      <h3>I get no notifications when the app is closed</h3>
+      <p>
+        Alerts in this app are raised on the phone from data it has fetched, so they need
+        the app to have run recently. There is no push service.
+      </p>
+      <p>
+        For alerts that reach you with the app closed, switch on <strong>mail</strong>
+        notifications in your Traccar server's own settings.
+      </p>
+    </div>
+
+    <div>
+      <h3>The battery figure is missing or stale</h3>
+      <p>
+        Only vehicles that report a state of charge have one at all. A parked car often
+        sends its last positions after the service that reads the battery has already gone
+        down, so the newest fix carries no charge &mdash; the card then says
+        <em>Last charge</em> and shows the most recent one it saw.
+      </p>
+    </div>
+
+    <div>
+      <h3>Place names are wrong, or missing</h3>
+      <p>
+        Names come from your own server's geocoder first. Most servers have it switched
+        off, so the app falls back to OpenStreetMap's public one. You can turn that
+        fallback off in Settings, after which no coordinate leaves your own server.
+      </p>
+    </div>
+
+  </div>
+</section>
+
+<section>
+  <h2>Good to know</h2>
+  <ul>
+    <li>Your password is sent to your server once and never stored on the phone. Only a
+        <strong>revocable token</strong> is kept, and you can revoke it from Traccar
+        without changing your password.</li>
+    <li>Your phone's own location is only used while the app is open, only after you tap
+        the locate button, and is <strong>never transmitted</strong>.</li>
+    <li>Speed limits are set per vehicle, in Vehicles &mdash; that is the same figure your
+        server alerts against.</li>
+    <li>Map tiles are cached to save data, and can be cleared in Settings.</li>
+    <li>See <a href="privacy.html">Privacy</a> for the complete list of where the app
+        connects.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Still stuck</h2>
+  <p>
+    Write with the server you are using, what you tapped, and what the app said. A
+    screenshot is worth more than a description.
+  </p>
+  <dl class="meta">
+    <div><dt>Email</dt><dd><a href="mailto:dsokpheang@gmail.com">dsokpheang@gmail.com</a></dd></div>
+    <div><dt>Phone</dt><dd>+855 16 466 669</dd></div>
+  </dl>
+</section>
+
+<footer class="colophon">
+  <p>
+    &copy; 2026 Sokpheang Duong. All rights reserved.
+    <a href="../../LICENSE">License</a> &middot;
+    <a href="privacy.html">Privacy</a>
+  </p>
+  <p>
+    Independent software. Not affiliated with or endorsed by the Traccar project, or by
+    any vehicle manufacturer. All trademarks belong to their owners.
+  </p>
+</footer>
+
+</div>
+</body>
+</html>

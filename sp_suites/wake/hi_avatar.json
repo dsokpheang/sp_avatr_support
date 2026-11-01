@@ -1,0 +1,12 @@
+{
+ "model": "hi_avatar.onnx",
+ "frames": 16,
+ "patience": 2,
+ "threshold": {
+  "low": 0.9999,
+  "normal": 0.9998,
+  "high": 0.999
+ },
+ "trained": "2026-10-30",
+ "test_hours": 12.51
+}
