@@ -2,9 +2,9 @@
  "model": "hi_avatar.onnx",
  "head": "conv-attention (tools/wakeword/train.py ConvAttn)",
  "frames": 16,
- "patience": 2,
- "threshold": {"low": 0.998, "normal": 0.995, "high": 0.98},
+ "patience": 4,
+ "threshold": {"low": 0.99, "normal": 0.95, "high": 0.8},
  "trained": "2026-10-24",
- "test_hours": 10.01,
- "measured": "held out, streamed: false wakes/h 0.7 / 0.7 / 1.0 (low/normal/high); recall 97.5-99.1 / 97.9-99.4 / 98.5-99.6 % clean to 0 dB road noise; look-alikes taken 6.8 / 7.9 / 9.5 %"
+ "test_hours": 10.5,
+ "measured": "round 2 head, re-tuned 2026-11-02: 4 frames in a row (was 2 at 0.998/0.995/0.98) — held out, streamed, 10.5 h: false wakes 1 / 2 / 4 (low/normal/high; speakers alone 0 / 0 / 1, was 1 / 2 / 8); recall clean 94.8 / 95.3 / 96.3 %, road 5 dB 97.3 / 98.0 / 98.2 %, cabin 5 dB 84.9 / 87.4 / 88.1 %"
 }
