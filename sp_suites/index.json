@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-03T10:41:11Z",
+  "generated": "2026-11-03T11:05:31Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
@@ -9,7 +9,7 @@
       "versionCode": 476,
       "file": "sp.avatr.kit.v1.2.51.476.apk",
       "size": 15764095,
-      "sha256": "11df6d080394fe533e1aaf7c727eb4a9b682358e12eeb83480945a84fbdddd52"
+      "sha256": "22579e43b6174713284dac51c105f3261a8ef23785ebc9df8dd20cbb7e9d355b"
     },
     {
       "package": "com.sp.cast",
@@ -18,7 +18,7 @@
       "versionCode": 55,
       "file": "sp.cast.v1.1.2.55.apk",
       "size": 132591,
-      "sha256": "87e17a2740266322a918ba8008e96cb447341e2b3887663523880b9fec85366f"
+      "sha256": "04a9ba244b1a91d28ef592cd3e340bcb5933ea27ff9744801e1c4d21801ce904"
     },
     {
       "package": "com.sp.copilot",
@@ -27,7 +27,7 @@
       "versionCode": 32,
       "file": "sp.copilot.v1.1.1.32.apk",
       "size": 99823,
-      "sha256": "d9b1e1a9717ddb99265d6a22b4fd91ae66aa23b0104b2735de81fcd2649568d4"
+      "sha256": "de5d8b5ababb67dd041a9733347fac3b1ec33debf086c6230783cc42e74e9023"
     },
     {
       "package": "com.sp.files",
@@ -36,7 +36,7 @@
       "versionCode": 48,
       "file": "sp.files.v1.1.2.48.apk",
       "size": 587309,
-      "sha256": "30579a3888b0b2442e750a5833ddd67841c0b672076de043bc69b8d47f69a393"
+      "sha256": "49dec4ef6677f301c0551586b2aa89f6d792d534ce03ea2a413abc06347a3518"
     },
     {
       "package": "com.sp.map",
@@ -45,7 +45,7 @@
       "versionCode": 106,
       "file": "sp.map.v1.1.9.106.apk",
       "size": 1297069,
-      "sha256": "e524261841751158455c038fb713168f509a999aceb56fea25245270340462a7"
+      "sha256": "b62b35b8e080b308bd186d25e1d597b707348e94dcd050f85c655f2eafe4dfbf"
     },
     {
       "package": "com.sp.media",
@@ -54,7 +54,7 @@
       "versionCode": 48,
       "file": "sp.media.v1.1.1.48.apk",
       "size": 2115840,
-      "sha256": "da886d607445f585b11eff517229e434892abbc25a6394720e6cf04d46331322"
+      "sha256": "3cb88aba18ac22bffa87de7e93e185d794dc57b5b95398ffc94d5f97a8ebcbad"
     },
     {
       "package": "com.sp.splitscreen",
@@ -63,7 +63,7 @@
       "versionCode": 32,
       "file": "sp.split.screen.v1.1.1.32.apk",
       "size": 87535,
-      "sha256": "6d3d7437de9c135cc6647a728f47a0639f45cb0f3363b3d6c78073d2ce135a99"
+      "sha256": "4a802d82a30cba0f1641bedc803c554da30b490bc16a913a94998f5137307d1b"
     },
     {
       "package": "com.sp.store",
@@ -72,7 +72,7 @@
       "versionCode": 56,
       "file": "sp.store.v1.1.6.56.apk",
       "size": 202289,
-      "sha256": "76bd0e5df2098076e9a785bec425467d6d9ac511fcf48b8c8c099c83eabf2999"
+      "sha256": "7ee96e614bbdcbbef8e229f08d2a103a5b35a4671617b6b21a63e7c9be5b382f"
     }
   ],
   "broker": {
@@ -80,7 +80,7 @@
     "build": 248,
     "file": "sp-broker.jar",
     "size": 217421,
-    "sha256": "35d2099b68b11e8161a8457d3f31e865a7a4f682a4c5aa455ea6f636e74e29ec"
+    "sha256": "e4e8ae6f7057a4f72b98fcd1daa6105d9301449112d46c8e8f49e000c2afea15"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
@@ -206,7 +206,7 @@
       "versionCode": 1068821140,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
       "file": "app.morphe.android.apps.maps.v1068821140.apk",
-      "url": "https://drive.usercontent.google.com/download?id=1_4gHHa4tITsUNwpjca3nslETLHi7qtuW&export=download&confirm=t",
+      "url": "https://drive.usercontent.google.com/download?id=1AT_IlyDSNl8P2AN5Sfva4S_wsSgMCFPt&export=download&confirm=t",
       "size": 162815383,
       "sha256": "77c8819e7ff7c619d6dc0ae153a1716fdc29a377e627f000565f696dc5b3930d"
     },
@@ -217,7 +217,7 @@
       "versionCode": 92053243,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
       "file": "app.morphe.android.apps.youtube.music.v92053243.apk",
-      "url": "https://drive.usercontent.google.com/download?id=1Y0B4GPVlc6WQSORgjXebyCQaX1GuqVBs&export=download&confirm=t",
+      "url": "https://drive.usercontent.google.com/download?id=1gEtJ4kV0yTsc-IX2UXk6paqXM4WIr-ya&export=download&confirm=t",
       "size": 77503207,
       "sha256": "8a720049d318d9174b87532178a736dee84ea62537762ccbe31479bfd8138a2b"
     },
@@ -228,7 +228,7 @@
       "versionCode": 1561173358,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
       "file": "app.morphe.android.youtube.v1561173358.apk",
-      "url": "https://drive.usercontent.google.com/download?id=1ZSqYeKesdX6fw5TEt1W117khXS-RjT1B&export=download&confirm=t",
+      "url": "https://drive.usercontent.google.com/download?id=1UTP_WGeBYgSBpBgQhrj3N9DQ4qJTV5ad&export=download&confirm=t",
       "size": 107275077,
       "sha256": "ad8c5831f270da0d3e12a93c7e4327c76428dbf2b092c31e9989ac3b2a995c7c"
     }
