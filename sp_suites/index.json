@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-11-03T09:26:50Z",
+  "generated": "2026-11-03T10:41:11Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.2.50",
-      "versionCode": 475,
-      "file": "sp.avatr.kit.v1.2.50.475.apk",
+      "versionName": "1.2.51",
+      "versionCode": 476,
+      "file": "sp.avatr.kit.v1.2.51.476.apk",
       "size": 15764095,
-      "sha256": "c8072d52ee37600ebca8c7e8669efe36f257540bf581557706a16d896c12b640"
+      "sha256": "11df6d080394fe533e1aaf7c727eb4a9b682358e12eeb83480945a84fbdddd52"
     },
     {
       "package": "com.sp.cast",
@@ -18,7 +18,7 @@
       "versionCode": 55,
       "file": "sp.cast.v1.1.2.55.apk",
       "size": 132591,
-      "sha256": "7215ca77cec4f94f26c7717251f8613e505090ea1bfed6abd3141bd2460a357f"
+      "sha256": "87e17a2740266322a918ba8008e96cb447341e2b3887663523880b9fec85366f"
     },
     {
       "package": "com.sp.copilot",
@@ -27,7 +27,7 @@
       "versionCode": 32,
       "file": "sp.copilot.v1.1.1.32.apk",
       "size": 99823,
-      "sha256": "3f696f948e0ca526a63dfa9d3c87ae78b48667ff186e73632ecf67ea75de5d7c"
+      "sha256": "d9b1e1a9717ddb99265d6a22b4fd91ae66aa23b0104b2735de81fcd2649568d4"
     },
     {
       "package": "com.sp.files",
@@ -36,7 +36,7 @@
       "versionCode": 48,
       "file": "sp.files.v1.1.2.48.apk",
       "size": 587309,
-      "sha256": "6d9eb6e0c7bba204549847a4f47bc2db1cce3d69ab3a460d9f312ff76f17ee17"
+      "sha256": "30579a3888b0b2442e750a5833ddd67841c0b672076de043bc69b8d47f69a393"
     },
     {
       "package": "com.sp.map",
@@ -45,7 +45,7 @@
       "versionCode": 106,
       "file": "sp.map.v1.1.9.106.apk",
       "size": 1297069,
-      "sha256": "8d5bebaf5ab51049856ad9699d37db8a22f716604ae6bfb845801d3bd92f5f35"
+      "sha256": "e524261841751158455c038fb713168f509a999aceb56fea25245270340462a7"
     },
     {
       "package": "com.sp.media",
@@ -54,7 +54,7 @@
       "versionCode": 48,
       "file": "sp.media.v1.1.1.48.apk",
       "size": 2115840,
-      "sha256": "714943d270a3d0df662af2367a1f60f55f305850f1a2d76f1cbcb7f9dc788e86"
+      "sha256": "da886d607445f585b11eff517229e434892abbc25a6394720e6cf04d46331322"
     },
     {
       "package": "com.sp.splitscreen",
@@ -63,7 +63,7 @@
       "versionCode": 32,
       "file": "sp.split.screen.v1.1.1.32.apk",
       "size": 87535,
-      "sha256": "10ab00d69960606462aa80251166920cf4a58921a5bfd08ae76f5d7ffe00511b"
+      "sha256": "6d3d7437de9c135cc6647a728f47a0639f45cb0f3363b3d6c78073d2ce135a99"
     },
     {
       "package": "com.sp.store",
@@ -72,15 +72,15 @@
       "versionCode": 56,
       "file": "sp.store.v1.1.6.56.apk",
       "size": 202289,
-      "sha256": "8c8cfbe3a03b490a4a1302ae7d1432ed28e1742bfc711312fc3ebc1fee1d3f5b"
+      "sha256": "76bd0e5df2098076e9a785bec425467d6d9ac511fcf48b8c8c099c83eabf2999"
     }
   ],
   "broker": {
-    "version": "1.2.37",
-    "build": 247,
+    "version": "1.2.38",
+    "build": 248,
     "file": "sp-broker.jar",
-    "size": 217379,
-    "sha256": "64d0943bc7bfc6072f522f3b98430cad5584be61acfc82dfaecbf10754c5c604"
+    "size": 217421,
+    "sha256": "35d2099b68b11e8161a8457d3f31e865a7a4f682a4c5aa455ea6f636e74e29ec"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
@@ -213,24 +213,24 @@
     {
       "package": "app.morphe.android.apps.youtube.music",
       "label": "Morphe YT Music",
-      "versionName": "9.20.53.SP.2",
-      "versionCode": 92053242,
+      "versionName": "9.20.53.SP.3",
+      "versionCode": 92053243,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
-      "file": "app.morphe.android.apps.youtube.music.v92053242.apk",
+      "file": "app.morphe.android.apps.youtube.music.v92053243.apk",
       "url": "https://drive.usercontent.google.com/download?id=1Y0B4GPVlc6WQSORgjXebyCQaX1GuqVBs&export=download&confirm=t",
       "size": 77503207,
-      "sha256": "52a951aa6e08dc5c45055173c069cd9a56e9208595f5700a95414780874122d5"
+      "sha256": "8a720049d318d9174b87532178a736dee84ea62537762ccbe31479bfd8138a2b"
     },
     {
       "package": "app.morphe.android.youtube",
       "label": "Morphe YouTube",
-      "versionName": "21.20.405.SP.3",
-      "versionCode": 1561173357,
+      "versionName": "21.20.405.SP.4",
+      "versionCode": 1561173358,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
-      "file": "app.morphe.android.youtube.v1561173357.apk",
+      "file": "app.morphe.android.youtube.v1561173358.apk",
       "url": "https://drive.usercontent.google.com/download?id=1ZSqYeKesdX6fw5TEt1W117khXS-RjT1B&export=download&confirm=t",
-      "size": 108614421,
-      "sha256": "28249cb8955764ff8d6244bd51f5733fe7ddd8cc9446f3b65fdd0e91a78440f1"
+      "size": 107275077,
+      "sha256": "ad8c5831f270da0d3e12a93c7e4327c76428dbf2b092c31e9989ac3b2a995c7c"
     }
   ],
   "optional": [
