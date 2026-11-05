@@ -1,24 +1,24 @@
 {
   "schema": 1,
-  "generated": "2026-11-05T01:10:05Z",
+  "generated": "2026-11-05T05:20:11Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.2.66",
-      "versionCode": 491,
-      "file": "sp.avatr.kit.v1.2.66.491.apk",
+      "versionName": "1.2.68",
+      "versionCode": 493,
+      "file": "sp.avatr.kit.v1.2.68.493.apk",
       "size": 15800959,
-      "sha256": "9af7142cc061be72d9624e9c47655be0f5e8f40b0b3249230f923a4148952ada"
+      "sha256": "61aad124abc4d8d8d8ad14b5eae4bd7ba8cd99701621cbccd9539e26eb37708a"
     },
     {
       "package": "com.sp.cast",
       "label": "SP Cast",
-      "versionName": "1.1.2",
-      "versionCode": 55,
-      "file": "sp.cast.v1.1.2.55.apk",
+      "versionName": "1.1.3",
+      "versionCode": 56,
+      "file": "sp.cast.v1.1.3.56.apk",
       "size": 132591,
-      "sha256": "4e4c84dd58c8ad174d2f2ffc702a6a29545c42bcd2731dbbcf6c53293a21e9e4"
+      "sha256": "515af02d2bf871efb1b235371d098b95e273f7801125f845eeb5225516693f3a"
     },
     {
       "package": "com.sp.copilot",
@@ -27,7 +27,7 @@
       "versionCode": 32,
       "file": "sp.copilot.v1.1.1.32.apk",
       "size": 99823,
-      "sha256": "a5796921f26a51560f40c0c441889296d235591f84a456e9b92625e34bc0003b"
+      "sha256": "b53de3aaa85303899a10c6ca52f016ff24a1125f8f48bc6f1c6c39c4913acbd3"
     },
     {
       "package": "com.sp.files",
@@ -36,16 +36,16 @@
       "versionCode": 48,
       "file": "sp.files.v1.1.2.48.apk",
       "size": 587309,
-      "sha256": "eec5299e9dd8864da610ebd96c833a042146d6384822e796df2e119b08cabae4"
+      "sha256": "63892a3e3dd389565cc8b9a3495f6c2318dd518b8260d2f55b06fb0089052986"
     },
     {
       "package": "com.sp.map",
       "label": "SP Map",
-      "versionName": "1.1.9",
-      "versionCode": 106,
-      "file": "sp.map.v1.1.9.106.apk",
+      "versionName": "1.1.10",
+      "versionCode": 107,
+      "file": "sp.map.v1.1.10.107.apk",
       "size": 1297069,
-      "sha256": "c39d2bc39cec6ecaf07b786fbc03df41a84b10d9ff1a1e846580bb969057a37f"
+      "sha256": "d4151a3cb8cb5ffe52e7368dce544e75c57e4c82f7b9fe7e318f50498964ec64"
     },
     {
       "package": "com.sp.media",
@@ -54,7 +54,7 @@
       "versionCode": 48,
       "file": "sp.media.v1.1.1.48.apk",
       "size": 2115840,
-      "sha256": "81adc0e31b44d8f17eecbc68d778fba90907b4096e73fc8f0feb19d54806e5b6"
+      "sha256": "b75e5b94932b6993b977eb897c0463e0540b523b0506be3fc324e21c41e4b2b3"
     },
     {
       "package": "com.sp.splitscreen",
@@ -63,7 +63,7 @@
       "versionCode": 32,
       "file": "sp.split.screen.v1.1.1.32.apk",
       "size": 87535,
-      "sha256": "f5f95706f8788f215ee9bf329c471e7626880e9df019b0d91e5223d23259d174"
+      "sha256": "c911aae88c89cc220fc0edc16271a6e81a5303818b5b7988c36beb4fd8b16aa0"
     },
     {
       "package": "com.sp.store",
@@ -72,15 +72,15 @@
       "versionCode": 56,
       "file": "sp.store.v1.1.6.56.apk",
       "size": 202289,
-      "sha256": "73956106a498786960ac2674256320c28948916f8d8ea0174b9e5c62e1aa4e4d"
+      "sha256": "e3bfd01fea2dcdea2b49b1d3e4cde359d57f9d1c34eb0fe43b8566baf881c371"
     }
   ],
   "broker": {
-    "version": "1.2.38",
-    "build": 248,
+    "version": "1.2.40",
+    "build": 250,
     "file": "sp-broker.jar",
-    "size": 217421,
-    "sha256": "54ad7e5d11af7031d00dd1aa2cd6fc1e78d1f0550b994bf8028b9f004b43a0e0"
+    "size": 217785,
+    "sha256": "e16f05dc8f27491b86f3d063e71e2e0cadf24310a4a6c02f57f499b39ccc2707"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
@@ -193,10 +193,10 @@
         "id": "e12",
         "name": "Avatr 12",
         "file": "welcomecar/e12.zip",
-        "sha256": "1a39172867062f634627f5b3d2e08d7aa75b643c2fd7c07f7345560446c88839",
-        "size": 5307972,
+        "sha256": "1adc1ed636f365d0ec320322ed3aeade5993370600c8a4d3a68aba0ae6e2667a",
+        "size": 5912479,
         "preview": "welcomecar/e12.png",
-        "preview_sha256": "b4731594d4afc7f798f407cd09fb180082f69582463821ddabc6f1fc3a3e5555"
+        "preview_sha256": "ce4b96b733cc3b409cf7731919fcf13edf1dd6c12e32ca48229271f27fc99557"
       }
     ]
   },
