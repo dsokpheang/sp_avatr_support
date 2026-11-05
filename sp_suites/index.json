@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-11-05T05:20:11Z",
+  "generated": "2026-11-05T06:23:59Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.2.68",
-      "versionCode": 493,
-      "file": "sp.avatr.kit.v1.2.68.493.apk",
-      "size": 15800959,
-      "sha256": "61aad124abc4d8d8d8ad14b5eae4bd7ba8cd99701621cbccd9539e26eb37708a"
+      "versionName": "1.2.74",
+      "versionCode": 499,
+      "file": "sp.avatr.kit.v1.2.74.499.apk",
+      "size": 15805055,
+      "sha256": "5fa45e1b3f7d4ed46c4df12027703e8718f87b8afbd9f669124f6275940bde79"
     },
     {
       "package": "com.sp.cast",
@@ -18,7 +18,7 @@
       "versionCode": 56,
       "file": "sp.cast.v1.1.3.56.apk",
       "size": 132591,
-      "sha256": "515af02d2bf871efb1b235371d098b95e273f7801125f845eeb5225516693f3a"
+      "sha256": "2b1cb26967ee6d59044ce107f663d370bcfc55124530a1c6d78284deb439cdf2"
     },
     {
       "package": "com.sp.copilot",
@@ -27,7 +27,7 @@
       "versionCode": 32,
       "file": "sp.copilot.v1.1.1.32.apk",
       "size": 99823,
-      "sha256": "b53de3aaa85303899a10c6ca52f016ff24a1125f8f48bc6f1c6c39c4913acbd3"
+      "sha256": "ed48547a4f04478e04cf3dba8a681d04fbc8b89d2802f9be841aebdbcaafb5af"
     },
     {
       "package": "com.sp.files",
@@ -36,7 +36,7 @@
       "versionCode": 48,
       "file": "sp.files.v1.1.2.48.apk",
       "size": 587309,
-      "sha256": "63892a3e3dd389565cc8b9a3495f6c2318dd518b8260d2f55b06fb0089052986"
+      "sha256": "9a6187345038f5382f5ec0a5b6327ee566281d7da81acc55b0b5b75a91f993ce"
     },
     {
       "package": "com.sp.map",
@@ -45,7 +45,7 @@
       "versionCode": 107,
       "file": "sp.map.v1.1.10.107.apk",
       "size": 1297069,
-      "sha256": "d4151a3cb8cb5ffe52e7368dce544e75c57e4c82f7b9fe7e318f50498964ec64"
+      "sha256": "f25a45a3dff98cc877b6abc3b2bdc66fb39b5eb575a98c39ad1adb4524ce8b0e"
     },
     {
       "package": "com.sp.media",
@@ -54,7 +54,7 @@
       "versionCode": 48,
       "file": "sp.media.v1.1.1.48.apk",
       "size": 2115840,
-      "sha256": "b75e5b94932b6993b977eb897c0463e0540b523b0506be3fc324e21c41e4b2b3"
+      "sha256": "13fcd033733566a12709e7e68b4749e1a2c7cc3fb492273313367445e2a3788d"
     },
     {
       "package": "com.sp.splitscreen",
@@ -63,7 +63,7 @@
       "versionCode": 32,
       "file": "sp.split.screen.v1.1.1.32.apk",
       "size": 87535,
-      "sha256": "c911aae88c89cc220fc0edc16271a6e81a5303818b5b7988c36beb4fd8b16aa0"
+      "sha256": "bfe9354953f428762a8aa462e57e2186e9f1c4c40b56a30eef1c1620a470e2e1"
     },
     {
       "package": "com.sp.store",
@@ -72,7 +72,7 @@
       "versionCode": 56,
       "file": "sp.store.v1.1.6.56.apk",
       "size": 202289,
-      "sha256": "e3bfd01fea2dcdea2b49b1d3e4cde359d57f9d1c34eb0fe43b8566baf881c371"
+      "sha256": "836a89a30e0f01fe559a959db987b521cef1e64006278a36ec74d74f0b73db5c"
     }
   ],
   "broker": {
@@ -80,7 +80,7 @@
     "build": 250,
     "file": "sp-broker.jar",
     "size": 217785,
-    "sha256": "e16f05dc8f27491b86f3d063e71e2e0cadf24310a4a6c02f57f499b39ccc2707"
+    "sha256": "ba3a3da2cfdef8922ea483ed7ea107cc65ec700eba444c00c9a16d7931e67d9e"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
@@ -184,19 +184,19 @@
         "id": "e11",
         "name": "Avatr 11",
         "file": "welcomecar/e11.zip",
-        "sha256": "b6b2a63825d2165c0b324833779f5f16af96da7ec58202923398fa8bd9c10274",
-        "size": 6081316,
+        "sha256": "046abacbedf574d97ad31affca336d523bf1d970c4af525b25b4d1f937580d6b",
+        "size": 6994548,
         "preview": "welcomecar/e11.png",
-        "preview_sha256": "01b408b7a9fd585a8231a6b8ce8b70def2a012c0feb7a6bee9f14620999b1b74"
+        "preview_sha256": "753cc617dafb595ea4b956cc79526c49cb7fb6c375026e354f0d660a800ab662"
       },
       {
         "id": "e12",
         "name": "Avatr 12",
         "file": "welcomecar/e12.zip",
-        "sha256": "1adc1ed636f365d0ec320322ed3aeade5993370600c8a4d3a68aba0ae6e2667a",
-        "size": 5912479,
+        "sha256": "3dfb65ff5625aa5d2c38fa541616fd0af283e3aed817a9aa30ece4c81e8ce6ae",
+        "size": 6243006,
         "preview": "welcomecar/e12.png",
-        "preview_sha256": "ce4b96b733cc3b409cf7731919fcf13edf1dd6c12e32ca48229271f27fc99557"
+        "preview_sha256": "8675dae397076b88be62c2731f6867c7842527e19bcb14c54f1752c6b8f4ab2f"
       }
     ]
   },
