@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-11-03T19:18:18Z",
+  "generated": "2026-11-05T01:10:05Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.2.63",
-      "versionCode": 488,
-      "file": "sp.avatr.kit.v1.2.63.488.apk",
-      "size": 15788671,
-      "sha256": "61710506edffe69c6038380f68108be8cb4c5a3f729c2b7c121df6c92e9b1d18"
+      "versionName": "1.2.66",
+      "versionCode": 491,
+      "file": "sp.avatr.kit.v1.2.66.491.apk",
+      "size": 15800959,
+      "sha256": "9af7142cc061be72d9624e9c47655be0f5e8f40b0b3249230f923a4148952ada"
     },
     {
       "package": "com.sp.cast",
@@ -18,7 +18,7 @@
       "versionCode": 55,
       "file": "sp.cast.v1.1.2.55.apk",
       "size": 132591,
-      "sha256": "657b316f8f6c60fe0c8af82df6aefbe38fbddb676b48d840e606c6abfe764e3f"
+      "sha256": "4e4c84dd58c8ad174d2f2ffc702a6a29545c42bcd2731dbbcf6c53293a21e9e4"
     },
     {
       "package": "com.sp.copilot",
@@ -27,7 +27,7 @@
       "versionCode": 32,
       "file": "sp.copilot.v1.1.1.32.apk",
       "size": 99823,
-      "sha256": "b76d2767df0c717abfe70980672b273064f522906f5bf7c8f9a149a4137e7064"
+      "sha256": "a5796921f26a51560f40c0c441889296d235591f84a456e9b92625e34bc0003b"
     },
     {
       "package": "com.sp.files",
@@ -36,7 +36,7 @@
       "versionCode": 48,
       "file": "sp.files.v1.1.2.48.apk",
       "size": 587309,
-      "sha256": "4e8b4504c86437415cc0c9f78dc1b36ae7b9d5b915f84956ae92969757546a7d"
+      "sha256": "eec5299e9dd8864da610ebd96c833a042146d6384822e796df2e119b08cabae4"
     },
     {
       "package": "com.sp.map",
@@ -45,7 +45,7 @@
       "versionCode": 106,
       "file": "sp.map.v1.1.9.106.apk",
       "size": 1297069,
-      "sha256": "300f853bffe228ef43811bf976ed66fbc4cedc33201eed5bfcc6c00d6bf3d0ce"
+      "sha256": "c39d2bc39cec6ecaf07b786fbc03df41a84b10d9ff1a1e846580bb969057a37f"
     },
     {
       "package": "com.sp.media",
@@ -54,7 +54,7 @@
       "versionCode": 48,
       "file": "sp.media.v1.1.1.48.apk",
       "size": 2115840,
-      "sha256": "616c226faa357ce162c11e437994091126e16841d3a33db47955a444145ba60a"
+      "sha256": "81adc0e31b44d8f17eecbc68d778fba90907b4096e73fc8f0feb19d54806e5b6"
     },
     {
       "package": "com.sp.splitscreen",
@@ -63,7 +63,7 @@
       "versionCode": 32,
       "file": "sp.split.screen.v1.1.1.32.apk",
       "size": 87535,
-      "sha256": "45e3be52626ee85476d7c5714efb72e68600d1313dbb8be1ad88f0889a106b89"
+      "sha256": "f5f95706f8788f215ee9bf329c471e7626880e9df019b0d91e5223d23259d174"
     },
     {
       "package": "com.sp.store",
@@ -72,7 +72,7 @@
       "versionCode": 56,
       "file": "sp.store.v1.1.6.56.apk",
       "size": 202289,
-      "sha256": "9b523c08ad56f55c146c505cc795db107c0e8fa898c316166a79a43101670056"
+      "sha256": "73956106a498786960ac2674256320c28948916f8d8ea0174b9e5c62e1aa4e4d"
     }
   ],
   "broker": {
@@ -80,7 +80,7 @@
     "build": 248,
     "file": "sp-broker.jar",
     "size": 217421,
-    "sha256": "e7fe47e07f98a293290261180ebac6c52b2adb75341d9edf10321e407ad61e57"
+    "sha256": "54ad7e5d11af7031d00dd1aa2cd6fc1e78d1f0550b994bf8028b9f004b43a0e0"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
@@ -157,6 +157,46 @@
         "size": 4497912,
         "preview": "hdpet/bao.png",
         "preview_sha256": "459e24bdd33a0fe2ff84f6abee89d54638d5a1377bbbf0ab056991d5036f4147"
+      },
+      {
+        "id": "sakura",
+        "name": "Sakura",
+        "file": "hdpet/sakura.zip",
+        "sha256": "16063c2698957b2a170a7990bb1beaad09bb8c6d754784ed481510d5bc2275ff",
+        "size": 2802785,
+        "preview": "hdpet/sakura.png",
+        "preview_sha256": "b12151d0e27f4292e089ee64f010a5eb3be80730cf129511122267ce5af990e8"
+      },
+      {
+        "id": "mimi",
+        "name": "Mimi",
+        "file": "hdpet/mimi.zip",
+        "sha256": "7a8f2d2aa9ba151421e9f421afc72548d26fcc39787a7f514d1cc8be4146c864",
+        "size": 2576537,
+        "preview": "hdpet/mimi.png",
+        "preview_sha256": "5c02569a4fb2f671bddfd7e8d80da77634e84d664c5d95fc6f7622784ed2e0fc"
+      }
+    ]
+  },
+  "welcomecar": {
+    "cars": [
+      {
+        "id": "e11",
+        "name": "Avatr 11",
+        "file": "welcomecar/e11.zip",
+        "sha256": "b6b2a63825d2165c0b324833779f5f16af96da7ec58202923398fa8bd9c10274",
+        "size": 6081316,
+        "preview": "welcomecar/e11.png",
+        "preview_sha256": "01b408b7a9fd585a8231a6b8ce8b70def2a012c0feb7a6bee9f14620999b1b74"
+      },
+      {
+        "id": "e12",
+        "name": "Avatr 12",
+        "file": "welcomecar/e12.zip",
+        "sha256": "1a39172867062f634627f5b3d2e08d7aa75b643c2fd7c07f7345560446c88839",
+        "size": 5307972,
+        "preview": "welcomecar/e12.png",
+        "preview_sha256": "b4731594d4afc7f798f407cd09fb180082f69582463821ddabc6f1fc3a3e5555"
       }
     ]
   },
