@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-11-06T08:07:03Z",
+  "generated": "2026-11-06T16:12:30Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.2.98",
-      "versionCode": 524,
-      "file": "sp.avatr.kit.v1.2.98.524.apk",
-      "size": 14883884,
-      "sha256": "514e90441c515a82a27493295b230aed09c30fce8fe6f2416ddabc8d1c2333f0"
+      "versionName": "1.2.107",
+      "versionCode": 533,
+      "file": "sp.avatr.kit.v1.2.107.533.apk",
+      "size": 14912556,
+      "sha256": "698f767e5009bfe1e591f7bf08f48805fd18b1ac7055fcdf3bbaf26fe913fcb7"
     },
     {
       "package": "com.sp.cast",
@@ -126,55 +126,55 @@
         "id": "mochi",
         "name": "Mochi",
         "file": "hdpet/mochi.zip",
-        "sha256": "50c69018f576a20f324fb9b7e41ef1dedeb921c78db28698a43ce153d297e4f9",
-        "size": 5346372,
+        "sha256": "da8cb4e349384abb002a2f2a984bad9615cea9289c56ba46a321863ce987324f",
+        "size": 6986324,
         "preview": "hdpet/mochi.png",
-        "preview_sha256": "46e7fdb30507e072f41aec8de69b487c919dd11dad6eb95b2db4be37593e9743"
+        "preview_sha256": "56d85a92d0799c6d4809b82b5182e4bf971fdcef6b483da6dffaa06ed0bc02a5"
       },
       {
         "id": "bobo",
         "name": "Bobo",
         "file": "hdpet/bobo.zip",
-        "sha256": "8ba4b5c1424c1e25e04e40012e44647606ca005b8601b3cfea3b4b8400225cca",
-        "size": 4731055,
+        "sha256": "34f8e2a0adc7296c0c9fc98ee0f093e38231f12a17d64f2aca6a7643c82404bc",
+        "size": 7770255,
         "preview": "hdpet/bobo.png",
-        "preview_sha256": "7906fb08e2829a433f453cb5744bad6672b839ea321d8da687f5160d5c378038"
+        "preview_sha256": "2b3fdfe29372f7c2b41b7e4861f0889c0f7f396f85e3373f0c8525cf0ece4fba"
       },
       {
         "id": "pip",
         "name": "Pip",
         "file": "hdpet/pip.zip",
-        "sha256": "45d5a6a98ebc556b0da53808b483d9a9dbcd59ae0f92323ca625cc05a47f4f31",
-        "size": 5479594,
+        "sha256": "87a3eb45ba8e8777744363c127c1f709a0700a535c0e39867ee1b1bd7476074f",
+        "size": 5510968,
         "preview": "hdpet/pip.png",
-        "preview_sha256": "8ab73d4ed1e3c5545bc9d7b3a2e1a5c66d768e25d49edf4b48ce549a75b8c92d"
+        "preview_sha256": "d31ed2ffdd65aaeb85bdae5348410206d83ab44e6754e8b230dfc979b4ebda05"
       },
       {
         "id": "bao",
         "name": "Bao",
         "file": "hdpet/bao.zip",
-        "sha256": "923b5c57c27cfe4f2e5be8e9f3f66cac3b2abd469865ab1f4d59482569ecd7b3",
-        "size": 4497912,
+        "sha256": "ac95ecad9b4ba7195027a68601089c10efedb7ecb7a477268448f84a19a0b996",
+        "size": 6520300,
         "preview": "hdpet/bao.png",
-        "preview_sha256": "459e24bdd33a0fe2ff84f6abee89d54638d5a1377bbbf0ab056991d5036f4147"
+        "preview_sha256": "ad11d0a50c1f990e336db2bb8b7b3e260aa95cbddded89f1e9f9b795dbda6821"
       },
       {
         "id": "sakura",
         "name": "Sakura",
         "file": "hdpet/sakura.zip",
-        "sha256": "16063c2698957b2a170a7990bb1beaad09bb8c6d754784ed481510d5bc2275ff",
-        "size": 2802785,
+        "sha256": "3c0932bf3fd91ffc8616d20c3d83643f4fc82412ee6ee295e0b5e373d9e1d2e0",
+        "size": 4916419,
         "preview": "hdpet/sakura.png",
-        "preview_sha256": "b12151d0e27f4292e089ee64f010a5eb3be80730cf129511122267ce5af990e8"
+        "preview_sha256": "8f25283f81bdd00dc65b586a13b7c7c9771d64dc23bd86ac7e93ae0ef2bc38fb"
       },
       {
         "id": "mimi",
         "name": "Mimi",
         "file": "hdpet/mimi.zip",
-        "sha256": "7a8f2d2aa9ba151421e9f421afc72548d26fcc39787a7f514d1cc8be4146c864",
-        "size": 2576537,
+        "sha256": "7a72f3dfa6b003968bb4ed4471107bb7e7e04d46f479630d1259d34db5bdd5c8",
+        "size": 4120685,
         "preview": "hdpet/mimi.png",
-        "preview_sha256": "5c02569a4fb2f671bddfd7e8d80da77634e84d664c5d95fc6f7622784ed2e0fc"
+        "preview_sha256": "79d9d092401855a62a927d4438d45e06c6a48219e0dc54f140aa9279d39d0e45"
       }
     ]
   },
