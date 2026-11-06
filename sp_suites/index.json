@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-11-06T16:12:30Z",
+  "generated": "2026-11-06T16:39:04Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.2.107",
-      "versionCode": 533,
-      "file": "sp.avatr.kit.v1.2.107.533.apk",
-      "size": 14912556,
-      "sha256": "698f767e5009bfe1e591f7bf08f48805fd18b1ac7055fcdf3bbaf26fe913fcb7"
+      "versionName": "1.2.109",
+      "versionCode": 535,
+      "file": "sp.avatr.kit.v1.2.109.535.apk",
+      "size": 4276807,
+      "sha256": "3027945b46205d8afcb664250bbf3576ff4a5750624d0a931888e3c35e886585"
     },
     {
       "package": "com.sp.cast",
@@ -32,11 +32,11 @@
     {
       "package": "com.sp.files",
       "label": "SP Files",
-      "versionName": "1.1.3",
-      "versionCode": 49,
-      "file": "sp.files.v1.1.3.49.apk",
-      "size": 591405,
-      "sha256": "d8aa50d8eabfb5c339c7413bd075792432d2d5f8e1452cd8276570ed6887f5b7"
+      "versionName": "1.1.4",
+      "versionCode": 50,
+      "file": "sp.files.v1.1.4.50.apk",
+      "size": 259629,
+      "sha256": "aca279b6939e53425469059a5a93b4299b1d7e2caff8c1a2e26c43d8966acd94"
     },
     {
       "package": "com.sp.map",
@@ -50,11 +50,11 @@
     {
       "package": "com.sp.media",
       "label": "SP Media",
-      "versionName": "1.1.2",
-      "versionCode": 49,
-      "file": "sp.media.v1.1.2.49.apk",
-      "size": 2119936,
-      "sha256": "c828fc2f298a5c15b5672c1f3e707b7d8ec82709133bd56d2ceefa69e2499970"
+      "versionName": "1.1.3",
+      "versionCode": 50,
+      "file": "sp.media.v1.1.3.50.apk",
+      "size": 952576,
+      "sha256": "2d18dd595e1f8970b465f6dbaa895dad0321afd1fa8324c16d2988228db13d35"
     },
     {
       "package": "com.sp.splitscreen",
@@ -112,6 +112,12 @@
       "sha256": "7ae60a84a8a8dac98197aa35e5eb0614a2f2499bba3eca08c07785187389afde",
       "size": 8118904,
       "count": 482
+    },
+    "female": {
+      "file": "voice/prompts_female.zip",
+      "sha256": "083358e368ab76a62eb8ca4ec64cd17db750ba798a4ca9d8c4df66d1adc0a9e0",
+      "size": 8923937,
+      "count": 483
     },
     "offline": {
       "file": "ggml-small-khmer-v2-q5_0.bin",
@@ -200,6 +206,305 @@
       }
     ]
   },
+  "locksound": {
+    "files": {
+      "lock_alarm": {
+        "file": "locksound/lock_alarm.m4a",
+        "sha256": "c1b669119580b3ca20555bb217ab8ef2b1d0a09ad889b034fb223f9bf82e13d7",
+        "size": 9591
+      },
+      "lock_auldlangsyne": {
+        "file": "locksound/lock_auldlangsyne.m4a",
+        "sha256": "39723509058e81ba45e17de809be486072979b8d54ff8335d6cf4b4b2c99e85c",
+        "size": 84731
+      },
+      "lock_beethoven5": {
+        "file": "locksound/lock_beethoven5.m4a",
+        "sha256": "c83dfa1e356b2c3e9ee24a751ffb296372271d71cf2cf0dfb34f8e89d615da12",
+        "size": 54571
+      },
+      "lock_bigben": {
+        "file": "locksound/lock_bigben.m4a",
+        "sha256": "dc2a45e60088374f4442960abc5052728bd9750cd8b6118278604088db9f768f",
+        "size": 99031
+      },
+      "lock_birthday": {
+        "file": "locksound/lock_birthday.m4a",
+        "sha256": "54e4cbbf98327d8da3185ab8309c37a87ebc50e8b880d9f2041f1e45998ef57d",
+        "size": 75111
+      },
+      "lock_bluedanube": {
+        "file": "locksound/lock_bluedanube.m4a",
+        "sha256": "857680e21f19024bb43248f4b14c0ad0943fd02d23e3e363b3cfa7245e160663",
+        "size": 94871
+      },
+      "lock_bridal": {
+        "file": "locksound/lock_bridal.m4a",
+        "sha256": "1cff527ade116093703e075ed39606aff426bbc0376098874d7f55d71ad30a12",
+        "size": 61071
+      },
+      "lock_cancan": {
+        "file": "locksound/lock_cancan.m4a",
+        "sha256": "b662c0402d9c1a478397fb278e97456ed3d5afed4671bc6bd2c57460e5650977",
+        "size": 52751
+      },
+      "lock_canon": {
+        "file": "locksound/lock_canon.m4a",
+        "sha256": "dad90e922d86c4d6e2195e9808b14f4c4a5c1a10241ace48af2aa378823ccbc8",
+        "size": 106831
+      },
+      "lock_charge": {
+        "file": "locksound/lock_charge.m4a",
+        "sha256": "6b1af42b3aa972baba35e29e5eb2987461f7eee75fe5e9ab5afba5f9d53b9463",
+        "size": 32731
+      },
+      "lock_crystal": {
+        "file": "locksound/lock_crystal.m4a",
+        "sha256": "c2939c4ea358c049363e2adc155c03ec8cfe8bc8e830200f2b87b108cd779535",
+        "size": 38971
+      },
+      "lock_cucaracha": {
+        "file": "locksound/lock_cucaracha.m4a",
+        "sha256": "8adc9d23594fd5e8438911b2e3fd2f9b19f257d8efa9417603119df15eb54914",
+        "size": 88891
+      },
+      "lock_dingdong": {
+        "file": "locksound/lock_dingdong.m4a",
+        "sha256": "125062e4c9e00cdf713947ddbe750cb38c6477f4c9d25e02e88e9b3ea5b513bb",
+        "size": 37931
+      },
+      "lock_drops": {
+        "file": "locksound/lock_drops.m4a",
+        "sha256": "f2b6ee6621e3b3c32125d76e50d3bb2b7d51491fff402fafa3aa7f16f9961be0",
+        "size": 18431
+      },
+      "lock_entertainer": {
+        "file": "locksound/lock_entertainer.m4a",
+        "sha256": "7d521172c2596f8a217194195d174043a58ea198b0e9672c79cf8863ba0007d7",
+        "size": 54831
+      },
+      "lock_eurohorn": {
+        "file": "locksound/lock_eurohorn.m4a",
+        "sha256": "7580d2975ec2ec5113af2c0717df006a91b146d418463c5052e2d7464f071e87",
+        "size": 9591
+      },
+      "lock_ev": {
+        "file": "locksound/lock_ev.m4a",
+        "sha256": "587463ad9681cdf46946dfa06060f2bee5ad28eb5c641e189c00b8429f5b913c",
+        "size": 31691
+      },
+      "lock_fob": {
+        "file": "locksound/lock_fob.m4a",
+        "sha256": "c7a277c292034d7313e6b2efec558404916307b345f8db68f265ca4f9306a118",
+        "size": 7511
+      },
+      "lock_fobhilo": {
+        "file": "locksound/lock_fobhilo.m4a",
+        "sha256": "523afcd776867971cd7842a19edb63abe087412c2068e371c8476384ee4419a5",
+        "size": 8031
+      },
+      "lock_frerejacques": {
+        "file": "locksound/lock_frerejacques.m4a",
+        "sha256": "e5daca295ab361396b3c910c6319d4acc43dc98c27b283834dfcaefd147e8c6c",
+        "size": 67831
+      },
+      "lock_furelise": {
+        "file": "locksound/lock_furelise.m4a",
+        "sha256": "aae70aaf73b1d7298658b7bf60153c27e2a1a3da8a7d246e5635f20721e2f7a0",
+        "size": 66791
+      },
+      "lock_granvals": {
+        "file": "locksound/lock_granvals.m4a",
+        "sha256": "b98bbae5d8784a501eea40c722d6c7625146b33e5692cae4dfc03723bf32aa23",
+        "size": 45731
+      },
+      "lock_greensleeves": {
+        "file": "locksound/lock_greensleeves.m4a",
+        "sha256": "8ec09894187260436c2650e44dbeaeef5f6c426563ee28349c79735b1b5ced86",
+        "size": 105271
+      },
+      "lock_habanera": {
+        "file": "locksound/lock_habanera.m4a",
+        "sha256": "015c47ded0ca8a1f5e3a49cea4688cfbc1e27c47e409c7c0bf24bf395a2c26bd",
+        "size": 71471
+      },
+      "lock_hallelujah": {
+        "file": "locksound/lock_hallelujah.m4a",
+        "sha256": "e38df93f20f8758bd2c6f7782ab8e999605c65071dbdd512d92c0d6f6545757c",
+        "size": 74071
+      },
+      "lock_horn1": {
+        "file": "locksound/lock_horn1.m4a",
+        "sha256": "da3bcec541ea9da02d09553db3c331584d649bfe5a9f379a0286634842cf63c1",
+        "size": 7251
+      },
+      "lock_horn2": {
+        "file": "locksound/lock_horn2.m4a",
+        "sha256": "32a9c8da043e3700e7d054bb71a45347e9aeeeaede78c900a037308455bb0826",
+        "size": 10111
+      },
+      "lock_jinglebells": {
+        "file": "locksound/lock_jinglebells.m4a",
+        "sha256": "f1ffd66901d898748c23a1b46eadff0d73ed899322c4eb0bf793d566c1dc5bd3",
+        "size": 70691
+      },
+      "lock_korobeiniki": {
+        "file": "locksound/lock_korobeiniki.m4a",
+        "sha256": "01b733ecc73ab97c654f5fedda7b7a49a4856f68ecc088c85258d9bdf8687946",
+        "size": 60291
+      },
+      "lock_laser": {
+        "file": "locksound/lock_laser.m4a",
+        "sha256": "71e207ef85dc77b03092cc340a80b18067c1acf90fcdedc93e034637e4712b2d",
+        "size": 13231
+      },
+      "lock_lullaby": {
+        "file": "locksound/lock_lullaby.m4a",
+        "sha256": "1e0658e2a6193f899ceacaec50cce455f0765c0d19e85d2ab6ba4b805b524577",
+        "size": 80571
+      },
+      "lock_marimba": {
+        "file": "locksound/lock_marimba.m4a",
+        "sha256": "269f7cb3561bba672aa037f350f58bb82471c278da6628e3b8b40c9c925947df",
+        "size": 21551
+      },
+      "lock_minuet": {
+        "file": "locksound/lock_minuet.m4a",
+        "sha256": "1b587c3af75f05cd71bca349bfec6fb6808d9b98196ced9675997e1725e3244a",
+        "size": 64971
+      },
+      "lock_morningmood": {
+        "file": "locksound/lock_morningmood.m4a",
+        "sha256": "b475446bf6607bc4d8af14e05bb7f74ba15b40a475ec6a179d698a40b0185524",
+        "size": 74851
+      },
+      "lock_mountainking": {
+        "file": "locksound/lock_mountainking.m4a",
+        "sha256": "ffc40f3a4b348c64d574641055c51607655a25965872022b87d618a9ef38ef67",
+        "size": 76151
+      },
+      "lock_mozart40": {
+        "file": "locksound/lock_mozart40.m4a",
+        "sha256": "6045441e8cb339f88d65282eac08e65a2b1b7d8b67fc17727419f3c9c8679c94",
+        "size": 74591
+      },
+      "lock_nachtmusik": {
+        "file": "locksound/lock_nachtmusik.m4a",
+        "sha256": "7d6a656ac76b7284cbc368422b3599c92389c9314522540defec4f6858416ff6",
+        "size": 70691
+      },
+      "lock_odetojoy": {
+        "file": "locksound/lock_odetojoy.m4a",
+        "sha256": "950eca04608fb6737f1c0d3823b9b79d82695e4988d9ef5f165ada922331d262",
+        "size": 73811
+      },
+      "lock_oldphone": {
+        "file": "locksound/lock_oldphone.m4a",
+        "sha256": "2898fe6f229d00a1289725ec2fea566c0b2357d7579c17efb34687a47079a8b2",
+        "size": 47031
+      },
+      "lock_popweasel": {
+        "file": "locksound/lock_popweasel.m4a",
+        "sha256": "54895d4ba49a4beaf46f9355591ab249587d4a6f7d7cd2051d0df7466570c902",
+        "size": 87591
+      },
+      "lock_powerdown": {
+        "file": "locksound/lock_powerdown.m4a",
+        "sha256": "67891917a5fdf5879016493427fa1f3562dde7515214d63c6794aad7b0a20423",
+        "size": 26751
+      },
+      "lock_premium": {
+        "file": "locksound/lock_premium.m4a",
+        "sha256": "0f1b8aaeca248fe11d72f895fd3a2ff4e67689bde441466870e9a633f10c1d79",
+        "size": 40011
+      },
+      "lock_retro": {
+        "file": "locksound/lock_retro.m4a",
+        "sha256": "003350b1ef2bbaeac583b832a8a8d214330b12769d16515854defd097adfa92f",
+        "size": 10891
+      },
+      "lock_saints": {
+        "file": "locksound/lock_saints.m4a",
+        "sha256": "183c8bc74178bbdcb87d610291db55414cdd7f407e20f1f4c632a8b6730d4982",
+        "size": 112551
+      },
+      "lock_scifi": {
+        "file": "locksound/lock_scifi.m4a",
+        "sha256": "86afe890460776d599d5cada05790d2c0581fb36616ad7999fc76c4dfe6e17c2",
+        "size": 18951
+      },
+      "lock_shavehaircut": {
+        "file": "locksound/lock_shavehaircut.m4a",
+        "sha256": "75a3e3acd16373c96eea9d244040a657ca86906d3ae01c1f8ded361d95d921fc",
+        "size": 34811
+      },
+      "lock_shimmer": {
+        "file": "locksound/lock_shimmer.m4a",
+        "sha256": "e8c003a3e816391fd1425e63983a339165d7e79a662ca5b4c03f8339f3cec6d6",
+        "size": 35851
+      },
+      "lock_sonar": {
+        "file": "locksound/lock_sonar.m4a",
+        "sha256": "8830adb5a5d2ae168cc2695a1f0aa6e685caa882ce4b62ae7634a77456926bef",
+        "size": 38451
+      },
+      "lock_spring": {
+        "file": "locksound/lock_spring.m4a",
+        "sha256": "24a25d35c9f32a1f1859c974998d276bea3dc19a4337c469e1d790d97388a08b",
+        "size": 51971
+      },
+      "lock_supercar": {
+        "file": "locksound/lock_supercar.m4a",
+        "sha256": "4f5c3073a60da67428ee64a8ac72f1a93635624152bda27e2e8c10111bfaf689",
+        "size": 27011
+      },
+      "lock_swanlake": {
+        "file": "locksound/lock_swanlake.m4a",
+        "sha256": "15817a54df000217a1e370b05f0ef1b242dcb6202f2d684de013d5b636f3bcf4",
+        "size": 87331
+      },
+      "lock_thunk": {
+        "file": "locksound/lock_thunk.m4a",
+        "sha256": "4cf40f8a3e95dd0ba20470f6fcc8d63b22c5c2fc94cc94520c596d8b06b55a00",
+        "size": 11931
+      },
+      "lock_toccata": {
+        "file": "locksound/lock_toccata.m4a",
+        "sha256": "f7a58689c28af7c359bcea71f78c57edd4eacdcaf9e01e030807c2f7ff7b7411",
+        "size": 55351
+      },
+      "lock_truck": {
+        "file": "locksound/lock_truck.m4a",
+        "sha256": "764aa227417ad8df5f50c014ecdfe0175f1b760bc237bb4dfc3d7f0edb35991c",
+        "size": 11411
+      },
+      "lock_turkishmarch": {
+        "file": "locksound/lock_turkishmarch.m4a",
+        "sha256": "b15b4d2f48c76e2424ba728fc84c2717c45be70884c8762dd68c0e649fee1fad",
+        "size": 70431
+      },
+      "lock_twinkle": {
+        "file": "locksound/lock_twinkle.m4a",
+        "sha256": "65f3c0626d9ef125d745c33a82b1f04fdf648010cc961fdd404d788a007eb103",
+        "size": 77451
+      },
+      "lock_valkyries": {
+        "file": "locksound/lock_valkyries.m4a",
+        "sha256": "28acf471359c4c42d5ada7539af6b99fa82a3e96feac11ca797a9e6baa7beee6",
+        "size": 82131
+      },
+      "lock_williamtell": {
+        "file": "locksound/lock_williamtell.m4a",
+        "sha256": "c857bf62b4ba92ad37e7c328ab4658535d18eda1a6d958cd64638187cae3e1b9",
+        "size": 81611
+      },
+      "lock_yelp": {
+        "file": "locksound/lock_yelp.m4a",
+        "sha256": "e9e22d2a68ee2f26b7d8c7768321cc05e8b9b7025d723e926c76b269f43e5cb0",
+        "size": 11411
+      }
+    }
+  },
   "microg": [
     {
       "package": "app.revanced.android.gms",
@@ -277,11 +582,11 @@
     {
       "package": "com.sp.carplay",
       "label": "SP CarPlay",
-      "versionName": "1.1.2",
-      "versionCode": 73,
-      "file": "sp.carplay.v1.1.2.73.apk",
-      "size": 4114130,
-      "sha256": "c60e42643957f289fa9bd9a07155253a5a094c4bef60cea7da238c856bc43688"
+      "versionName": "1.1.3",
+      "versionCode": 74,
+      "file": "sp.carplay.v1.1.3.74.apk",
+      "size": 1917270,
+      "sha256": "a825460220eeb0ade9905372e2ff71454898f64698a483e2ce02212d5d1aea3b"
     }
   ],
   "external": [
