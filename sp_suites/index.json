@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-11-06T16:58:52Z",
+  "generated": "2026-11-06T17:46:15Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.3.0",
-      "versionCode": 538,
-      "file": "sp.avatr.kit.v1.3.0.538.apk",
-      "size": 4276807,
-      "sha256": "9aa52b695e30c39b7cb979f5684bac48e91ab3f1a9c773dcbd20daa318bb4623"
+      "versionName": "1.3.2",
+      "versionCode": 540,
+      "file": "sp.avatr.kit.v1.3.2.540.apk",
+      "size": 4289095,
+      "sha256": "4bfeade8460ebb7c0320c94ef1d03ebca06b4a42a4735645b7fb9bdeed74b452"
     },
     {
       "package": "com.sp.cast",
@@ -181,6 +181,33 @@
         "size": 4120685,
         "preview": "hdpet/mimi.png",
         "preview_sha256": "79d9d092401855a62a927d4438d45e06c6a48219e0dc54f140aa9279d39d0e45"
+      },
+      {
+        "id": "dolly",
+        "name": "Dolly",
+        "file": "hdpet/dolly.zip",
+        "sha256": "8f1d7d138839892332af7f906274243a1dad3343ef2a855d5a4a9efbbd3d19f9",
+        "size": 3494337,
+        "preview": "hdpet/dolly.png",
+        "preview_sha256": "e3054958a1bd69359d826eac9c9852db13872655e5af843eb8cfc46aaae181f5"
+      },
+      {
+        "id": "elena",
+        "name": "Elena",
+        "file": "hdpet/elena.zip",
+        "sha256": "07cb2f0a722fe06cc0099d9003434cabe84c0f847c59f71c526f97014af10bf4",
+        "size": 3117701,
+        "preview": "hdpet/elena.png",
+        "preview_sha256": "3fc8199bb42ee740c0d05ae69bb7fc3c422ce498e227c304caa481af4bab9c08"
+      },
+      {
+        "id": "nova",
+        "name": "Nova",
+        "file": "hdpet/nova.zip",
+        "sha256": "5eb9dfe2e2570a3753f6d0c7dc76b3fc10abf7c202353add4a8abc0a7daba107",
+        "size": 5433497,
+        "preview": "hdpet/nova.png",
+        "preview_sha256": "745bcd484f7a8c2a645359e69d5e20d25efdc9975dda9cfcf6742172c06c613a"
       }
     ]
   },
