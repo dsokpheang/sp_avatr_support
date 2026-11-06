@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-11-06T17:56:20Z",
+  "generated": "2026-11-06T18:23:16Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.3.3",
-      "versionCode": 541,
-      "file": "sp.avatr.kit.v1.3.3.541.apk",
+      "versionName": "1.3.4",
+      "versionCode": 542,
+      "file": "sp.avatr.kit.v1.3.4.542.apk",
       "size": 4289095,
-      "sha256": "cbe7d0442cd7edd122931ac4b30604f7a4f1ed3eb6cad75a7f67599965722e8b"
+      "sha256": "a013fae464475f9ee294a46ce993ff2c8d907076a3c5072b57eb177a29c46f8a"
     },
     {
       "package": "com.sp.cast",
