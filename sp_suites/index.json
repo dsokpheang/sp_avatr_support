@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-13T19:21:33Z",
+  "generated": "2026-11-13T19:58:03Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
@@ -41,20 +41,20 @@
     {
       "package": "com.sp.home",
       "label": "SP Home",
-      "versionName": "1.0.21",
-      "versionCode": 22,
-      "file": "sp.home.v1.0.21.22.apk",
+      "versionName": "1.0.24",
+      "versionCode": 25,
+      "file": "sp.home.v1.0.24.25.apk",
       "size": 181805,
-      "sha256": "34c056aa3963e0b38f5a9c196bd909054f248a59f3f9535ba1bc960ccc6c8b4c"
+      "sha256": "81845f111ef5ade951c705a3493ffa583b0af3599c63aa5548d330993f56abe7"
     },
     {
       "package": "com.sp.map",
       "label": "SP Map",
-      "versionName": "1.1.49",
-      "versionCode": 146,
-      "file": "sp.map.v1.1.49.146.apk",
-      "size": 1530807,
-      "sha256": "6413c26c0489b3acb5051a451264be184501f0df4bfc58dc47e6c65440e02f11"
+      "versionName": "1.1.52",
+      "versionCode": 149,
+      "file": "sp.map.v1.1.52.149.apk",
+      "size": 1403705,
+      "sha256": "b55349cf9b703128025c2b5fc082daa8243acf963eb54e8ef34ab250f056d127"
     },
     {
       "package": "com.sp.media",
@@ -85,11 +85,11 @@
     }
   ],
   "broker": {
-    "version": "1.3.33",
-    "build": 289,
+    "version": "1.3.34",
+    "build": 290,
     "file": "sp-broker.jar",
-    "size": 246969,
-    "sha256": "fa1eb241fc25819a3798e6ae7ed00a6926fd832be559f35d3fa975a347c8105b"
+    "size": 247706,
+    "sha256": "b33893a630054ec9faedaf17ceb5cecb23dc3c92b37a8f1a501299f7e16944e7"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
