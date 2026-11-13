@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy — SP GPS Tracker</title>
+<meta name="description" content="Privacy policy for SP GPS Tracker. Your data lives on the Traccar server you control; the developer operates no server and receives nothing.">
+<link rel="stylesheet" href="../../assets/site.css">
+<link rel="icon" type="image/png" sizes="32x32" href="../../assets/icon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../../assets/icon-16.png">
+<link rel="apple-touch-icon" href="../../assets/icon-180.png">
+</head>
+<body>
+<div class="wrap">
+
+<header class="masthead">
+  <img src="../../assets/icon-96.png" alt="" width="36" height="36">
+  <div>
+    <div class="name">SP Avatr</div>
+    <div class="role">Avatr &amp; Deepal cockpit tools</div>
+  </div>
+  <nav>
+    <a href="./">Support</a>
+    <a href="privacy.html" aria-current="page">Privacy</a>
+    <a href="../../">Home</a>
+  </nav>
+</header>
+
+<h1>Privacy Policy — SP GPS Tracker</h1>
+<p class="lede">
+  SP GPS Tracker is a client for a tracking server <em>you</em> run. Your vehicle data
+  lives on that server. The developer operates no server, receives nothing, and has no
+  access to your account.
+</p>
+<p class="small muted">Applies to the iOS and Android app <strong>SP GPS Tracker</strong>.
+  Last updated 4 September 2026.</p>
+
+<section>
+  <h2>The most important thing to understand</h2>
+  <p>
+    This app does not provide a tracking service. It signs in to a
+    <a href="https://www.traccar.org">Traccar</a> server that you or your organisation
+    operates, and displays what that server already holds. Where your positions, trips
+    and alerts are stored, how long they are kept, and who can see them are decided by
+    whoever runs that server &mdash; not by this app and not by its developer.
+  </p>
+  <p>
+    If you are using someone else's server, ask them for their privacy terms. If you run
+    your own, the data never leaves your control.
+  </p>
+</section>
+
+<section>
+  <h2>Data we collect</h2>
+  <p>
+    None. There is no developer-operated server, no analytics, no crash reporting, and no
+    third-party SDK that could receive anything. We have no technical means to learn who
+    uses this app or where any vehicle is.
+  </p>
+</section>
+
+<section>
+  <h2>What the app stores on your device</h2>
+  <ul>
+    <li>The address of your server, and the email address you signed in with.</li>
+    <li>An <strong>access token</strong> issued by your server. Your password is sent to
+        your server once, at sign-in, and is never written to the phone. The token can be
+        revoked on your server at any time without changing your password.</li>
+    <li>A session cookie from your server, kept only because live updates require it.</li>
+    <li>Your preferences: map style, units, appearance, alert settings.</li>
+    <li>The most recent vehicle snapshot, so the map can draw immediately at launch, and
+        the last known battery reading per vehicle.</li>
+    <li>Any photograph you choose for a vehicle. These stay on the phone and are never
+        uploaded &mdash; not even to your own server.</li>
+    <li>Downloaded map tiles, cached to save data. Clearable in Settings.</li>
+  </ul>
+  <p>Signing out deletes the token, the cookie and the cached snapshot. Deleting the app
+     deletes everything above.</p>
+</section>
+
+<section>
+  <h2>Where the app connects &mdash; the complete list</h2>
+  <ol>
+    <li><strong>Your Traccar server.</strong> Everything about your vehicles: positions,
+        trips, zones, alerts, and account changes you make in the app.</li>
+    <li><strong>Map tile servers</strong> (OpenStreetMap, or Google's public tile
+        endpoint, depending on the basemap you pick). These receive the map area you are
+        looking at, as any map does. They do not receive your account, your identity, or
+        which vehicle you are watching.</li>
+    <li><strong>nominatim.openstreetmap.org</strong>, OpenStreetMap's public reverse
+        geocoder, used to turn a position into a street name &mdash; and <em>only</em>
+        when your own server has no geocoder enabled. It receives a coordinate and
+        nothing else: no account, no vehicle, no identifier. <strong>You can switch this
+        off</strong> in Settings, after which the app sends coordinates nowhere except
+        your own server.</li>
+  </ol>
+  <p>There is nothing else. No analytics, advertising, or tracking endpoints exist in the
+     app.</p>
+</section>
+
+<section>
+  <h2>Your phone's own location</h2>
+  <p>
+    The app can draw <em>your</em> position on the map beside your vehicle, so you can
+    walk back to it. This is entirely optional:
+  </p>
+  <ul>
+    <li>Permission is requested only when you tap the locate button on the map &mdash;
+        never at launch.</li>
+    <li>Only <em>while using the app</em>. There is no background location capability at
+        all, and the app is not able to follow you when it is closed.</li>
+    <li><strong>Your location is never transmitted.</strong> It is drawn on the screen and
+        discarded. There is no code path in the app from your phone's position to the
+        network &mdash; not to your server, and not to us.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Notifications</h2>
+  <p>
+    Alerts are <strong>local</strong> notifications, raised on the phone from data the app
+    has already read from your server. There is no push service, and the app is not
+    registered with Apple's or Google's push infrastructure. They are off by default, and
+    permission is requested only when you turn them on.
+  </p>
+</section>
+
+<section>
+  <h2>Permissions</h2>
+  <dl class="meta">
+    <div><dt>Location (when in use)</dt><dd>Draws your position on the map. Never sent
+      anywhere. Asked for only at the locate button.</dd></div>
+    <div><dt>Photos</dt><dd>Only to pick a picture for a vehicle. Kept on the phone;
+      never uploaded.</dd></div>
+    <div><dt>Camera</dt><dd>Declared because the photo picker links it. The app does not
+      take photographs.</dd></div>
+    <div><dt>Notifications</dt><dd>Optional, off by default, for local alerts only.</dd></div>
+  </dl>
+</section>
+
+<section>
+  <h2>What we do not do</h2>
+  <p>
+    No analytics. No crash reporting. No advertising or ad identifiers. No tracking across
+    apps or websites. No selling or sharing of data &mdash; we hold none to sell.
+  </p>
+</section>
+
+<section>
+  <h2>Children</h2>
+  <p>The app is not directed at children and collects nothing from anyone.</p>
+</section>
+
+<section>
+  <h2>Changes</h2>
+  <p>Any change to this policy will be published on this page with a new date.</p>
+</section>
+
+<section>
+  <h2>Contact</h2>
+  <dl class="meta">
+    <div><dt>Name</dt><dd>Sokpheang Duong</dd></div>
+    <div><dt>Email</dt><dd><a href="mailto:dsokpheang@gmail.com">dsokpheang@gmail.com</a></dd></div>
+    <div><dt>Phone</dt><dd>+855 16 466 669</dd></div>
+  </dl>
+</section>
+
+<footer class="colophon">
+  <p>
+    &copy; 2026 Sokpheang Duong. All rights reserved.
+    <a href="../../LICENSE">License</a> &middot;
+    <a href="./">Support</a>
+  </p>
+  <p>
+    Independent software. Not affiliated with or endorsed by the Traccar project, or by
+    any vehicle manufacturer. All trademarks belong to their owners.
+  </p>
+</footer>
+
+</div>
+</body>
+</html>

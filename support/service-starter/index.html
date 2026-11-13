@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SP Service Starter — Support</title>
+<meta name="description" content="SP Service Starter: a technician tool for authorized servicing of Avatr and Deepal cockpit head units — enable debug access, deploy service software, restore the USB port. iPad, Mac, Windows and Android.">
+<link rel="stylesheet" href="../../assets/site.css">
+<link rel="icon" type="image/png" sizes="32x32" href="../../assets/icon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../../assets/icon-16.png">
+<link rel="apple-touch-icon" href="../../assets/icon-180.png">
+<meta property="og:title" content="SP Service Starter">
+<meta property="og:description" content="A technician tool for authorized servicing of Avatr and Deepal cockpit head units.">
+<meta property="og:image" content="https://dsokpheang.github.io/sp_avatr_support/assets/icon-180.png">
+<meta property="og:type" content="website">
+</head>
+<body>
+<div class="wrap">
+
+<header class="masthead">
+  <img src="../../assets/icon-96.png" alt="" width="36" height="36">
+  <div>
+    <div class="name">SP Service Starter</div>
+    <div class="role">Service &amp; diagnostics for the cockpit</div>
+  </div>
+  <nav>
+    <a href="./" aria-current="page">Support</a>
+    <a href="../">All apps</a>
+  </nav>
+</header>
+
+<h1>Service tools for the head unit.</h1>
+<p class="lede">
+  A technician utility for authorized servicing of the Avatr and Deepal cockpit
+  (Huawei HarmonyOS head unit): enable debug access over the vehicle's diagnostic
+  link, deploy and verify approved service software, and switch the unit back when
+  the visit is done. On iPad, Mac, Windows and Android.
+</p>
+
+<section>
+  <h2>What it does</h2>
+  <div class="rows">
+    <div class="row">
+      <h3>Unlock</h3>
+      <p>Connects to the vehicle's diagnostic gateway over the OBD Ethernet link and
+         enables Android Debug Bridge (ADB) access on the head unit for the service
+         session.</p>
+    </div>
+    <div class="row">
+      <h3>Start service</h3>
+      <p>Over the head unit's USB port, deploys and verifies the approved service
+         software and its supporting components, then confirms they are running.</p>
+    </div>
+    <div class="row">
+      <h3>Restore USB</h3>
+      <p>Switches the head unit's USB port back to its normal role, leaving the
+         vehicle as the owner expects it.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>On the iPad</h2>
+  <p>
+    The iPad edition is for technicians who carry a tablet rather than a laptop.
+    <strong>Unlock</strong> and <strong>Restore USB</strong> run over a USB&#8209;C
+    Ethernet adapter on the OBD cable — the same diagnostic protocol the Mac, Windows
+    and Android editions use.
+  </p>
+  <p>
+    <strong>Start service</strong> talks to the head unit's debug (ADB) USB interface.
+    On an M&#8209;series iPad this uses a USBDriverKit driver that matches only that
+    interface and relays its bulk data to the app; the app itself speaks the ADB
+    protocol. The driver touches nothing else on the bus.
+  </p>
+</section>
+
+<section>
+  <h2>The USB interface it drives</h2>
+  <dl class="meta">
+    <div><dt>Device</dt><dd>Avatr / Deepal head unit (HarmonyOS cockpit)</dd></div>
+    <div><dt>USB vendor ID</dt><dd>0x12D1</dd></div>
+    <div><dt>USB product ID</dt><dd>0x107E</dd></div>
+    <div><dt>Debug interface</dt><dd>class 0xFF · subclass 0x42 · protocol 0x01</dd></div>
+    <div><dt>Endpoints</dt><dd>one bulk IN / bulk OUT pair</dd></div>
+  </dl>
+</section>
+
+<section>
+  <h2>Who it's for</h2>
+  <p>
+    An in-house tool used by our technicians and by owners servicing their own
+    vehicles, with the owner's authorization. It is not for changing a vehicle you
+    are not entitled to service.
+  </p>
+</section>
+
+<section>
+  <h2>Contact</h2>
+  <dl class="meta">
+    <div><dt>Email</dt><dd><a href="mailto:dsokpheang@gmail.com">dsokpheang@gmail.com</a></dd></div>
+    <div><dt>Phone</dt><dd>+855 16 466 669</dd></div>
+  </dl>
+</section>
+
+<footer class="colophon">
+  <p>
+    &copy; 2026 Sokpheang Duong. All rights reserved.
+    <a href="../../LICENSE">License</a> &middot;
+    <a href="../">All apps</a>
+  </p>
+  <p>
+    Independent software. Not produced, endorsed or supported by Avatr, Changan,
+    Huawei, or any vehicle manufacturer. All trademarks belong to their owners.
+  </p>
+</footer>
+
+</div>
+</body>
+</html>
