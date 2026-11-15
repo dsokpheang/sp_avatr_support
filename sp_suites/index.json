@@ -1,24 +1,24 @@
 {
   "schema": 1,
-  "generated": "2026-11-13T19:58:03Z",
+  "generated": "2026-11-15T17:27:15Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.3.41",
-      "versionCode": 579,
-      "file": "sp.avatr.kit.v1.3.41.579.apk",
+      "versionName": "1.3.42",
+      "versionCode": 580,
+      "file": "sp.avatr.kit.v1.3.42.580.apk",
       "size": 4383303,
-      "sha256": "31c85cdcfe7171d2fef92ff34b5e2bf0522e25889cec3a6cfb64b9d0a7273b15"
+      "sha256": "6252dd55f638d30540f4b0a9612455ac742677694464f9956473bc861cd72f31"
     },
     {
       "package": "com.sp.cast",
       "label": "SP Cast",
-      "versionName": "1.1.7",
-      "versionCode": 61,
-      "file": "sp.cast.v1.1.7.61.apk",
+      "versionName": "1.1.8",
+      "versionCode": 62,
+      "file": "sp.cast.v1.1.8.62.apk",
       "size": 157167,
-      "sha256": "2b314e418ee7f48bdfdb776d49cb206aa180fd40c087b4f59571c32970f63174"
+      "sha256": "603d576e4c5b7341473ccd470db78f0066e8cc9959586265a061066924c55afb"
     },
     {
       "package": "com.sp.copilot",
@@ -41,20 +41,20 @@
     {
       "package": "com.sp.home",
       "label": "SP Home",
-      "versionName": "1.0.24",
-      "versionCode": 25,
-      "file": "sp.home.v1.0.24.25.apk",
-      "size": 181805,
-      "sha256": "81845f111ef5ade951c705a3493ffa583b0af3599c63aa5548d330993f56abe7"
+      "versionName": "1.0.31",
+      "versionCode": 32,
+      "file": "sp.home.v1.0.31.32.apk",
+      "size": 189997,
+      "sha256": "ced4164507e336212dff7345d5c1134208e6ce760b1e77a544751a410170a922"
     },
     {
       "package": "com.sp.map",
       "label": "SP Map",
-      "versionName": "1.1.52",
-      "versionCode": 149,
-      "file": "sp.map.v1.1.52.149.apk",
-      "size": 1403705,
-      "sha256": "b55349cf9b703128025c2b5fc082daa8243acf963eb54e8ef34ab250f056d127"
+      "versionName": "1.1.58",
+      "versionCode": 155,
+      "file": "sp.map.v1.1.58.155.apk",
+      "size": 1420089,
+      "sha256": "0ea1123a6e4b9a35c3f03b66fbae6154c30201ab169a8968581d704a4e6997a4"
     },
     {
       "package": "com.sp.media",
@@ -85,11 +85,11 @@
     }
   ],
   "broker": {
-    "version": "1.3.34",
-    "build": 290,
+    "version": "1.3.42",
+    "build": 298,
     "file": "sp-broker.jar",
-    "size": 247706,
-    "sha256": "b33893a630054ec9faedaf17ceb5cecb23dc3c92b37a8f1a501299f7e16944e7"
+    "size": 249268,
+    "sha256": "b6f9197a8a34a36153a540c75e366e88b48648afa6711f5912ddcbfb78eda6d2"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
