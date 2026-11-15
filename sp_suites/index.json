@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-11-15T21:29:30Z",
+  "generated": "2026-11-15T21:42:31Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.3.46",
-      "versionCode": 584,
-      "file": "sp.avatr.kit.v1.3.46.584.apk",
+      "versionName": "1.3.47",
+      "versionCode": 585,
+      "file": "sp.avatr.kit.v1.3.47.585.apk",
       "size": 4383303,
-      "sha256": "d85be66816512822712d1f7ec306e9cbe7016491e88079b1449b98843716cdcf"
+      "sha256": "6e03dd682b7774e16bb853757344527b50592546f737f8414bb232f6292ff64c"
     },
     {
       "package": "com.sp.cast",
@@ -88,8 +88,8 @@
     "version": "1.3.45",
     "build": 301,
     "file": "sp-broker.jar",
-    "size": 251904,
-    "sha256": "3eb6736cd8cd55823fd33646ba416905e4127ddb54da3e3fccf8790ce8206184"
+    "size": 254280,
+    "sha256": "e2445ff5b558d82f817aa347ef154c93c758160294bff61b13dc1b8b25607151"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
