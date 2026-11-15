@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-11-15T18:51:26Z",
+  "generated": "2026-11-15T19:53:32Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.3.43",
-      "versionCode": 581,
-      "file": "sp.avatr.kit.v1.3.43.581.apk",
+      "versionName": "1.3.45",
+      "versionCode": 583,
+      "file": "sp.avatr.kit.v1.3.45.583.apk",
       "size": 4383303,
-      "sha256": "42e64c052668b6df961457b099b9a2062c5af7599d4be468e3489a17a561b0ee"
+      "sha256": "48105a234a02c9a508db833dcc8994213aecd43a2e103a6dc4321db96d492b78"
     },
     {
       "package": "com.sp.cast",
@@ -41,20 +41,20 @@
     {
       "package": "com.sp.home",
       "label": "SP Home",
-      "versionName": "1.0.32",
-      "versionCode": 33,
-      "file": "sp.home.v1.0.32.33.apk",
-      "size": 189997,
-      "sha256": "61dda6c7dd6fcac06af83c3bb0826d83f8fbf7ecb2f15793065e9e6e6e11b225"
+      "versionName": "1.0.36",
+      "versionCode": 37,
+      "file": "sp.home.v1.0.36.37.apk",
+      "size": 202285,
+      "sha256": "440fa7456ff760af103ec286855014b40f013419a6d4abba67c0c4675bb191d2"
     },
     {
       "package": "com.sp.map",
       "label": "SP Map",
-      "versionName": "1.1.58",
-      "versionCode": 155,
-      "file": "sp.map.v1.1.58.155.apk",
-      "size": 1420089,
-      "sha256": "0ea1123a6e4b9a35c3f03b66fbae6154c30201ab169a8968581d704a4e6997a4"
+      "versionName": "1.1.60",
+      "versionCode": 157,
+      "file": "sp.map.v1.1.60.157.apk",
+      "size": 1424185,
+      "sha256": "372ef5816dbd6cd3250805428e9bce45c28d4384816f93c23907c352d90507c3"
     },
     {
       "package": "com.sp.media",
