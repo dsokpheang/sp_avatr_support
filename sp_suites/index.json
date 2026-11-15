@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-11-15T18:24:14Z",
+  "generated": "2026-11-15T18:51:26Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.3.42",
-      "versionCode": 580,
-      "file": "sp.avatr.kit.v1.3.42.580.apk",
+      "versionName": "1.3.43",
+      "versionCode": 581,
+      "file": "sp.avatr.kit.v1.3.43.581.apk",
       "size": 4383303,
-      "sha256": "6252dd55f638d30540f4b0a9612455ac742677694464f9956473bc861cd72f31"
+      "sha256": "42e64c052668b6df961457b099b9a2062c5af7599d4be468e3489a17a561b0ee"
     },
     {
       "package": "com.sp.cast",
@@ -41,11 +41,11 @@
     {
       "package": "com.sp.home",
       "label": "SP Home",
-      "versionName": "1.0.31",
-      "versionCode": 32,
-      "file": "sp.home.v1.0.31.32.apk",
+      "versionName": "1.0.32",
+      "versionCode": 33,
+      "file": "sp.home.v1.0.32.33.apk",
       "size": 189997,
-      "sha256": "ced4164507e336212dff7345d5c1134208e6ce760b1e77a544751a410170a922"
+      "sha256": "61dda6c7dd6fcac06af83c3bb0826d83f8fbf7ecb2f15793065e9e6e6e11b225"
     },
     {
       "package": "com.sp.map",
@@ -85,11 +85,11 @@
     }
   ],
   "broker": {
-    "version": "1.3.43",
-    "build": 299,
+    "version": "1.3.44",
+    "build": 300,
     "file": "sp-broker.jar",
-    "size": 249376,
-    "sha256": "347b3f8c3e62ae61608c3e7f361c688455ea9b856a50aebb0a48a3b0fe163aec"
+    "size": 250183,
+    "sha256": "e7cf9af4333a68f0b0b998a48072237df3d5b6cc229c7b8b6b70ab3451035b90"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
