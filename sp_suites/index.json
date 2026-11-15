@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-15T20:38:34Z",
+  "generated": "2026-11-15T20:54:54Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
@@ -41,20 +41,20 @@
     {
       "package": "com.sp.home",
       "label": "SP Home",
-      "versionName": "1.0.39",
-      "versionCode": 40,
-      "file": "sp.home.v1.0.39.40.apk",
+      "versionName": "1.0.40",
+      "versionCode": 41,
+      "file": "sp.home.v1.0.40.41.apk",
       "size": 206381,
-      "sha256": "8caf0f73f19ff1fb3527a96612a6ff482146f3a078de9ac610d90c9567b0b9d9"
+      "sha256": "e57c7c8a6fcbc0d731213999d67583ec751eda41e5859d6a44ea607f9e5e2e9a"
     },
     {
       "package": "com.sp.map",
       "label": "SP Map",
-      "versionName": "1.1.62",
-      "versionCode": 159,
-      "file": "sp.map.v1.1.62.159.apk",
+      "versionName": "1.1.63",
+      "versionCode": 160,
+      "file": "sp.map.v1.1.63.160.apk",
       "size": 1428281,
-      "sha256": "541c46b0825e2139f8412c127cf871ad4f9318718864b398c9648fad265184d2"
+      "sha256": "9e1ccdf94f6095fe26aecfb925f735a8b488cf457ac7ff7c05d388dd55591352"
     },
     {
       "package": "com.sp.media",
