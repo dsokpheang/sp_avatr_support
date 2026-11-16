@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-16T22:24:05Z",
+  "generated": "2026-11-16T22:27:09Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
@@ -545,14 +545,14 @@
     {
       "package": "app.revanced.android.gms",
       "label": "SP microG",
-      "versionName": "7.3.0.SP.1",
-      "versionCode": 255070305,
+      "versionName": "7.3.1.SP.1",
+      "versionCode": 255070314,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
       "hw": false,
-      "file": "app.revanced.android.gms.v255070305.sp.apk",
-      "url": "https://github.com/dsokpheang/sp_avatr_support/releases/download/microg/app.revanced.android.gms.v255070305.sp.apk",
-      "size": 46457837,
-      "sha256": "ca256ab07963dfa3bf80b95d8cfa35dc282991ec1c10578de9026cd6540dcb61"
+      "file": "app.revanced.android.gms.v255070314.sp.apk",
+      "url": "https://github.com/dsokpheang/sp_avatr_support/releases/download/microg/app.revanced.android.gms.v255070314.sp.apk",
+      "size": 46728173,
+      "sha256": "e3f05e2c43cc998b31350a9971f4fe344aecace2a605deea828a904518b98acc"
     },
     {
       "package": "com.android.vending",
