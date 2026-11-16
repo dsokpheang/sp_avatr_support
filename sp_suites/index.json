@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-11-16T15:45:23Z",
+  "generated": "2026-11-16T21:51:24Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.3.48",
-      "versionCode": 586,
-      "file": "sp.avatr.kit.v1.3.48.586.apk",
-      "size": 4383303,
-      "sha256": "fdef5ec69e3211d478fc0d183f1270087d39796da64f0674cd09446c270c37d2"
+      "versionName": "1.3.61",
+      "versionCode": 599,
+      "file": "sp.avatr.kit.v1.3.61.599.apk",
+      "size": 4387399,
+      "sha256": "4deab3fa070ec7a8009b736ea91626058ab53d1817f73155bc440fcd3c596215"
     },
     {
       "package": "com.sp.cast",
@@ -41,20 +41,20 @@
     {
       "package": "com.sp.home",
       "label": "SP Home",
-      "versionName": "1.0.40",
-      "versionCode": 41,
-      "file": "sp.home.v1.0.40.41.apk",
+      "versionName": "1.0.41",
+      "versionCode": 42,
+      "file": "sp.home.v1.0.41.42.apk",
       "size": 206381,
-      "sha256": "e57c7c8a6fcbc0d731213999d67583ec751eda41e5859d6a44ea607f9e5e2e9a"
+      "sha256": "53d8121a05f18f5db04a9f13c45b6af754b6562cb29614cc35be17d78e905d75"
     },
     {
       "package": "com.sp.map",
       "label": "SP Map",
-      "versionName": "1.1.63",
-      "versionCode": 160,
-      "file": "sp.map.v1.1.63.160.apk",
-      "size": 1428281,
-      "sha256": "9e1ccdf94f6095fe26aecfb925f735a8b488cf457ac7ff7c05d388dd55591352"
+      "versionName": "1.1.84",
+      "versionCode": 181,
+      "file": "sp.map.v1.1.84.181.apk",
+      "size": 2413479,
+      "sha256": "2e215ea75154f82857f44c0e7229ab6a69f3f423e994952641b3ce6c9c845d6a"
     },
     {
       "package": "com.sp.media",
@@ -85,11 +85,11 @@
     }
   ],
   "broker": {
-    "version": "1.3.46",
-    "build": 302,
+    "version": "1.3.48",
+    "build": 304,
     "file": "sp-broker.jar",
-    "size": 254279,
-    "sha256": "dcf1c2fd36748c8180ff79e4126a4173593181b2aff4a0fb5f02f004cc0d7b54"
+    "size": 254973,
+    "sha256": "bae0a2e9519d996435897b7bc4bdf2c00dfae6d6310e689babe40d6507d3b02e"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
