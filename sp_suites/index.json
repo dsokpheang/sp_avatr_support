@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-11-16T22:27:09Z",
+  "generated": "2026-11-16T23:13:33Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.3.62",
-      "versionCode": 600,
-      "file": "sp.avatr.kit.v1.3.62.600.apk",
+      "versionName": "1.4.0",
+      "versionCode": 603,
+      "file": "sp.avatr.kit.v1.4.0.603.apk",
       "size": 4387399,
-      "sha256": "58e864a767eb7bdb54bfbf89fc1a289f6a8bc5e46026d02afeab3d72aa5e792b"
+      "sha256": "460b14ef348c0d45221fc6552b47a464375c85b312891ab43b5781334d77a03d"
     },
     {
       "package": "com.sp.cast",
@@ -41,20 +41,20 @@
     {
       "package": "com.sp.home",
       "label": "SP Home",
-      "versionName": "1.0.42",
-      "versionCode": 43,
-      "file": "sp.home.v1.0.42.43.apk",
+      "versionName": "1.1.0",
+      "versionCode": 44,
+      "file": "sp.home.v1.1.0.44.apk",
       "size": 206381,
-      "sha256": "3d9e987d82ebc337032c2623d3130b31e174166933ab76a58c5d234463348695"
+      "sha256": "bc53ecdd70a6c41ee4f10b3322f8be9d60c8066720a9b96c03dc020119ffbab3"
     },
     {
       "package": "com.sp.map",
       "label": "SP Map",
-      "versionName": "1.1.85",
-      "versionCode": 182,
-      "file": "sp.map.v1.1.85.182.apk",
+      "versionName": "1.2.0",
+      "versionCode": 183,
+      "file": "sp.map.v1.2.0.183.apk",
       "size": 2413479,
-      "sha256": "ed4d3b7c164585d151d608ff50ccab9d4e8d9cf6b1d71a85a0bb73b02b8d9356"
+      "sha256": "c98b272c968d5294f8a8253c58fca1baa9355db2ae92f21314cf94a131a09464"
     },
     {
       "package": "com.sp.media",
@@ -85,11 +85,11 @@
     }
   ],
   "broker": {
-    "version": "1.3.49",
-    "build": 305,
+    "version": "1.4.0",
+    "build": 308,
     "file": "sp-broker.jar",
-    "size": 254972,
-    "sha256": "f766acf4f60c5d6915be4afdd8a6541d96e184c6f4e770ec6bbe417089aad488"
+    "size": 256224,
+    "sha256": "bccf33286f4202531b4c72af360b53c0f2010a9cca9be7c71a26abbbb23e131d"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
