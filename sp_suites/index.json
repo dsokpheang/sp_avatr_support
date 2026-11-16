@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-16T23:26:07Z",
+  "generated": "2026-11-16T23:49:13Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
@@ -85,11 +85,11 @@
     }
   ],
   "broker": {
-    "version": "1.4.0",
-    "build": 308,
+    "version": "1.4.1",
+    "build": 309,
     "file": "sp-broker.jar",
-    "size": 256224,
-    "sha256": "bccf33286f4202531b4c72af360b53c0f2010a9cca9be7c71a26abbbb23e131d"
+    "size": 256228,
+    "sha256": "94a1b1c3aa14b03d8fa56aadf276d116f45bf417b6d26ce84b8e423c631a20e7"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
