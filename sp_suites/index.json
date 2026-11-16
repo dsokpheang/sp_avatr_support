@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-16T23:49:13Z",
+  "generated": "2026-11-16T23:53:58Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
@@ -118,15 +118,15 @@
     },
     "male": {
       "file": "voice/prompts_male.zip",
-      "sha256": "7ae60a84a8a8dac98197aa35e5eb0614a2f2499bba3eca08c07785187389afde",
-      "size": 8118904,
-      "count": 482
+      "sha256": "5eb6305a92078ddd310a587ec68933359dcbe721e91be277ed49d6058a89dd85",
+      "size": 9350786,
+      "count": 504
     },
     "female": {
       "file": "voice/prompts_female.zip",
-      "sha256": "083358e368ab76a62eb8ca4ec64cd17db750ba798a4ca9d8c4df66d1adc0a9e0",
-      "size": 8923937,
-      "count": 483
+      "sha256": "4f9b5e669dd845d6cd820963253eefff59f7ce6c70c62bc03efebcd592589187",
+      "size": 10225007,
+      "count": 505
     },
     "offline": {
       "file": "ggml-small-khmer-v2-q5_0.bin",
