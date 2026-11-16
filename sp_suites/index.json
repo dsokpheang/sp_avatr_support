@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-16T21:53:13Z",
+  "generated": "2026-11-16T22:24:05Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
@@ -557,26 +557,26 @@
     {
       "package": "com.android.vending",
       "label": "microG Companion HW",
-      "versionName": "0.3.16.40226-hw",
-      "versionCode": 84022632,
+      "versionName": "0.3.18.40226-hw",
+      "versionCode": 84022636,
       "signer": "9bd06727e62796c0130eb6dab39b73157451582cbd138e86c468acc395d14165",
       "hw": true,
-      "file": "com.android.vending.v84022632.nogapps.hw.apk",
-      "url": "https://github.com/dsokpheang/sp_avatr_support/releases/download/microg/com.android.vending.v84022632.nogapps.hw.apk",
-      "size": 4207912,
-      "sha256": "c1aa0c8854fcdac31d23d54e1ea62daedff6b7a6405a2f5ff5351c2dde8f113d"
+      "file": "com.android.vending.v84022636.nogapps.hw.apk",
+      "url": "https://github.com/dsokpheang/sp_avatr_support/releases/download/microg/com.android.vending.v84022636.nogapps.hw.apk",
+      "size": 4214195,
+      "sha256": "290a86f23e51cd9dabc3dd23270fa3251434b890c5a11825c728bf21abfe7969"
     },
     {
       "package": "com.google.android.gms",
       "label": "microG GmsCore HW",
-      "versionName": "0.3.16.252432-hw",
-      "versionCode": 252432032,
+      "versionName": "0.3.18.252432-hw",
+      "versionCode": 252432036,
       "signer": "9bd06727e62796c0130eb6dab39b73157451582cbd138e86c468acc395d14165",
       "hw": true,
-      "file": "com.google.android.gms.v252432032.nogapps.hw.apk",
-      "url": "https://github.com/dsokpheang/sp_avatr_support/releases/download/microg/com.google.android.gms.v252432032.nogapps.hw.apk",
-      "size": 94980856,
-      "sha256": "a44ce933e2336d3340eb82ad3bb28bba03bc56a7b3cf3c98250a225c55b572de"
+      "file": "com.google.android.gms.v252432036.nogapps.hw.apk",
+      "url": "https://github.com/dsokpheang/sp_avatr_support/releases/download/microg/com.google.android.gms.v252432036.nogapps.hw.apk",
+      "size": 95445667,
+      "sha256": "6707c9e124bd81c073d701028fcfe86ce6a6a444ddd1b33c46979bbafbb99959"
     }
   ],
   "thirdparty": [
