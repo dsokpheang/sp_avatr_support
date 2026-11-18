@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-17T06:17:13Z",
+  "generated": "2026-11-18T16:41:49Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
@@ -41,20 +41,20 @@
     {
       "package": "com.sp.home",
       "label": "SP Home",
-      "versionName": "1.1.0",
-      "versionCode": 44,
-      "file": "sp.home.v1.1.0.44.apk",
-      "size": 206381,
-      "sha256": "bc53ecdd70a6c41ee4f10b3322f8be9d60c8066720a9b96c03dc020119ffbab3"
+      "versionName": "1.1.2",
+      "versionCode": 46,
+      "file": "sp.home.v1.1.2.46.apk",
+      "size": 210477,
+      "sha256": "87646e46291c3c4c2ccb2ed23144663020f92351453fefd275b8a08b68b033d6"
     },
     {
       "package": "com.sp.map",
       "label": "SP Map",
-      "versionName": "1.2.0",
-      "versionCode": 183,
-      "file": "sp.map.v1.2.0.183.apk",
-      "size": 2413479,
-      "sha256": "c98b272c968d5294f8a8253c58fca1baa9355db2ae92f21314cf94a131a09464"
+      "versionName": "1.2.5",
+      "versionCode": 188,
+      "file": "sp.map.v1.2.5.188.apk",
+      "size": 2421671,
+      "sha256": "98eab8cb306a5362f1dc9746499fbc83bb22bdc0efd702c69bdc873a02401bc8"
     },
     {
       "package": "com.sp.media",
@@ -85,11 +85,11 @@
     }
   ],
   "broker": {
-    "version": "1.4.1",
-    "build": 309,
+    "version": "1.4.5",
+    "build": 313,
     "file": "sp-broker.jar",
-    "size": 256228,
-    "sha256": "94a1b1c3aa14b03d8fa56aadf276d116f45bf417b6d26ce84b8e423c631a20e7"
+    "size": 257154,
+    "sha256": "cd7c44d9e1a4f0af324fd18b6456a425a6af8f5953655906d03d7fb2b4af7f82"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
@@ -570,7 +570,8 @@
         "group": "legends",
         "title": "Preah Thong and Neang Neak",
         "khmer": "\u1796\u17d2\u179a\u17c7\u1790\u17c4\u1784 \u1793\u17b6\u1784\u1793\u17b6\u1782",
-        "secs": 0,
+        "say": "",
+        "secs": 79,
         "female": {
           "file": "stories/female/story_preahthong.m4a",
           "sha256": "7f12a86956ad4076df6665910dbbbcb57827375a192a8214e0034d7de799f24a",
@@ -587,7 +588,8 @@
         "group": "legends",
         "title": "Moni Mekhala and Ream Eyso",
         "khmer": "\u1798\u17bb\u1793\u17b8\u1798\u17c1\u1781\u179b\u17b6 \u1793\u17b7\u1784 \u179a\u17b6\u1798\u17a5\u179f\u17bc\u179a",
-        "secs": 0,
+        "say": "\u1798\u17bb\u1793\u17b8\u1798\u17c1\u1781\u179b\u17b6;\u179a\u17b6\u1798\u17a5\u179f\u17bc\u179a",
+        "secs": 88,
         "female": {
           "file": "stories/female/story_monimekhala.m4a",
           "sha256": "7eb9d5257e04dd3bc107c0f0cb563575011b4c3796b9ab44c6d6d55d87d653ab",
@@ -604,7 +606,8 @@
         "group": "legends",
         "title": "Kabil Moha Prum and Thoamabal (Khmer New Year)",
         "khmer": "\u1780\u1794\u17b7\u179b\u1798\u17a0\u17b6\u1796\u17d2\u179a\u17a0\u17d2\u1798 \u1793\u17b7\u1784 \u1792\u1798\u17d2\u1798\u1794\u17b6\u179b\u1780\u17bb\u1798\u17b6\u179a",
-        "secs": 0,
+        "say": "\u1785\u17bc\u179b\u1786\u17d2\u1793\u17b6\u17c6;\u1785\u17bc\u179b\u1786\u17d2\u1793\u17b6\u17c6\u1781\u17d2\u1798\u17c2\u179a;\u1780\u1794\u17b7\u179b\u1798\u17a0\u17b6\u1796\u17d2\u179a\u17a0\u17d2\u1798;\u1792\u1798\u17d2\u1798\u1794\u17b6\u179b",
+        "secs": 115,
         "female": {
           "file": "stories/female/story_newyear.m4a",
           "sha256": "23b1f3086569e4c88250ff6ec12842fb4fb29e75495620233148fa81265b13c8",
@@ -621,7 +624,8 @@
         "group": "legends",
         "title": "Phnom Pros and Phnom Srei",
         "khmer": "\u1797\u17d2\u1793\u17c6\u1794\u17d2\u179a\u17bb\u179f \u1797\u17d2\u1793\u17c6\u179f\u17d2\u179a\u17b8",
-        "secs": 0,
+        "say": "\u1797\u17d2\u1793\u17c6\u1794\u17d2\u179a\u17bb\u179f\u1797\u17d2\u1793\u17c6\u179f\u17d2\u179a\u17b8",
+        "secs": 81,
         "female": {
           "file": "stories/female/story_phnompros.m4a",
           "sha256": "1c371e0dcbe1c8416944c05b215e2a41163bfd07eb012c8cfe369d09e839d0bf",
@@ -638,7 +642,8 @@
         "group": "legends",
         "title": "Daun Penh and the Hill of Phnom Penh",
         "khmer": "\u178a\u17bc\u1793\u1796\u17c1\u1789 \u1793\u17b7\u1784\u1780\u17c6\u178e\u17be\u178f\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789",
-        "secs": 0,
+        "say": "\u178a\u17bc\u1793\u1796\u17c1\u1789;\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789",
+        "secs": 73,
         "female": {
           "file": "stories/female/story_daunpenh.m4a",
           "sha256": "6e2c8b6c0a9cb7a13dc1447fe9df3614bd2794c8fef080406a320a1c7abd4853",
@@ -655,7 +660,8 @@
         "group": "legends",
         "title": "Preah Pisnokar Builds Angkor Wat",
         "khmer": "\u1796\u17d2\u179a\u17c7\u1796\u17b7\u179f\u17d2\u178e\u17bb\u1780\u17b6\u179a \u179f\u17b6\u1784\u17a2\u1784\u17d2\u1782\u179a\u179c\u178f\u17d2\u178f",
-        "secs": 0,
+        "say": "\u1796\u17d2\u179a\u17c7\u1796\u17b7\u179f\u17d2\u178e\u17bb\u1780\u17b6\u179a;\u17a2\u1784\u17d2\u1782\u179a\u179c\u178f\u17d2\u178f",
+        "secs": 88,
         "female": {
           "file": "stories/female/story_pisnokar.m4a",
           "sha256": "46f686d16edf9066b48009ec7fb5282030c682966b2feb1ff7e41a6107f700a6",
@@ -672,7 +678,8 @@
         "group": "legends",
         "title": "Baksei Chamkrong, the Bird Who Sheltered the King",
         "khmer": "\u1794\u1780\u17d2\u179f\u17b8\u1785\u17b6\u17c6\u1780\u17d2\u179a\u17bb\u1784",
-        "secs": 0,
+        "say": "\u1794\u1780\u17d2\u179f\u17b8\u1785\u17b6\u17c6\u1780\u17d2\u179a\u17bb\u1784",
+        "secs": 60,
         "female": {
           "file": "stories/female/story_baksei.m4a",
           "sha256": "a3ecee24da2251e89f7c4bf6b99a6116105537f5fa74bd306d43d00c6dff8630",
@@ -689,7 +696,8 @@
         "group": "legends",
         "title": "Neang Rumsay Sok and the Crocodile Mountain",
         "khmer": "\u1793\u17b6\u1784\u179a\u17c6\u179f\u17b6\u1799\u179f\u1780\u17cb",
-        "secs": 0,
+        "say": "",
+        "secs": 72,
         "female": {
           "file": "stories/female/story_rumsaysok.m4a",
           "sha256": "aa35ef96126a9317170445c34b7c3a3ddb11fbbdf7fc946cb6a1c1d5b76f4057",
@@ -706,7 +714,8 @@
         "group": "kings",
         "title": "The Sweet Cucumber King",
         "khmer": "\u179f\u17d2\u178a\u17c1\u1785\u178f\u17d2\u179a\u179f\u1780\u17cb\u1795\u17d2\u17a2\u17c2\u1798",
-        "secs": 0,
+        "say": "\u178f\u17d2\u179a\u179f\u1780\u17cb\u1795\u17d2\u17a2\u17c2\u1798",
+        "secs": 75,
         "female": {
           "file": "stories/female/story_trasakpaem.m4a",
           "sha256": "5b6ffd54ccf4890f5309195e2d13fcb60edd30ddcc8059a3c304212f962b1c6c",
@@ -723,7 +732,8 @@
         "group": "kings",
         "title": "Ta Dambong Kranhoung and the Lost Stick (Battambang)",
         "khmer": "\u178f\u17b6\u178a\u17c6\u1794\u1784\u1780\u17d2\u179a\u1789\u17bc\u1784",
-        "secs": 0,
+        "say": "\u178f\u17b6\u178a\u17c6\u1794\u1784;\u1794\u17b6\u178f\u17cb\u178a\u17c6\u1794\u1784",
+        "secs": 80,
         "female": {
           "file": "stories/female/story_dambong.m4a",
           "sha256": "bb786c3db92c7f24e751621150a2f5e21f4d9afae881298005dd457bf18a8e81",
@@ -740,7 +750,8 @@
         "group": "kings",
         "title": "Sdach Kan, the Commoner King",
         "khmer": "\u179f\u17d2\u178a\u17c1\u1785\u1780\u1793",
-        "secs": 0,
+        "say": "",
+        "secs": 80,
         "female": {
           "file": "stories/female/story_sdachkan.m4a",
           "sha256": "c0087f1da4d6888ba5ac2a99474e9df81c6210ea9bde141521e113e1922e03e0",
@@ -757,7 +768,8 @@
         "group": "kings",
         "title": "The Leper King",
         "khmer": "\u179f\u17d2\u178a\u17c1\u1785\u1782\u1798\u17d2\u179b\u1784\u17cb",
-        "secs": 0,
+        "say": "",
+        "secs": 80,
         "female": {
           "file": "stories/female/story_leperking.m4a",
           "sha256": "c55148e58c2fdeff5e7d5e44d05ebf0af13cf42649bbf2174464a1e14bf70694",
@@ -774,7 +786,8 @@
         "group": "kings",
         "title": "Neak Ta Khleang Moeung",
         "khmer": "\u17a2\u17d2\u1793\u1780\u178f\u17b6\u1783\u17d2\u179b\u17b6\u17c6\u1784\u1798\u17bf\u1784",
-        "secs": 0,
+        "say": "\u1783\u17d2\u179b\u17b6\u17c6\u1784\u1798\u17bf\u1784",
+        "secs": 76,
         "female": {
           "file": "stories/female/story_khleangmoeung.m4a",
           "sha256": "72f487d69ab9a53ae2e6a6cdda8e1b094a1efe910ec739602095c30599c47e12",
@@ -791,7 +804,8 @@
         "group": "kings",
         "title": "Preah Ko Preah Keo",
         "khmer": "\u1796\u17d2\u179a\u17c7\u1782\u17c4 \u1796\u17d2\u179a\u17c7\u1780\u17c2\u179c",
-        "secs": 0,
+        "say": "",
+        "secs": 86,
         "female": {
           "file": "stories/female/story_preahko.m4a",
           "sha256": "b82435f37bf0671b0498372af9e4c76e832e3b91e5ff6701cae9fd3e8096571a",
@@ -808,7 +822,8 @@
         "group": "kings",
         "title": "Preah Ang Chek Preah Ang Chorm",
         "khmer": "\u1796\u17d2\u179a\u17c7\u17a2\u1784\u17d2\u1782\u1785\u17c1\u1780 \u1796\u17d2\u179a\u17c7\u17a2\u1784\u17d2\u1782\u1785\u1798",
-        "secs": 0,
+        "say": "\u1796\u17d2\u179a\u17c7\u17a2\u1784\u17d2\u1782\u1785\u17c1\u1780\u1796\u17d2\u179a\u17c7\u17a2\u1784\u17d2\u1782\u1785\u1798",
+        "secs": 74,
         "female": {
           "file": "stories/female/story_angchek.m4a",
           "sha256": "4e614b7822cbb6efc3f7dbcd0dfd4ca99207f14f8bffe347c584f241271f8455",
@@ -819,6 +834,276 @@
           "sha256": "8714a3d21ba67f0104b3ec0cfdccbccc2ccceb37b92163bc1a1c5b0c01598d65",
           "size": 453933
         }
+      },
+      {
+        "id": "tumteav",
+        "group": "classics",
+        "title": "Tum Teav",
+        "khmer": "\u1791\u17bb\u17c6\u1791\u17b6\u179c",
+        "say": "",
+        "secs": 93,
+        "female": {
+          "file": "stories/female/story_tumteav.m4a",
+          "sha256": "d96c70f4dad7dc56eccefeaf933e13be88bc7ba9496054206cd7f9a3307fa4fe",
+          "size": 592673
+        },
+        "male": {
+          "file": "stories/male/story_tumteav.m4a",
+          "sha256": "c9eff067ee730b68add135e299ce8708ceed327c3d2bb4bb8731bbe08a07a7a1",
+          "size": 575401
+        }
+      },
+      {
+        "id": "reamker",
+        "group": "classics",
+        "title": "The Reamker (Khmer Ramayana)",
+        "khmer": "\u179a\u17b6\u1798\u1780\u17c1\u179a\u17d2\u178f\u17b7\u17cd",
+        "say": "",
+        "secs": 82,
+        "female": {
+          "file": "stories/female/story_reamker.m4a",
+          "sha256": "d8c58ac612497b62a3a18a593eb109bcec5d8c1f8b3465d80fd8bd4816bf51c6",
+          "size": 507092
+        },
+        "male": {
+          "file": "stories/male/story_reamker.m4a",
+          "sha256": "5f67ff216659c80b99544d57328fe337dd8166b8dc2cceebfba8181de9b9a0c7",
+          "size": 486531
+        }
+      },
+      {
+        "id": "twelvesisters",
+        "group": "classics",
+        "title": "The Twelve Sisters",
+        "khmer": "\u1793\u17b6\u1784\u178a\u1794\u17cb\u1796\u17b8\u179a",
+        "say": "\u1793\u17b6\u1784\u178a\u1794\u17cb\u1796\u17b8\u179a;\u1793\u17b6\u1784\u1791\u17b6\u17c6\u1784\u178a\u1794\u17cb\u1796\u17b8\u179a",
+        "secs": 90,
+        "female": {
+          "file": "stories/female/story_twelvesisters.m4a",
+          "sha256": "67c586639a6edb5b756023123888b043af5afc46b4ab3975ddb92a8067398643",
+          "size": 562025
+        },
+        "male": {
+          "file": "stories/male/story_twelvesisters.m4a",
+          "sha256": "03cf50dcf604d54bf888b1d357e94a95ac3038795736164eb381d95f8f65c044",
+          "size": 553634
+        }
+      },
+      {
+        "id": "kangrei",
+        "group": "classics",
+        "title": "Puthisen and Neang Kangrei",
+        "khmer": "\u1796\u17bb\u1791\u17d2\u1792\u17b7\u179f\u17c2\u1793 \u1793\u17b6\u1784\u1780\u1784\u17d2\u179a\u17b8",
+        "say": "\u1793\u17b6\u1784\u1780\u1784\u17d2\u179a\u17b8;\u1796\u17bb\u1791\u17d2\u1792\u17b7\u179f\u17c2\u1793",
+        "secs": 102,
+        "female": {
+          "file": "stories/female/story_kangrei.m4a",
+          "sha256": "ca9b722741d6981d04cb0fd0e98c75b59507f19399d38cce12d85d4cd7e8c3de",
+          "size": 636921
+        },
+        "male": {
+          "file": "stories/male/story_kangrei.m4a",
+          "sha256": "2c81517584637393a8e67cdeb4da75250555070f00bcd330ace183ab8c365662",
+          "size": 620582
+        }
+      },
+      {
+        "id": "vorvong",
+        "group": "classics",
+        "title": "Vorvong and Sorvong",
+        "khmer": "\u179c\u179a\u179c\u1784\u17d2\u179f \u179f\u17bc\u179a\u179c\u1784\u17d2\u179f",
+        "say": "",
+        "secs": 81,
+        "female": {
+          "file": "stories/female/story_vorvong.m4a",
+          "sha256": "7f68187eb5557bf7b2bca73e60e8f2c54319c4ed0c7bbd3a98744689ab78405e",
+          "size": 512100
+        },
+        "male": {
+          "file": "stories/male/story_vorvong.m4a",
+          "sha256": "1edbb97a29c869cc7a70a6dc85f919dc12b303eb40bf4bf17a045577aba31929",
+          "size": 503108
+        }
+      },
+      {
+        "id": "kakey",
+        "group": "classics",
+        "title": "Neang Kakey",
+        "khmer": "\u1793\u17b6\u1784\u1780\u17b6\u1780\u17b8",
+        "say": "",
+        "secs": 81,
+        "female": {
+          "file": "stories/female/story_kakey.m4a",
+          "sha256": "7919e8d6d27cc682c5c2628b128e97536920393873dadd5aeaea633cf8dfe568",
+          "size": 509307
+        },
+        "male": {
+          "file": "stories/male/story_kakey.m4a",
+          "sha256": "5c36e607419e3cdb2fe9debb1e2f1ea31a9b987a8e63f14d4ea47739e222ad22",
+          "size": 504995
+        }
+      },
+      {
+        "id": "khyangsankh",
+        "group": "classics",
+        "title": "Khyang Sankh, the Prince in the Conch Shell",
+        "khmer": "\u1781\u17d2\u1799\u1784\u179f\u1784\u17d2\u1781",
+        "say": "",
+        "secs": 92,
+        "female": {
+          "file": "stories/female/story_khyangsankh.m4a",
+          "sha256": "cf1707da167315505e2190c82f95bb7e88078968e7b36f2fbacf7a8c2f32bbc7",
+          "size": 581433
+        },
+        "male": {
+          "file": "stories/male/story_khyangsankh.m4a",
+          "sha256": "f8e193e1e5b3a2b7759e724e89c104bd998e425462cd0d833812c43f60bcbfe5",
+          "size": 575692
+        }
+      },
+      {
+        "id": "rabbitcroc",
+        "group": "wit",
+        "title": "Judge Rabbit and the Crocodile",
+        "khmer": "\u179f\u1797\u17b6\u1791\u1793\u17d2\u179f\u17b6\u1799 \u1793\u17b7\u1784\u1780\u17d2\u179a\u1796\u17be",
+        "say": "\u1791\u1793\u17d2\u179f\u17b6\u1799\u1793\u17b7\u1784\u1780\u17d2\u179a\u1796\u17be",
+        "secs": 91,
+        "female": {
+          "file": "stories/female/story_rabbitcroc.m4a",
+          "sha256": "6f6855cb445b66ae010a83441da481170443d48534c3a2a5c76354a1e24fcb41",
+          "size": 578353
+        },
+        "male": {
+          "file": "stories/male/story_rabbitcroc.m4a",
+          "sha256": "1537b7665f6d277306913db5e05e9377c95e1687581e3c07025bcac38fc5dc71",
+          "size": 567503
+        }
+      },
+      {
+        "id": "rabbitspirit",
+        "group": "wit",
+        "title": "Judge Rabbit and the Tree Spirit",
+        "khmer": "\u179f\u1797\u17b6\u1791\u1793\u17d2\u179f\u17b6\u1799 \u1793\u17b7\u1784\u17a2\u17b6\u179a\u1780\u17d2\u179f\u178a\u17be\u1798\u1788\u17be",
+        "say": "\u1791\u1793\u17d2\u179f\u17b6\u1799\u1793\u17b7\u1784\u17a2\u17b6\u179a\u1780\u17d2\u179f",
+        "secs": 81,
+        "female": {
+          "file": "stories/female/story_rabbitspirit.m4a",
+          "sha256": "a3ddfb3206e86761f00faa3b349ee8a90ac9745359bb51c2d4389497838f5950",
+          "size": 509092
+        },
+        "male": {
+          "file": "stories/male/story_rabbitspirit.m4a",
+          "sha256": "9bfcf0d085066206e4fcbbfc29a2b793ffada9706c5d46856dff1e0dc991029f",
+          "size": 499783
+        }
+      },
+      {
+        "id": "rabbitsnail",
+        "group": "wit",
+        "title": "The Rabbit and the Snail",
+        "khmer": "\u1791\u1793\u17d2\u179f\u17b6\u1799 \u1793\u17b7\u1784\u1781\u17d2\u1799\u1784",
+        "say": "",
+        "secs": 80,
+        "female": {
+          "file": "stories/female/story_rabbitsnail.m4a",
+          "sha256": "f3c84a630e8714dd4527159754e73a831a4db652e87ba6e40c28bec4d94284c2",
+          "size": 492506
+        },
+        "male": {
+          "file": "stories/male/story_rabbitsnail.m4a",
+          "sha256": "a9f0d9768c42fe8c06fe8c8529e11fd4e4a6dfb3a7dbcd6fe87c9c9d6d99d40f",
+          "size": 482864
+        }
+      },
+      {
+        "id": "thmenhchey",
+        "group": "wit",
+        "title": "Thmenh Chey, the Clever Boy",
+        "khmer": "\u1792\u17d2\u1798\u17c1\u1789\u1787\u17d0\u1799",
+        "say": "",
+        "secs": 79,
+        "female": {
+          "file": "stories/female/story_thmenhchey.m4a",
+          "sha256": "f9b266041c76c47e3555aceb3fb7964fc44119fcb78a84fe9f4dbb0a0a6a0275",
+          "size": 490801
+        },
+        "male": {
+          "file": "stories/male/story_thmenhchey.m4a",
+          "sha256": "8059f88c53a6421897f690da4e42eab694d8debaa7882c516a41327037f8214b",
+          "size": 489032
+        }
+      },
+      {
+        "id": "heroncrab",
+        "group": "wit",
+        "title": "The Heron and the Crab",
+        "khmer": "\u1780\u17bb\u1780 \u1793\u17b7\u1784\u1780\u17d2\u178a\u17b6\u1798",
+        "say": "",
+        "secs": 76,
+        "female": {
+          "file": "stories/female/story_heroncrab.m4a",
+          "sha256": "9ab5d05d93fcc01b8131cceaca4702d90da456610954f0f3e1429646169de95f",
+          "size": 479646
+        },
+        "male": {
+          "file": "stories/male/story_heroncrab.m4a",
+          "sha256": "b7f3e7ff93c6c445b2f27276628e615a2770f8e04090b6a67a963547494834e2",
+          "size": 466949
+        }
+      },
+      {
+        "id": "vessantara",
+        "group": "dharma",
+        "title": "Prince Vessantara, the Great Giver",
+        "khmer": "\u1796\u17d2\u179a\u17c7\u179c\u17c1\u179f\u17d2\u179f\u1793\u17d2\u178f\u179a",
+        "say": "\u179c\u17c1\u179f\u17d2\u179f\u1793\u17d2\u178f\u179a;\u1798\u17a0\u17b6\u1787\u17b6\u178f\u1780",
+        "secs": 82,
+        "female": {
+          "file": "stories/female/story_vessantara.m4a",
+          "sha256": "e844a5da4d72b1d94c9af6d027b8fde809b4e340af070f64a6f680c09570a905",
+          "size": 519787
+        },
+        "male": {
+          "file": "stories/male/story_vessantara.m4a",
+          "sha256": "754443ceff4bf1138f959995156681787d8b9160204469092190b299383fa0a8",
+          "size": 504594
+        }
+      },
+      {
+        "id": "sovannsam",
+        "group": "dharma",
+        "title": "Sovann Sam, the Faithful Son",
+        "khmer": "\u179f\u17bb\u179c\u178e\u17d2\u178e\u179f\u17b6\u1798",
+        "say": "",
+        "secs": 94,
+        "female": {
+          "file": "stories/female/story_sovannsam.m4a",
+          "sha256": "e883a08a613361898b927b01524293a4de65f435ba286cfe3e5cddf41196ced8",
+          "size": 596697
+        },
+        "male": {
+          "file": "stories/male/story_sovannsam.m4a",
+          "sha256": "f82f37d9ed11b76bf55965a6107f1619d9b111da4f32cc4da08ea584392dd278",
+          "size": 579600
+        }
+      },
+      {
+        "id": "pchumben",
+        "group": "dharma",
+        "title": "The Story of Pchum Ben",
+        "khmer": "\u179a\u17bf\u1784\u1794\u17bb\u178e\u17d2\u1799\u1797\u17d2\u1787\u17bb\u17c6\u1794\u17b7\u178e\u17d2\u178c",
+        "say": "\u1797\u17d2\u1787\u17bb\u17c6\u1794\u17b7\u178e\u17d2\u178c",
+        "secs": 84,
+        "female": {
+          "file": "stories/female/story_pchumben.m4a",
+          "sha256": "37dce713095033a229e0dce72234ba7ed14e0ec8c0a20f09b325773d116bf68a",
+          "size": 532521
+        },
+        "male": {
+          "file": "stories/male/story_pchumben.m4a",
+          "sha256": "5a4d1c7c8d7939a6d5e9d21aecfcac98f5d6c98bbf7cc651823eab58b3f30dd2",
+          "size": 518326
+        }
       }
     ]
   },
@@ -828,6 +1113,7 @@
         "id": "itipiso",
         "title": "Iti pi so",
         "khmer": "\u17a5\u178f\u17b7\u1794\u17b7\u179f\u17c4",
+        "say": "\u17a5\u178f\u17b7\u1794\u17b7\u179f\u17c4;\u17a2\u17b7\u178f\u17b7\u1796\u17b7\u179f\u17c4;\u1792\u1798\u17cc\u17a5\u178f\u17b7\u1794\u17b7\u179f\u17c4",
         "secs": 412,
         "credit": "PaliChanting.org \u00b7 Internet Archive \u00b7 CC BY-ND 4.0",
         "file": "chanting/chant_itipiso.mp3",
@@ -882,31 +1168,31 @@
       "versionCode": 1068880528,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
       "file": "app.morphe.android.apps.maps.v1068880528.apk",
-      "url": "https://drive.usercontent.google.com/download?id=1Tzn8XFuGWc2eNKQ7WeBM4atzH5fdO30L&export=download&confirm=t",
+      "url": "https://drive.usercontent.google.com/download?id=1XvsS0g5RSGUlet-TU7ltgEgO-ycu_wrF&export=download&confirm=t",
       "size": 183767206,
       "sha256": "fb1346e8c65fe7f934df9ae6b01253453de8433dd7a5408dc3b6e297096fd6b6"
     },
     {
       "package": "app.morphe.android.apps.youtube.music",
       "label": "Morphe YT Music",
-      "versionName": "9.30.53.SP.3",
-      "versionCode": 93053243,
+      "versionName": "9.30.53.SP.8",
+      "versionCode": 93053248,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
-      "file": "app.morphe.android.apps.youtube.music.v93053243.apk",
-      "url": "https://drive.usercontent.google.com/download?id=1oG9CryEJ9CExPo2OO4O_KMxBcrVqSIjH&export=download&confirm=t",
+      "file": "app.morphe.android.apps.youtube.music.v93053248.apk",
+      "url": "https://drive.usercontent.google.com/download?id=1gH0fTm5TLbR7R5vAMPbYzNlZyljnOGBH&export=download&confirm=t",
       "size": 81366514,
-      "sha256": "f4ffdc64fc8d0fe8113f03683ac030a537cc311d069095319fbfc4c66adc7025"
+      "sha256": "c4ee53424bda963f4902cd5a95424a8e9d279f1522e65e83b72e02d8aec786c0"
     },
     {
       "package": "app.morphe.android.youtube",
       "label": "Morphe YouTube",
-      "versionName": "21.23.492.SP.4",
-      "versionCode": 1561177005,
+      "versionName": "21.23.492.SP.8",
+      "versionCode": 1561177009,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
-      "file": "app.morphe.android.youtube.v1561177005.apk",
-      "url": "https://drive.usercontent.google.com/download?id=1TThrBjDQPtJYJ5fJxS7jYjwUjoDw-UVl&export=download&confirm=t",
-      "size": 114835424,
-      "sha256": "8ff553049126e04954a80877ce6eed3f9ef741b84316d5f7249298debcbd2888"
+      "file": "app.morphe.android.youtube.v1561177009.apk",
+      "url": "https://drive.usercontent.google.com/download?id=1Oflth5j9xtbl5wDE0c4CNGEbn58bFtq0&export=download&confirm=t",
+      "size": 114839520,
+      "sha256": "8bbd85b34abca82997b6c91a4756e91c58dc3e04724ead47f37a5f33cbc0b038"
     }
   ],
   "optional": [
@@ -921,6 +1207,17 @@
     }
   ],
   "external": [
+    {
+      "package": "com.music.bitchord",
+      "label": "BitChord",
+      "versionName": "1.9.1.SP",
+      "versionCode": 39,
+      "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
+      "file": "com.music.bitchord.v39.apk",
+      "url": "https://drive.usercontent.google.com/download?id=1hdpevFqnsuV_dIHyWb2qN1xWfjLkZRyL&export=download&confirm=t",
+      "size": 89822720,
+      "sha256": "5e748334eb57f88f8c84d9094cd8902af40c04ec32bf4b87c44a52dd47f14eaf"
+    },
     {
       "package": "app.netmirror.newtv",
       "label": "NetMirrorTV",
