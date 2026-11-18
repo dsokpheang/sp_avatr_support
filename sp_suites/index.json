@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-18T16:43:55Z",
+  "generated": "2026-11-18T17:00:58Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
@@ -1210,13 +1210,13 @@
     {
       "package": "com.music.bitchord",
       "label": "BitChord",
-      "versionName": "1.9.1.SP",
-      "versionCode": 39,
+      "versionName": "1.9.1.SP.1",
+      "versionCode": 40,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
-      "file": "com.music.bitchord.v39.apk",
-      "url": "https://drive.usercontent.google.com/download?id=1hdpevFqnsuV_dIHyWb2qN1xWfjLkZRyL&export=download&confirm=t",
+      "file": "com.music.bitchord.v40.apk",
+      "url": "https://drive.usercontent.google.com/download?id=1wFCYOH_GVXZTy40_4zYnZrdmAF7Lo-cr&export=download&confirm=t",
       "size": 89822720,
-      "sha256": "5e748334eb57f88f8c84d9094cd8902af40c04ec32bf4b87c44a52dd47f14eaf"
+      "sha256": "aab568cbad72a890e2393c2c0db5832585f6ec9148ca86e108201e91efa0a9e2"
     },
     {
       "package": "app.netmirror.newtv",
