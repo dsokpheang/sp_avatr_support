@@ -5,6 +5,7 @@
  "patience": 3,
  "window": 4,
  "threshold": {"low": 0.99, "normal": 0.95, "high": 0.9},
+ "verifier": {"enabled": false, "frames": 16, "threshold": {"low": 0.5, "normal": 0.6, "high": 0.7}},
  "trained": "2026-10-24",
  "test_hours": 10.5,
  "measured": "round 2 head, re-tuned 2026-11-03: 3 frames in a row (4 on 2026-11-02 went deaf on the car: 'near miss: best score 0.998, needs 0.950' — one dip in the phrase reset the run, owner needed 2 tries) — held out, streamed, 10.5 h: false wakes/h 0.19 / 0.19 / 0.32 (low/normal/high; speakers alone 0 / 0 / 0); recall clean 95.5 / 96.1 / 96.5 %, road 5 dB 98.2 / 98.5 / 98.8 %, cabin 5 dB 86.9 / 88.1 / 88.6 %, សួស្តី Avatar 68.9 / 82.2 / 82.2 %. 2026-11-19: window 4 = 3 of the last 4 frames (Kit with WakeNet.window; an older Kit ignores it and keeps 3 in a row) — fleet near misses at 0.95+ (161 of 396); on 144 macOS-voice clips + 11.7 h LibriSpeech test-clean/other (road 10 dB on half), Normal: soft voice at 0 dB 83.3 → 84.0 %, mean of 4 noisy cases 89.9 → 90.3 %, false wakes the same (4 in 11.7 h). 2 of 2 / 2 of 3 gained ~3 pts but tripled false wakes (12) — not used"
