@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-11-18T17:08:03Z",
+  "generated": "2026-11-18T17:23:28Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.4.2",
-      "versionCode": 605,
-      "file": "sp.avatr.kit.v1.4.2.605.apk",
+      "versionName": "1.4.3",
+      "versionCode": 606,
+      "file": "sp.avatr.kit.v1.4.3.606.apk",
       "size": 4395591,
-      "sha256": "8b46908a5a2b45adfbf21176157d5660fa0a9653b12d597036eb32b2107d2065"
+      "sha256": "015f4df7cf21c58ced6bbe68f315ff9287b345b3229d78d0aaa19c1d3098e940"
     },
     {
       "package": "com.sp.cast",
@@ -102,7 +102,7 @@
   "voice": {
     "endpoint": "https://api.cadt.edu.kh/api/asr/",
     "wake": {
-      "version": "2026-10-24-c270b22c36ec",
+      "version": "2026-10-24-c270b22c2a4b",
       "files": {
         "wake.bin": {
           "file": "wake/wake.bin",
@@ -111,8 +111,8 @@
         },
         "hi_avatar.json": {
           "file": "wake/hi_avatar.json",
-          "sha256": "36ec855dabba54487056b56dba9ca2285344cb9f13814246d83f7b23937b7ab4",
-          "size": 700
+          "sha256": "2a4b771d6379ebb323e2dd2453729991e20a1c644b9ab7d3e8d6fc7dc88d31f5",
+          "size": 1154
         }
       }
     },
