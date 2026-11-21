@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-21T17:42:57Z",
+  "generated": "2026-11-21T17:51:57Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
@@ -1164,35 +1164,35 @@
     {
       "package": "app.morphe.android.apps.maps",
       "label": "Morphe Maps",
-      "versionName": "26.46.00.1016872485.SP.22",
-      "versionCode": 1068880528,
+      "versionName": "26.46.00.1016872485.SP.23",
+      "versionCode": 1068880529,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
-      "file": "app.morphe.android.apps.maps.v1068880528.apk",
-      "url": "https://drive.usercontent.google.com/download?id=1XvsS0g5RSGUlet-TU7ltgEgO-ycu_wrF&export=download&confirm=t",
-      "size": 183767206,
-      "sha256": "fb1346e8c65fe7f934df9ae6b01253453de8433dd7a5408dc3b6e297096fd6b6"
+      "file": "app.morphe.android.apps.maps.v1068880529.apk",
+      "url": "https://drive.usercontent.google.com/download?id=1Qcd56UATd4ia6CA9CCUSMTHpo7FWXABX&export=download&confirm=t",
+      "size": 183771302,
+      "sha256": "8fb67ecbc95f49fadeb23fba7bdbe1314c1393726e4189b81e92799e20092fd9"
     },
     {
       "package": "app.morphe.android.apps.youtube.music",
       "label": "Morphe YT Music",
-      "versionName": "9.30.53.SP.8",
-      "versionCode": 93053248,
+      "versionName": "9.30.53.SP.9",
+      "versionCode": 93053249,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
-      "file": "app.morphe.android.apps.youtube.music.v93053248.apk",
-      "url": "https://drive.usercontent.google.com/download?id=1gH0fTm5TLbR7R5vAMPbYzNlZyljnOGBH&export=download&confirm=t",
+      "file": "app.morphe.android.apps.youtube.music.v93053249.apk",
+      "url": "https://drive.usercontent.google.com/download?id=1T_Jz7XMnAcAFVRoWqK5S-F3lCWHRVAwO&export=download&confirm=t",
       "size": 81366514,
-      "sha256": "c4ee53424bda963f4902cd5a95424a8e9d279f1522e65e83b72e02d8aec786c0"
+      "sha256": "153b2e0ac554c94422f1191504235faad1c57d64867c931f2de7a04acb1eccdb"
     },
     {
       "package": "app.morphe.android.youtube",
       "label": "Morphe YouTube",
-      "versionName": "21.23.492.SP.8",
-      "versionCode": 1561177009,
+      "versionName": "21.23.492.SP.9",
+      "versionCode": 1561177010,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
-      "file": "app.morphe.android.youtube.v1561177009.apk",
-      "url": "https://drive.usercontent.google.com/download?id=1Oflth5j9xtbl5wDE0c4CNGEbn58bFtq0&export=download&confirm=t",
+      "file": "app.morphe.android.youtube.v1561177010.apk",
+      "url": "https://drive.usercontent.google.com/download?id=1TJM_rehbuFxZFvHdHDE5L2S9Pl-qNMOg&export=download&confirm=t",
       "size": 114839520,
-      "sha256": "8bbd85b34abca82997b6c91a4756e91c58dc3e04724ead47f37a5f33cbc0b038"
+      "sha256": "6c01925b3491775e2f68a3b3b28791cb24e9afc1ccad7a1cc3cdebdeabc86200"
     }
   ],
   "optional": [
@@ -1210,13 +1210,13 @@
     {
       "package": "com.music.bitchord",
       "label": "BitChord",
-      "versionName": "1.9.1.SP.4",
-      "versionCode": 43,
+      "versionName": "1.9.1.SP.5",
+      "versionCode": 44,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
-      "file": "com.music.bitchord.v43.apk",
-      "url": "https://drive.usercontent.google.com/download?id=1M2-QUD5T-kcNJ70S7w8C9EQzE0tzCq-Z&export=download&confirm=t",
+      "file": "com.music.bitchord.v44.apk",
+      "url": "https://drive.usercontent.google.com/download?id=1ZtZKyGoQCp7saGQdNhg43RHgfu6Ce4bO&export=download&confirm=t",
       "size": 90150424,
-      "sha256": "01ae78ba52a3a76b0e0ce72f7115d2ecd259686259cda6ceae4c62da8bfa798c"
+      "sha256": "e02adb903acec80a03491566b1b75416348e7bdbaa15327a09ea62efcef6c0e1"
     },
     {
       "package": "app.netmirror.newtv",
