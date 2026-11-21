@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-21T19:46:43Z",
+  "generated": "2026-11-21T20:31:37Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
@@ -50,11 +50,11 @@
     {
       "package": "com.sp.map",
       "label": "SP Map",
-      "versionName": "1.2.7",
-      "versionCode": 190,
-      "file": "sp.map.v1.2.7.190.apk",
-      "size": 2425829,
-      "sha256": "b0302fff2185a85edeb460804b591e8a2e1ff9635b8b7377ab1946715f457669"
+      "versionName": "1.2.9",
+      "versionCode": 192,
+      "file": "sp.map.v1.2.9.192.apk",
+      "size": 2429925,
+      "sha256": "84e401af9d2c8a88c5f81ab4c10dc60f3b7e95c1424bf01a6d2d190457dd28fa"
     },
     {
       "package": "com.sp.media",
