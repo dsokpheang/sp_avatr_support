@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "generated": "2026-11-21T20:31:37Z",
+  "generated": "2026-11-22T08:08:17Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
       "label": "SP Avatr Kit",
-      "versionName": "1.4.10",
-      "versionCode": 613,
-      "file": "sp.avatr.kit.v1.4.10.613.apk",
+      "versionName": "1.4.11",
+      "versionCode": 614,
+      "file": "sp.avatr.kit.v1.4.11.614.apk",
       "size": 4424336,
-      "sha256": "1f4511b4271b6a10c70e38887e5630941d6fc341cd12a48b03575ba2c14ead7d"
+      "sha256": "5c2eb17f74a0001fe82d1e248568cfc4f31b274fcd3b79cce91fe9fe5a2465ae"
     },
     {
       "package": "com.sp.cast",
@@ -239,6 +239,15 @@
         "size": 5855275,
         "preview": "welcomecar/e12.png",
         "preview_sha256": "6dd6743c50bc22b61a85ea4b6fd03b775cfd6f5d94816244a461d713477e8c30"
+      },
+      {
+        "id": "e15",
+        "name": "Avatr 07",
+        "file": "welcomecar/e15.zip",
+        "sha256": "174c7d0d26e35780fd544ae495c82ba8698b1f053b2bd992b26ef11594cd3f25",
+        "size": 5733520,
+        "preview": "welcomecar/e15.png",
+        "preview_sha256": "5feb6fdae4f73f82c00a15a1f93ab4044c021d25d63ef05b9304c865ef1c6218"
       }
     ]
   },
@@ -1164,13 +1173,13 @@
     {
       "package": "app.morphe.android.apps.maps",
       "label": "Morphe Maps",
-      "versionName": "26.46.00.1016872485.SP.23",
-      "versionCode": 1068880529,
+      "versionName": "26.46.00.1016872485.SP.28",
+      "versionCode": 1068880534,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
-      "file": "app.morphe.android.apps.maps.v1068880529.apk",
-      "url": "https://drive.usercontent.google.com/download?id=1Qcd56UATd4ia6CA9CCUSMTHpo7FWXABX&export=download&confirm=t",
-      "size": 183771302,
-      "sha256": "8fb67ecbc95f49fadeb23fba7bdbe1314c1393726e4189b81e92799e20092fd9"
+      "file": "app.morphe.android.apps.maps.v1068880534.apk",
+      "url": "https://drive.usercontent.google.com/download?id=1atRJ7AIz8tyTIg_SRvRDuRL0_kCOv0O1&export=download&confirm=t",
+      "size": 155857062,
+      "sha256": "2195837bdda75d651dd23ccc8e4aa7665a231184d76f850c62f7323f4e81c241"
     },
     {
       "package": "app.morphe.android.apps.youtube.music",
