@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-22T08:08:17Z",
+  "generated": "2026-11-22T17:55:51Z",
   "apps": [
     {
       "package": "com.sp.avatrkit",
@@ -41,20 +41,20 @@
     {
       "package": "com.sp.home",
       "label": "SP Home",
-      "versionName": "1.1.5",
-      "versionCode": 49,
-      "file": "sp.home.v1.1.5.49.apk",
+      "versionName": "1.1.6",
+      "versionCode": 50,
+      "file": "sp.home.v1.1.6.50.apk",
       "size": 214573,
-      "sha256": "9aa7f0f6338d07413edac44cce4b81fe1d76b534dad5cde9a125545166bd1b1d"
+      "sha256": "57bbda17920a9397e5d21b7a206c90f1854e2ef84744bf1923d3553ede76f4fd"
     },
     {
       "package": "com.sp.map",
       "label": "SP Map",
-      "versionName": "1.2.9",
-      "versionCode": 192,
-      "file": "sp.map.v1.2.9.192.apk",
-      "size": 2429925,
-      "sha256": "84e401af9d2c8a88c5f81ab4c10dc60f3b7e95c1424bf01a6d2d190457dd28fa"
+      "versionName": "1.2.18",
+      "versionCode": 201,
+      "file": "sp.map.v1.2.18.201.apk",
+      "size": 2442271,
+      "sha256": "b18bec3ef53f5a74df86afc743ae4867dab0e8dde0e103d2992a09e4b4875247"
     },
     {
       "package": "com.sp.media",
@@ -85,11 +85,11 @@
     }
   ],
   "broker": {
-    "version": "1.4.8",
-    "build": 316,
+    "version": "1.4.16",
+    "build": 324,
     "file": "sp-broker.jar",
-    "size": 272261,
-    "sha256": "6183f8124d8c3e3d610568271a502b8a41ac1c1ead69ef69a370e7c25ddcb8f9"
+    "size": 273731,
+    "sha256": "63188c393c3d77cc1d7719c0de79209b7a7924fc6df9486a9fc0b29e2c5e26f0"
   },
   "tunnel": {
     "file": "cloudflared-arm64.gz",
@@ -1173,13 +1173,13 @@
     {
       "package": "app.morphe.android.apps.maps",
       "label": "Morphe Maps",
-      "versionName": "26.46.00.1016872485.SP.28",
-      "versionCode": 1068880534,
+      "versionName": "26.46.00.1016872485.SP.29",
+      "versionCode": 1068880535,
       "signer": "a6373cccc439d853fcfb80dd6d702d4db3b78f718ed4f4bde4fba2d791046913",
-      "file": "app.morphe.android.apps.maps.v1068880534.apk",
-      "url": "https://drive.usercontent.google.com/download?id=1atRJ7AIz8tyTIg_SRvRDuRL0_kCOv0O1&export=download&confirm=t",
+      "file": "app.morphe.android.apps.maps.v1068880535.apk",
+      "url": "https://drive.usercontent.google.com/download?id=1XIVpeu6erc8V82V-Ygm0Lt0yT7NpgtZD&export=download&confirm=t",
       "size": 155857062,
-      "sha256": "2195837bdda75d651dd23ccc8e4aa7665a231184d76f850c62f7323f4e81c241"
+      "sha256": "96ddd022444ab768fa29843af47864c3dba6962f9e1de5c56858a1c84b48023e"
     },
     {
       "package": "app.morphe.android.apps.youtube.music",
